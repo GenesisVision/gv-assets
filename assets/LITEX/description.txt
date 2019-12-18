@@ -1,0 +1,8 @@
+Name:
+LITEX
+
+Symbol:
+LXT
+
+Tags:
+Crypto

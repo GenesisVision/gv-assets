@@ -1,0 +1,8 @@
+Name:
+Siacoin
+
+Symbol:
+SC
+
+Tags:
+Crypto

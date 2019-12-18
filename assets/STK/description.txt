@@ -1,0 +1,8 @@
+Name:
+STK
+
+Symbol:
+STK
+
+Tags:
+Crypto

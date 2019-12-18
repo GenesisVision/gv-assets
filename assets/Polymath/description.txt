@@ -1,0 +1,8 @@
+Name:
+Polymath
+
+Symbol:
+POLY
+
+Tags:
+Crypto

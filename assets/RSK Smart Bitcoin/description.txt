@@ -1,0 +1,8 @@
+Name:
+RSK Smart Bitcoin
+
+Symbol:
+RBTC
+
+Tags:
+Crypto

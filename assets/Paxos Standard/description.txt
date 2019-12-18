@@ -1,0 +1,8 @@
+Name:
+Paxos Standard
+
+Symbol:
+PAX
+
+Tags:
+Crypto

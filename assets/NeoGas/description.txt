@@ -1,0 +1,8 @@
+Name:
+NeoGas
+
+Symbol:
+GAS
+
+Tags:
+Crypto

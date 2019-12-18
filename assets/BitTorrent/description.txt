@@ -1,0 +1,8 @@
+Name:
+BitTorrent
+
+Symbol:
+BTT
+
+Tags:
+Crypto

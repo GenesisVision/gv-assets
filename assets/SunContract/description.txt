@@ -1,0 +1,8 @@
+Name:
+SunContract
+
+Symbol:
+SNC
+
+Tags:
+Crypto

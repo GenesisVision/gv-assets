@@ -1,0 +1,8 @@
+Name:
+Pundi X
+
+Symbol:
+NPXS
+
+Tags:
+Crypto

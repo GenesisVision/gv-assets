@@ -1,0 +1,8 @@
+Name:
+TrueUSD
+
+Symbol:
+TUSD
+
+Tags:
+Crypto

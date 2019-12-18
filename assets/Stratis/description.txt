@@ -1,0 +1,8 @@
+Name:
+Stratis
+
+Symbol:
+STRAT
+
+Tags:
+Crypto

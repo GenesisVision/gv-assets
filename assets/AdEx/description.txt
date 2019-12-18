@@ -1,0 +1,8 @@
+Name:
+AdEx
+
+Symbol:
+ADX
+
+Tags:
+Crypto

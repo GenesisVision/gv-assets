@@ -1,0 +1,8 @@
+Name:
+Nuls
+
+Symbol:
+NULS
+
+Tags:
+Crypto

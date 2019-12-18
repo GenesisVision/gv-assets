@@ -1,0 +1,8 @@
+Name:
+openANX
+
+Symbol:
+OAX
+
+Tags:
+Crypto

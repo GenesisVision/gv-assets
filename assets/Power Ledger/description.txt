@@ -1,0 +1,8 @@
+Name:
+Power Ledger
+
+Symbol:
+POWR
+
+Tags:
+Crypto

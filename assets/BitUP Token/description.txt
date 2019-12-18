@@ -1,0 +1,8 @@
+Name:
+BitUP Token
+
+Symbol:
+BUT
+
+Tags:
+Crypto

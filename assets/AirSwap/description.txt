@@ -1,0 +1,8 @@
+Name:
+AirSwap
+
+Symbol:
+AST
+
+Tags:
+Crypto

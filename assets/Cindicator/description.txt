@@ -1,0 +1,8 @@
+Name:
+Cindicator
+
+Symbol:
+CND
+
+Tags:
+Crypto

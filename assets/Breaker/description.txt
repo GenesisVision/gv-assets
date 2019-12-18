@@ -1,0 +1,8 @@
+Name:
+Breaker
+
+Symbol:
+SNGLS
+
+Tags:
+Crypto

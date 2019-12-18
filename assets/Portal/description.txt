@@ -1,0 +1,8 @@
+Name:
+Portal
+
+Symbol:
+PORTAL
+
+Tags:
+Crypto

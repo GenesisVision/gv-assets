@@ -1,0 +1,8 @@
+Name:
+SALT
+
+Symbol:
+SALT
+
+Tags:
+Crypto

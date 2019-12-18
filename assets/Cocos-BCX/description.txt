@@ -1,0 +1,8 @@
+Name:
+Cocos-BCX
+
+Symbol:
+COCOS
+
+Tags:
+Crypto

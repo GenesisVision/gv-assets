@@ -1,0 +1,8 @@
+Name:
+Bitcoin SV
+
+Symbol:
+BSV
+
+Tags:
+Crypto

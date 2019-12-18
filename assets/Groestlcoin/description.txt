@@ -1,0 +1,8 @@
+Name:
+Groestlcoin
+
+Symbol:
+GRS
+
+Tags:
+Crypto

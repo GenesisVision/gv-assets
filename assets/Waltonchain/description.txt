@@ -1,0 +1,8 @@
+Name:
+Waltonchain
+
+Symbol:
+WTC
+
+Tags:
+Crypto

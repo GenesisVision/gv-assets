@@ -1,0 +1,8 @@
+Name:
+NavCoin
+
+Symbol:
+NAV
+
+Tags:
+Crypto

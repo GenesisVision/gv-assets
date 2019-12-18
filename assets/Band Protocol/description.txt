@@ -1,0 +1,8 @@
+Name:
+Band Protocol
+
+Symbol:
+BAND
+
+Tags:
+Crypto

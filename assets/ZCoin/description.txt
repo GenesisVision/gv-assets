@@ -1,0 +1,8 @@
+Name:
+ZCoin
+
+Symbol:
+XZC
+
+Tags:
+Crypto

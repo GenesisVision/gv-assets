@@ -1,0 +1,8 @@
+Name:
+BitCapitalVendor
+
+Symbol:
+BCV
+
+Tags:
+Crypto

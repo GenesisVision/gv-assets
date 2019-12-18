@@ -1,0 +1,8 @@
+Name:
+AI Doctor
+
+Symbol:
+AIDOC
+
+Tags:
+Crypto

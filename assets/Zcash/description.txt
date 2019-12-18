@@ -1,0 +1,8 @@
+Name:
+Zcash
+
+Symbol:
+ZEC
+
+Tags:
+Crypto

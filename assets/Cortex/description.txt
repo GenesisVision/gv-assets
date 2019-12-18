@@ -1,0 +1,8 @@
+Name:
+Cortex
+
+Symbol:
+CTXC
+
+Tags:
+Crypto

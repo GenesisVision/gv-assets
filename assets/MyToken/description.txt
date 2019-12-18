@@ -1,0 +1,8 @@
+Name:
+MyToken
+
+Symbol:
+MT
+
+Tags:
+Crypto

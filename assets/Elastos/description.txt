@@ -1,0 +1,8 @@
+Name:
+Elastos
+
+Symbol:
+ELA
+
+Tags:
+Crypto

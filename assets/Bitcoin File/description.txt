@@ -1,0 +1,8 @@
+Name:
+Bitcoin File
+
+Symbol:
+BIFI
+
+Tags:
+Crypto

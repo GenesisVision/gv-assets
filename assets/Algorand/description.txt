@@ -1,0 +1,8 @@
+Name:
+Algorand
+
+Symbol:
+ALGO
+
+Tags:
+Crypto

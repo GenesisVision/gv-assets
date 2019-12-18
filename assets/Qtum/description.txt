@@ -1,0 +1,8 @@
+Name:
+Qtum
+
+Symbol:
+QTUM
+
+Tags:
+Crypto

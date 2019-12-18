@@ -1,0 +1,8 @@
+Name:
+Loopring
+
+Symbol:
+LRC
+
+Tags:
+Crypto

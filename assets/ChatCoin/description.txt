@@ -1,0 +1,8 @@
+Name:
+ChatCoin
+
+Symbol:
+CHAT
+
+Tags:
+Crypto

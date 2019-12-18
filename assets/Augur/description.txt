@@ -1,0 +1,8 @@
+Name:
+Augur
+
+Symbol:
+REP
+
+Tags:
+Crypto

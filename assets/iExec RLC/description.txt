@@ -1,0 +1,8 @@
+Name:
+iExec RLC
+
+Symbol:
+RLC
+
+Tags:
+Crypto

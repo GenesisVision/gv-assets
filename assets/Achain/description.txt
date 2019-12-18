@@ -1,0 +1,8 @@
+Name:
+Achain
+
+Symbol:
+ACT
+
+Tags:
+Crypto

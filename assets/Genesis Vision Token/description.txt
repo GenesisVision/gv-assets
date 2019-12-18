@@ -1,0 +1,18 @@
+Name:
+Genesis Vision Token
+
+Symbol:
+GVT
+
+Description:
+Genesis Vision is the decentralized platform for the private trust management market, built on Blockchain technology and Smart Contracts. We combine exchanges, brokers, traders and investors into a decentralized open and honest network, making the financial market even more global.
+
+Tags:
+Crypto
+
+Links:
+website: https://genesis.vision/
+twitter: https://twitter.com/genesis_vision/
+facebook: https://www.facebook.com/GenesisVisionProject/
+telegram: https://t.me/genesisvision/
+reddit: https://www.reddit.com/r/genesisvision/

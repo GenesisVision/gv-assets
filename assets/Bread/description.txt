@@ -1,0 +1,8 @@
+Name:
+Bread
+
+Symbol:
+BRD
+
+Tags:
+Crypto

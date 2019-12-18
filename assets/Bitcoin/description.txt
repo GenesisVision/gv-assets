@@ -1,0 +1,8 @@
+Name:
+Bitcoin
+
+Symbol:
+BTC
+
+Tags:
+Crypto

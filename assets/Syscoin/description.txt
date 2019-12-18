@@ -1,0 +1,8 @@
+Name:
+Syscoin
+
+Symbol:
+SYS
+
+Tags:
+Crypto

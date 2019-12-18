@@ -1,0 +1,8 @@
+Name:
+GXChain
+
+Symbol:
+GXS
+
+Tags:
+Crypto

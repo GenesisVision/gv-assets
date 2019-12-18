@@ -1,0 +1,8 @@
+Name:
+TomoChain
+
+Symbol:
+TOMO
+
+Tags:
+Crypto

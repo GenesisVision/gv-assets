@@ -1,0 +1,8 @@
+Name:
+Decred
+
+Symbol:
+DCR
+
+Tags:
+Crypto

@@ -1,0 +1,8 @@
+Name:
+DigiByte
+
+Symbol:
+DGB
+
+Tags:
+Crypto

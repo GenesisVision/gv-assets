@@ -1,0 +1,8 @@
+Name:
+TopChain
+
+Symbol:
+TOPC
+
+Tags:
+Crypto

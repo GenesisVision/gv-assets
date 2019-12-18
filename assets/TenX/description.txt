@@ -1,0 +1,8 @@
+Name:
+TenX
+
+Symbol:
+PAY
+
+Tags:
+Crypto

@@ -1,0 +1,8 @@
+Name:
+Stellar
+
+Symbol:
+XLM
+
+Tags:
+Crypto

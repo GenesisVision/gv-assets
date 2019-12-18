@@ -1,0 +1,8 @@
+Name:
+Aave
+
+Symbol:
+LEND
+
+Tags:
+Crypto

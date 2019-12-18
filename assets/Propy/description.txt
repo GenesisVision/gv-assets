@@ -1,0 +1,8 @@
+Name:
+Propy
+
+Symbol:
+PROPY
+
+Tags:
+Crypto

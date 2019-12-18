@@ -1,0 +1,8 @@
+Name:
+AppCoins
+
+Symbol:
+APPC
+
+Tags:
+Crypto

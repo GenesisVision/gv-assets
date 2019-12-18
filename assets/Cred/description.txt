@@ -1,0 +1,8 @@
+Name:
+Cred
+
+Symbol:
+LBA
+
+Tags:
+Crypto

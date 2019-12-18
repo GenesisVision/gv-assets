@@ -1,0 +1,8 @@
+Name:
+CVCoin
+
+Symbol:
+CVCOIN
+
+Tags:
+Crypto

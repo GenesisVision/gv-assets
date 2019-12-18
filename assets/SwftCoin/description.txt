@@ -1,0 +1,8 @@
+Name:
+SwftCoin
+
+Symbol:
+SWFTC
+
+Tags:
+Crypto

@@ -1,0 +1,8 @@
+Name:
+Bancor
+
+Symbol:
+BNT
+
+Tags:
+Crypto

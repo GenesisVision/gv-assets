@@ -1,0 +1,8 @@
+Name:
+Quantstamp
+
+Symbol:
+QSP
+
+Tags:
+Crypto

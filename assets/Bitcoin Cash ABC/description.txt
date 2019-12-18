@@ -1,0 +1,8 @@
+Name:
+Bitcoin Cash ABC
+
+Symbol:
+BCH
+
+Tags:
+Crypto

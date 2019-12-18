@@ -1,0 +1,8 @@
+Name:
+Litecoin
+
+Symbol:
+LTC
+
+Tags:
+Crypto

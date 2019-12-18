@@ -1,0 +1,8 @@
+Name:
+StableUSD
+
+Symbol:
+USDS
+
+Tags:
+Crypto

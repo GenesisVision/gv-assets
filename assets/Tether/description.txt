@@ -1,0 +1,8 @@
+Name:
+Tether
+
+Symbol:
+USDT
+
+Tags:
+Crypto

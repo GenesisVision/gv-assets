@@ -1,0 +1,8 @@
+Name:
+DATA
+
+Symbol:
+DTA
+
+Tags:
+Crypto

@@ -1,0 +1,8 @@
+Name:
+Huobi Pool Token
+
+Symbol:
+HPT
+
+Tags:
+Crypto

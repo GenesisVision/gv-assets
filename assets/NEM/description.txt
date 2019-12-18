@@ -1,0 +1,8 @@
+Name:
+NEM
+
+Symbol:
+XEM
+
+Tags:
+Crypto

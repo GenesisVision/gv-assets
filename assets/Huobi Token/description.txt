@@ -1,0 +1,8 @@
+Name:
+Huobi Token
+
+Symbol:
+HT
+
+Tags:
+Crypto

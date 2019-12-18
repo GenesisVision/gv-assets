@@ -1,0 +1,8 @@
+Name:
+Binance Coin
+
+Symbol:
+BNB
+
+Tags:
+Crypto

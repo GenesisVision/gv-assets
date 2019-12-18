@@ -1,0 +1,8 @@
+Name:
+USD Coin
+
+Symbol:
+USDC
+
+Tags:
+Crypto

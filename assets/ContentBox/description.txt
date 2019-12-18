@@ -1,0 +1,8 @@
+Name:
+ContentBox
+
+Symbol:
+BOX
+
+Tags:
+Crypto

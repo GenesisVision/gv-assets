@@ -1,0 +1,8 @@
+Name:
+MIOTA
+
+Symbol:
+IOTA
+
+Tags:
+Crypto

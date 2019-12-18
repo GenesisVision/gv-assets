@@ -1,0 +1,8 @@
+Name:
+Medicalchain
+
+Symbol:
+MTN
+
+Tags:
+Crypto

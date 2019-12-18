@@ -1,0 +1,8 @@
+Name:
+BnkToTheFuture
+
+Symbol:
+BFT
+
+Tags:
+Crypto

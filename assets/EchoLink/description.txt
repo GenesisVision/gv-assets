@@ -1,0 +1,8 @@
+Name:
+EchoLink
+
+Symbol:
+EKO
+
+Tags:
+Crypto

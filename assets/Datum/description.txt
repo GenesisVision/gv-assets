@@ -1,0 +1,8 @@
+Name:
+Datum
+
+Symbol:
+DAT
+
+Tags:
+Crypto

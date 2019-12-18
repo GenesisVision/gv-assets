@@ -1,0 +1,8 @@
+Name:
+BitcoinX
+
+Symbol:
+BCX
+
+Tags:
+Crypto

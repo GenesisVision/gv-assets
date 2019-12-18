@@ -1,0 +1,8 @@
+Name:
+Cardano
+
+Symbol:
+ADA
+
+Tags:
+Crypto

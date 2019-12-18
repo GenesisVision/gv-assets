@@ -1,0 +1,8 @@
+Name:
+Ethereum
+
+Symbol:
+ETH
+
+Tags:
+Crypto

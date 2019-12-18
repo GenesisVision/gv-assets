@@ -1,0 +1,8 @@
+Name:
+Monero
+
+Symbol:
+XMR
+
+Tags:
+Crypto

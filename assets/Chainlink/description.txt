@@ -1,0 +1,8 @@
+Name:
+Chainlink
+
+Symbol:
+LINK
+
+Tags:
+Crypto

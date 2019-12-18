@@ -1,0 +1,8 @@
+Name:
+MediShares
+
+Symbol:
+MDS
+
+Tags:
+Crypto

@@ -1,0 +1,8 @@
+Name:
+Metal
+
+Symbol:
+MTL
+
+Tags:
+Crypto
