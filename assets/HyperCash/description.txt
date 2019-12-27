@@ -4,5 +4,15 @@ HyperCash
 Symbol:
 HC
 
+Description:
+Hcash is a decentralised and open-source cross-platform cryptocurrency and is designed to facilitate the exchange of information between blockchains and non-blockchain networks. The HCASH ecosystem will consist of two chains that include the HyperCash (HC) main chain and the HyperExchange (HX) chain that is derived from the mainchain but will work towards bridging communication between blockchains including BTC, ETH and others, and non-blockchains such as DAGs.
+
 Tags:
 Crypto
+
+Links:
+website: https://h.cash/
+twitter: https://twitter.com/HcashOfficial
+facebook: https://www.facebook.com/HcashOfficial/
+telegram: t.me/HcashOfficialEnglish/
+reddit: https://www.reddit.com/r/hcash/

@@ -4,5 +4,13 @@ Bitcoin File
 Symbol:
 BIFI
 
+Description:
+BitcoinFile(BIFI) is a point-to-point distributed file system based on blockchain technology and it aims to create a global decentralized file system combined with IPFS file system and bitcoin settlement network. The combined technology makes it more environmentally friend for the world, more fair and more rewarding for miners, more reliable and easier-to-use for users.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.bitcoinfile.org/en/
+twitter: https://twitter.com/BitcoinFile
+facebook: https://www.facebook.com/file.bitcoin

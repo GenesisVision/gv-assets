@@ -4,5 +4,13 @@ Paxos Standard
 Symbol:
 PAX
 
+Description:
+Paxos Standard™ is the world's first regulated crypto asset. The Paxos Standard token is fully collateralized 1:1 by the U.S. dollar, issued by the Paxos Trust Company, and approved and regulated by the New York State Department of Financial Services. Dollar deposits used to purchase PAX from Paxos.com are always held in segregated accounts at multiple FDIC-insured U.S.-domiciled banks. Verified Paxos customers can purchase and redeem tokens directly through Paxos.com on a 1:1 basis with USD. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.paxos.com/pax/
+twitter: https://twitter.com/paxosglobal
+facebook: https://www.facebook.com/paxosglobal/

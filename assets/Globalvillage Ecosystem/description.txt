@@ -4,5 +4,14 @@ Globalvillage Ecosystem
 Symbol:
 GVE
 
+Description:
+GVE (Globalvillage Eco Token) is a tokens system running on the block-chain of the new digital cryptographic currency protocol, specifically for Globalvillage-compliant networks and distributed programs.
+
 Tags:
 Crypto
+
+Links:
+website: http://gve.io/
+twitter: https://twitter.com/gv_eco
+facebook: https://www.facebook.com/andy.hu.16547008
+telegram: https://t.me/joinchat/F6WYchK6kffSxKq9HsNkBg

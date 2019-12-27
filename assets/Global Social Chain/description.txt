@@ -4,5 +4,15 @@ Global Social Chain
 Symbol:
 GSC
 
+Description:
+GSC (Global Social Chain) is the world's first new generation of social networking chain that owns hundreds of millions of social users. This social chain is determined to use block chain technology to subvert centralized social networks such as Facebook, WeChat, etc., which plays a dual role as "manager" and "arbiter" simultaneously for the former social networking platforms.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.gsc.social/
+twitter: https://twitter.com/gsc_socialchain
+facebook: https://www.facebook.com/GSCCoin
+telegram: https://t.me/gsc_official
+reddit: https://www.reddit.com/user/GSCOfficial

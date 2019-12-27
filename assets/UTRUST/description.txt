@@ -4,5 +4,15 @@ UTRUST
 Symbol:
 UTK
 
+Description:
+The UTRUST platform aims to provide the consumer protection that buyers take for granted in traditional online purchases, acting as a mediator, resolving conflicts and enabling the possibility of refunds to mitigate fraud, while shielding the merchant from crypto-market volatility. We want to build upon the best features of cryptocurrencies to enable fast transactions, lower fees and low cross-border transaction friction, enabling merchants to sell to a growing worldwide audience of crypto-holders.
+
 Tags:
 Crypto
+
+Links:
+website: https://utrust.com/
+twitter: https://twitter.com/UTRUST
+facebook: https://www.facebook.com/utrust.io/
+telegram: https://t.me/utrustofficial
+reddit: https://www.reddit.com/r/UTRUST_Official/

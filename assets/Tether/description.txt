@@ -4,5 +4,13 @@ Tether
 Symbol:
 USDT
 
+Description:
+Tether (USDT) is the most popular and liquid stablecoin in the crypto-currency ecosystem. It is a token that was first issued on the Bitcoin blockchain using the Omni Layer platform, however it has since been launched as a token on various other blockchains (Ethereum, Tron, EOS and Algorand). Each token represents a claim (redeemable) against a single fiat US dollar held by Tether (the company). 
+
 Tags:
 Crypto
+
+Links:
+website: https://tether.to/
+twitter: https://twitter.com/Tether_to/
+facebook: https://www.facebook.com/tether.to

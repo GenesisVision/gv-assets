@@ -4,5 +4,14 @@ YOYOW
 Symbol:
 YOYO
 
+Description:
+YOYOW is a Blockchain-based social media platform, YOYOW intends to become the blockchain version of Facebook, Quora and Zhihu, it uses a new consensus algorithm – PoF (proof of flow) to reward content creators, curators and third party platforms. YOYO token is a type of token for rewarding content creators in YOYOW platform.
+
 Tags:
 Crypto
+
+Links:
+website: https://yoyow.org/
+twitter: https://twitter.com/InfoYoyow
+telegram: https://t.me/HelloYOYOW
+reddit: https://www.reddit.com/r/YOYOW/

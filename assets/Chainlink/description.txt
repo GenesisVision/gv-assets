@@ -4,5 +4,14 @@ Chainlink
 Symbol:
 LINK
 
+Description:
+Chainlink (LINK) is a decentralized network that provides information (oracles) to smart contracts. Smart contracts are designed to execute automatically when certain paramenters are met, however, when these parameters exist off-chain there is a reliance on sources of information (known as oracles) to provide the necessary information. ChainLink aims to break this reliance by feeding information to smart contracts via a network of decentralized oracles. The ChainLink network allows users who have either a data feed or information carrying APIs to easily provide information to smart-contracts in exchange for the LINK token. 
+
 Tags:
 Crypto
+
+Links:
+website: https://chain.link/
+twitter: https://twitter.com/smart_contract
+telegram: https://t.me/chainlinkofficial
+reddit: https://www.reddit.com/r/Chainlink/

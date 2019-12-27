@@ -4,5 +4,14 @@ Populous
 Symbol:
 PPT
 
+Description:
+Populous is an invoice and trade finance platform built on the Ethereum blockchain. Populous uses XBRL, Smart Contracts, Stable pegged tokens and more to create a unique global trading environment for investors and sellers to trade invoices from all around the world.
+
 Tags:
 Crypto
+
+Links:
+website: https://populous.world/
+twitter: https://twitter.com/BitPopulous
+facebook: https://www.facebook.com/populousworld
+telegram: https://t.me/populous

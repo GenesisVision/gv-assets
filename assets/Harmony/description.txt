@@ -4,5 +4,13 @@ Harmony
 Symbol:
 ONE
 
+Description:
+Harmony is a fast and secure blockchain with key innovations in state sharding and peer-to-peer networking. Harmony helps businesses build marketplaces of fungible tokens (such as energy credits and loyalty points) and non-fungible assets (such as game collectibles and real estate). Harmony is applying zero-knowledge proofs for data sharing while preserving the consumer’s privacy. Common industry use cases include ad exchanges, credit ratings and many other data consortia.
+
 Tags:
 Crypto
+
+Links:
+website: https://harmony.one/
+twitter: https://twitter.com/harmonyprotocol
+telegram: https://t.me/harmony_one

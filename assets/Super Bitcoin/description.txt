@@ -4,5 +4,14 @@ Super Bitcoin
 Symbol:
 SBTC
 
+Description:
+Super Bitcoin (SBTC) is a proposed development to Bitcoin. The official development team’s website describes SBTC as “an experiment, trying to execute promising solutions that the community has been proposing.” Super Bitcoin wants to apply all of these changes into Bitcoin, making it a “Super Bitcoin”. SBTC launched on 17 December 2017 at block 498888.
+
 Tags:
 Crypto
+
+Links:
+website: http://superbtc.org/
+twitter: https://twitter.com/superbtcorg?lang=en
+facebook: https://business.facebook.com/SBTC-1494328043999669
+telegram: https://t.me/superbitcoinofficial

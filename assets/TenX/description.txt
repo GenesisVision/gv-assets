@@ -4,5 +4,14 @@ TenX
 Symbol:
 PAY
 
+Description:
+TenX is a Singapore-based blockchain company that makes cryptocurrencies spendable on-the-go. The TenX Product Suite consists of the TenX Card, TenX Wallet, TenX PAY Token and TENX Rewards Token. The card and wallet allow users to spend their cryptocurrencies in a simple and safe way, in almost 200 countries at over 42 million Visa points of acceptance online and offline. It also gives people the opportunity to make everyday purchases and withdraw money from ATMs.
+
 Tags:
 Crypto
+
+Links:
+website: https://tenx.tech/en/
+twitter: https://twitter.com/tenxwallet
+telegram: https://t.me/genesisvision/
+reddit: https://www.reddit.com/r/TenX/

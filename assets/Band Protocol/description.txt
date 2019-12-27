@@ -4,5 +4,12 @@ Band Protocol
 Symbol:
 BAND
 
+Description:
+Band Protocol offers a decentralized data oracle by making data readily available to be queried on-chain, using delegated proof of stake ("dPoS") to ensure data integrity.
+
 Tags:
 Crypto
+
+Links:
+website: https://bandprotocol.com/
+telegram: https://t.me/joinchat/E48nA06UIBFmNsE9OaDusQ

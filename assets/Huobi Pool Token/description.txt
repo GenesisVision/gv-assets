@@ -4,5 +4,14 @@ Huobi Pool Token
 Symbol:
 HPT
 
+Description:
+Huobi Pool Token is the cryptocurrency of the Huobi Pool - an exchange platform and a news aggregator with a particular focus on the Chinese market, allowing its users to create a community-driven framework not only for trading the cryptocurrencies they hold, but also to teach novice users about the ins and outs of the crypto world. When a noobie asks a certain question, the users around the platform will get a chance to answer them, giving a full, detailed, lucid response, that would allow a new user to gain more appreciation of the crypto world and community, and, based on the rating given, the expert will receive an appropriate amount of tokens, which they can trade or amass then.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.huobipool.com/
+twitter: https://twitter.com/HuobiGlobal
+facebook: https://www.facebook.com/pool.huobi.7
+telegram: https://t.me/joinchat/IIM1LRITqjScyUEKpZNedQ

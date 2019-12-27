@@ -4,5 +4,14 @@ Storm
 Symbol:
 STORM
 
+Description:
+StormX, Inc. is the creator of Storm Play, a mobile app that uses blockchain technology to match people with tasks, letting them complete small gigs in five minutes or less, from any mobile device, anywhere in the world, and be rewarded in cryptocurrency. The platform is designed to feel more like a game than actual work, and the more you interact with content and different products and services, the higher your cryptocurrency rewards. 
+
 Tags:
 Crypto
+
+Links:
+website: https://chrome.google.com/webstore/detail/stormshop/mhhgjpidhclpobhkdnlopdfhfamalnia
+twitter: https://twitter.com/Storm_Token
+facebook: https://www.facebook.com/stormtoken
+telegram: https://t.me/stormkorea

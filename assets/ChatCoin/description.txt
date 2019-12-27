@@ -4,5 +4,13 @@ ChatCoin
 Symbol:
 CHAT
 
+Description:
+BeeChat is a decentralized application that runs under the protocol framework provided by OpenChat. BeeChat uses financial incentives to bring other digital services and applications into the decentralized OpenChat ecosystem in the form of communications & wallets. The OpenChat Reward Engine will provide ChatCoin as a natural incentive for digital service providers. 
+
 Tags:
 Crypto
+
+Links:
+website: http://www.openchat.co/
+twitter: https://twitter.com/OpenChatCo
+telegram: https://t.me/joinchat/JjTsgRAlYLYSmKGHBJXrtQ

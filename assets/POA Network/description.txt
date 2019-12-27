@@ -4,5 +4,13 @@ POA Network
 Symbol:
 POA
 
+Description:
+POA Network is an autonomous network secured by a group of trusted validators. All validators on the network are United States notaries, and their information is publicly available.  This distributed group of known validators allows the network to provide fast and inexpensive transactions. POA also develops products and tools to improve interoperability, infrastructure and transparency throughout the ecosystem. These include BlockScout, an open-source explorer, TokenBridge, a multi-chain asset transfer solution, and the xDai Network, a stable coin based Network.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.poa.network/
+twitter: https://twitter.com/poanetwork
+telegram: https://t.me/poa_network

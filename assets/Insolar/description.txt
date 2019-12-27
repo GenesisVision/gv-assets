@@ -4,5 +4,15 @@ Insolar
 Symbol:
 INS
 
+Description:
+Insolar is a global technology company building innovative public and private blockchain solutions on Insolar Blockchain Platform, the most secure, flexible and scalable blockchain for business. The Insolar ERC-20 token (INS) is currently listed on Binance, Bithumb, OKex and a number of other exchanges. At the moment Insolar has announced collaborations with: Microsoft and Oracle - to make Insolar available on Microsoft Azure and Oracle Cloud marketplaces; Innosuisse - the Swiss Innovation Agency; UC Berkeley for an accelerator program and joint projects; and BiTA - Blockchain in Transport Alliance and Cointelegraph Consulting as the launch partner.
+
 Tags:
 Crypto
+
+Links:
+website: https://insolar.io/
+twitter: https://twitter.com/insolario
+facebook: https://www.facebook.com/insolario
+telegram: https://t.me/InsolarAnnouncements
+reddit: https://www.reddit.com/r/insolar/

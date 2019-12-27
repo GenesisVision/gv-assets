@@ -4,5 +4,14 @@ Content Value Network
 Symbol:
 CVNT
 
+Description:
+CVN (Content Value Network) is a blockchain project initiated by everyone film and television.CVNT is currently available on Huobi mainboard. the original intention of the CVN project is to better convert the idle resources and consensus of the community into a driving force for the society and the industry as a whole, hoping to build a recycling and self-made community through theMake CVN a sustainable project.
+
 Tags:
 Crypto
+
+Links:
+website: http://www.cvn.io/
+twitter: https://mobile.twitter.com/CvnOfficial
+telegram: https://t.me/joinchat/HfzSsBKix7JRBwEh4gLQyA
+

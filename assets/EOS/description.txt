@@ -4,5 +4,14 @@ EOS
 Symbol:
 EOS
 
+Description:
+Considered to be one of the improved blockchains that aim to solve the scalability problems of Bitcoin/Ethereum, EOS aims to serve as a host for dApps, smart contracts whilst reducing transaction costs for users to zero. This is achieved via it’s consensus model, Delegated Proof of Stake (DPOS), where users vote for a set of 21 block producers who generate and validate blocks on a much shorter time scale that the proof of work blockchains.
+
 Tags:
 Crypto
+
+Links:
+website: https://eos.io/
+twitter: https://twitter.com/block_one_
+facebook: https://www.facebook.com/blockoneofficial
+telegram: https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ

@@ -4,5 +4,14 @@ PIVX
 Symbol:
 PIVX
 
+Description:
+Private Instant Verified Transaction, PIVX, is a privacy focused decentralized open source cryptocurrency launched on Feb 1, 2016, under the name of Darknet (DNET) before it was professionally re-branded to PIVX. The main goal of PIVX is to achieve near instant private transactions and a governance that helps sustain the network for the benefit of all of the users involved. 
+
 Tags:
 Crypto
+
+Links:
+website: https://pivx.org/ru/home-ru/
+twitter: https://twitter.com/_pivx
+facebook: https://www.facebook.com/PIVXCrypto/
+reddit: https://www.reddit.com/r/pivx/

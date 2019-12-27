@@ -4,5 +4,15 @@ NavCoin
 Symbol:
 NAV
 
+Description:
+NavCoin (NAV) is a decentralised, open-source cryptocurrency launched in July 2014. It was rebranded several times - from Summercoin, which was a fork of Bitcoin, to Navajocoin, Navajo Coin, NAV Coin and finally NavCoin. After 100,000 proof-of-work blocks (using the X13 collection of hashing algorithms), the cryptocurrency has switched to a pure proof-of-stake (PoS) consensus, with a diminishing rate of PoS interest that started at 20% and ended at 5% per annum starting from the third year on. The project's primary focus is on creating a cryptocurrency with enhanced privacy and anonymity of transactions.
+
 Tags:
 Crypto
+
+Links:
+website: https://navcoin.org/en
+twitter: https://twitter.com/navcoin?lang=en
+facebook: https://www.facebook.com/NavCoin/
+telegram: https://t.me/navcoin
+reddit: https://www.reddit.com/r/NavCoin

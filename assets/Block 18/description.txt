@@ -4,5 +4,12 @@ Block 18
 Symbol:
 18C
 
+Description:
+Block 18 is aiming to become the leader of world blockchain community by facilitating the unimpeded and fast circulation of global digital assets with professional blockchain community services. 
+
 Tags:
 Crypto
+
+Links:
+website: https://static.block18.io/
+telegram: https://teleg.run/Blockchain_18

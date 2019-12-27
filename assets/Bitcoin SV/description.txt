@@ -4,5 +4,12 @@ Bitcoin SV
 Symbol:
 BSV
 
+Description:
+Bitcoin SV (BSV) started in November 2018 as a hard fork of Bitcoin Cash, which itself was a hard forked version of the original Bitcoin. The Bitcoin SV team said that its vision is to restore the Bitcoin protocol to its original design, assuring stability with only a limited and well-known set of changes, including the restoration  the Satoshi op_codes to enable businesses and development teams around the world to create the many solutions possible on the BSV blockchain, such as smart contracts, tokenisation, atomic swaps, and many more.
+
 Tags:
 Crypto
+
+Links:
+website: https://bitcoinsv.io/
+twitter: https://twitter.com/BitcoinSVNode

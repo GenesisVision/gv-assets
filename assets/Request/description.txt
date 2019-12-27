@@ -4,5 +4,15 @@ Request
 Symbol:
 REQ
 
+Description:
+Request is an open network for transaction requests. It allows anyone to create, store and access invoices and receipts in a universal, decentralized network. By having all transaction requests in one place, companies with services like accounting, invoicing, payment processing, and auditing can plug into the same network and communicate with each other using the same single source of truth. 
+
 Tags:
 Crypto
+
+Links:
+website: https://request.network/en/
+twitter: https://twitter.com/RequestNetwork
+facebook: https://www.facebook.com/TheRequestNetwork/
+telegram: https://t.me/REQ_Official
+reddit: https://www.reddit.com/r/RequestNetwork/

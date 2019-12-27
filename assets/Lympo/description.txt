@@ -4,5 +4,14 @@ Lympo
 Symbol:
 LYM
 
+Description:
+With only a few easy steps, users will be able to connect their favorite app or wearable device with Lympo digital fitness wallet and earn LYM tokens for being healthy through challenges organized by fitness trainers, gyms, sports events, employees, health insurers, etc.  Essentially Lympo aims to create a data-sharing ecosystem, used by all members of the sports industry, which effectively rewards both businesses and users for their contribution.
+
 Tags:
 Crypto
+
+Links:
+website: https://lympo.io/ru/
+twitter: https://twitter.com/Lympo_io
+facebook: https://www.facebook.com/Lympo.io/
+telegram: https://t.me/lympo

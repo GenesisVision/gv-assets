@@ -4,5 +4,15 @@ Bread
 Symbol:
 BRD
 
+Description:
+Bread is a rapidly growing decentralized financial services platform being used in over 140 countries by over one million users. Bread's mobile app allows users to store, send, and receive their digital assets easily and securely by connecting its users crypto directly to the blockchain. In December, 2017, Bread launched the BRD token which enables premium services and functionality within the app, as well as the first ever rewards and loyalty program for crypto users. The BRD token was a sell out event with $32M USD worth of tokens sold in under 90 minutes.
+
 Tags:
 Crypto
+
+Links:
+website: https://brd.com/
+twitter: https://twitter.com/brdhq
+facebook: https://www.facebook.com/BRDHQ/
+telegram: https://t.me/BreadApp
+reddit: https://www.reddit.com/r/BRDapp/

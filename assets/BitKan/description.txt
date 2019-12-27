@@ -4,5 +4,14 @@ BitKan
 Symbol:
 KAN
 
+Description:
+Bitkan created 'Smart Trade' in the crypto industry, get the best price via our smart routing to Binance, Huobi and OKEx. BitKan has provided digital asset investment service to more than 5,000,000 users in around 170 countries around the world.
+
 Tags:
 Crypto
+
+Links:
+website: https://bitkan.com/en/
+twitter: https://twitter.com/BitKanOfficial
+facebook: https://www.facebook.com/btckan
+telegram: https://t.me/bitkanofficial

@@ -4,5 +4,14 @@ Viberate
 Symbol:
 VIB
 
+Description:
+Viberate is a music network that collects and analyzes information about musicians, venues, events and other music industry stakeholders. We use big data analysis to calculate taste and define true popularity. Our VIB token fuels our growth and users can earn it by adding new profiles into the database or curating the information on existing ones.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.viberate.com/
+twitter: https://twitter.com/viberate
+facebook: https://www.facebook.com/viberateOFC/
+telegram: https://t.me/ViberateOfficial

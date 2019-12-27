@@ -4,5 +4,14 @@ Time New Bank
 Symbol:
 TNB
 
+Description:
+Miao'A International Timechain (M.I.T) is dedicated to building a precision time-value-based transmission network. For the purpose of better presenting individuals’ time-value, and effectively matching the time exporters and time demanders, M.I.T will introduce TNB (Time New Bank) digital currency, based on a blockchain technology underlying platform, aiming to establish a time-value transmission network which comprises prominences of decentralization, internationalization, payment flexibility, pricing transparency, and strong protection of rights and proof-of-stake.
+
 Tags:
 Crypto
+
+Links:
+website: https://tnb.fund/
+twitter: https://twitter.com/TimeNewBank
+facebook: https://www.facebook.com/TimeNewBankOfficial
+telegram: https://t.me/tnbgroup

@@ -4,5 +4,13 @@ Zilliqa
 Symbol:
 ZIL
 
+Description:
+Zilliqa is a new public blockchain platform for high-throughput applications. The Zilliqa blockchain platform is tailored towards enabling high-throughput data-driven decentralized apps, designed to meet the scaling requirements of applications in areas such as digital marketing, payment, shared economy and rights management.
+
 Tags:
 Crypto
+
+Links:
+website: https://zilliqa.com/
+twitter: https://twitter.com/zilliqa
+telegram: https://t.me/zilliqachat

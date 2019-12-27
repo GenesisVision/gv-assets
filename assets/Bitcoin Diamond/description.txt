@@ -4,5 +4,13 @@ Bitcoin Diamond
 Symbol:
 BCD
 
+Description:
+Bitcoin Diamond is hard fork of Bitcoin. Bitcoin Diamond also differs itself from Bitcoin by using an optimized X13 mining algorithm, as well as elements drawn from Bitcoin Cash, such as a blockchain size of 135 GB and maximum transactions of 4.8 million per day. Bitcoin Diamond also adopts SegWit and Lightning Network technology, like Bitcoin but unlike Bitcoin Cash.
+
 Tags:
 Crypto
+
+Links:
+website: https://btcd.io/#/
+twitter: https://twitter.com/BitcoinDiamond_
+telegram: https://t.me/BCDcommunity

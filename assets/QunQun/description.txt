@@ -4,5 +4,14 @@ QunQun
 Symbol:
 QUN
 
+Description:
+QunQun is a completely new incentive community platform based on blockchain technology. On QunQun, users can easily create their own theme community without encoding and deploying, and obtain extra tokens from the reward pool through operating it or submitting contents to the communities.
+
 Tags:
 Crypto
+
+Links:
+website: https://qunqun.io/
+twitter: https://twitter.com/qunqun_io
+facebook: https://www.facebook.com/QunQunGlobal
+telegram: https://t.me/qunqun_io

@@ -4,5 +4,14 @@ THETA
 Symbol:
 THETA
 
+Description:
+The Theta Network and protocol solves various challenges the video streaming industry faces today. First, tokens on the Theta blockchain are used as an incentive to encourage individual users to share their redundant computing and bandwidth resources as caching or relay nodes for video streams. Second, with sufficient network density the majority of viewers will pull streams from peering caching nodes, allowing video platforms to significantly reduce content delivery network (CDN) costs.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.thetatoken.org/
+twitter: https://twitter.com/Theta_Network
+facebook: https://www.facebook.com/ThetaNetwork/
+telegram: https://t.me/thetanetwork

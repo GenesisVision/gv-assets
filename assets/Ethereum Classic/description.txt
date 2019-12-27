@@ -4,5 +4,14 @@ Ethereum Classic
 Symbol:
 ETC
 
+Description:
+Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine, the Ethereum Virtual Machine (EVM), which can execute scripts using an international network of public nodes. Ethereum Classic also provides a value token called "classic ether", which can be transferred between participants, stored in a cryptocurrency wallet and is used to compensate participant nodes for computations performed. The classic ether token is traded on cryptocurrency exchanges under the ticker symbol ETC.
+
 Tags:
 Crypto
+
+Links:
+website: https://ethereumclassic.org/
+twitter: https://twitter.com/genesis_vision/
+telegram: https://telegram.me/ethclassic
+reddit: https://www.reddit.com/r/EthereumClassic/

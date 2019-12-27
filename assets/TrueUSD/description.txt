@@ -4,5 +4,14 @@ TrueUSD
 Symbol:
 TUSD
 
+Description:
+TrueUSD, part of the TrustToken asset tokenization platform, is a blockchain-based stablecoin pegged to the value of USD. In the TrueUSD system, U.S Dollars are held in the bank accounts of multiple trust companies that have signed escrow agreements, rather than in a bank account controlled by a single company. The contents of said escrow account is verified by an independent third-party accountant that publishes monthly attestation reports.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.trusttoken.com/
+twitter: https://twitter.com/trusttoken
+facebook: https://www.facebook.com/TrustToken/
+telegram: https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg

@@ -4,5 +4,15 @@ Waves
 Symbol:
 WAVES
 
+Description:
+Waves Platform is an open network and decentralized environment for Web3 applications and custom decentralized solutions, with a wide range of purpose-designed tools for making the process of developing and running dApps easy and accessible. Waves’ technology is designed to address the needs of developers and companies that want to leverage the properties of blockchain systems – including their security, auditability, verifiability and the trustless execution of transactions and business logic.
+
 Tags:
 Crypto
+
+Links:
+website: https://wavesplatform.com/
+twitter: https://twitter.com/wavesplatform
+facebook: https://www.facebook.com/wavesplatform
+telegram: https://telegram.me/wavesnews
+reddit: https://www.reddit.com/r/Wavesplatform/

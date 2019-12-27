@@ -4,5 +4,14 @@ Power Ledger
 Symbol:
 POWR
 
+Description:
+Power Ledger (POWR) is an Australian blockchain-based cryptocurrency and energy trading platform that allows for decentralized selling and buying of renewable energy. The platform provides consumers with access to a variety of energy markets around the globe and is meant to be scalable to various energy infrastructures and regulations. The market is based on a dual-token ecosystem operating on two blockchain layers, POWR and Sparkz. POWR tokens allow consumers and hosts providing energy to interface with the ecosystem and are protected through Smart Bond technology. POWR tokens can be converted into Sparkz tokens, which can be used for frictionless transactions in the energy exchange market.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.powerledger.io/
+twitter: https://twitter.com/PowerLedger_io
+facebook: https://www.facebook.com/powerledger
+telegram: https://t.me/powerledgerANN

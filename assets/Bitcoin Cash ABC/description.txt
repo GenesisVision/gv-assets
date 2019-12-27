@@ -4,5 +4,13 @@ Bitcoin Cash ABC
 Symbol:
 BCH
 
+Description:
+Bitcoin Cash (BCH also known as BCHABC) is a hard-fork of Bitcoin after consensus was not reached on the question of increasing the blocksize of the original Bitcoin. It envisages an economic system whereby two parties can exchange value trustlessly and instantly, free from interference and mediation from third parties. The move to a larger block size was to enable a greater number of transactions to be written to the blockchain without altering other fundamental parameters of the original Bitcoin. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.bitcoinabc.org/
+twitter: https://twitter.com/bitcoin_abc
+facebook: https://www.facebook.com/bitcoinabc.org/

@@ -4,5 +4,14 @@ Cred
 Symbol:
 LBA
 
+Description:
+Cred is a decentralized global lending platform that facilitates open access to credit anywhere and anytime. Founded by former PayPal financial technology veterans, Cred has secured over $300 million of lending capital with offices in San Francisco and Shanghai. Cred’s mission is to harness the power of blockchain to allow everyone to benefit from low-cost credit products. Cred brings together a diverse team of entrepreneurial leaders, machine learning, and the power of blockchain technology.
+
 Tags:
 Crypto
+
+Links:
+website: https://mycred.io/
+twitter: https://twitter.com/ihaveCred
+facebook: https://www.facebook.com/ihaveCRED/
+telegram: https://t.me/ihaveCred

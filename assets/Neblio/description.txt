@@ -4,5 +4,15 @@ Neblio
 Symbol:
 NEBL
 
+Description:
+Blockchain’s unique distributed ledger technology is what makes the Neblio Network possible. This decentralized system of securely storing transactions is the future of database technology for global networks. A blockchain network such as Neblio is a decentralized peer-to-peer network of nodes that exchange information in the form of transactions; storing those transactions in an immutable distributed ledger. 
+
 Tags:
 Crypto
+
+Links:
+website: https://nebl.io/
+twitter: https://twitter.com/NeblioTeam
+facebook: https://www.facebook.com/neblioteam/
+telegram: https://t.me/neblio_official
+reddit: https://www.reddit.com/r/Neblio/

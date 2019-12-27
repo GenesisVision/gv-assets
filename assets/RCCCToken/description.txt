@@ -4,5 +4,12 @@ RCCCToken
 Symbol:
 RCCC
 
+Description:
+RCCC is a team jointly initiated by several well-known domestic and foreign collectors and large-scale art investment institutions. With a registered capital of 10 million, it is located in Melbourne, Australia. It is mainly engaged in: art investment, trading, exhibitions, leasing, publicity planning, and appraisal Evaluation, commissioned transactions and a series of specialized services.
+
 Tags:
 Crypto
+
+Links:
+website: http://www.rccc.pro/
+telegram: http://www.rccc.pro/#

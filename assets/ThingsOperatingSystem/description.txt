@@ -4,5 +4,15 @@ ThingsOperatingSystem
 Symbol:
 TOS
 
+Description:
+TOS is a decentralized and hierarchical block network technology based on SDAQ for the IoT industry. ThingsOperatingSystem (TOS) is a cryptocurrency token and operates on the Ethereum platform. ThingsOperatingSystem has a current supply of 1,000,000,000.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.toschain.org/
+twitter: https://twitter.com/TOSCommuniy
+facebook: https://www.facebook.com/TOSChain-223477698392972/
+telegram: https://t.me/TOSChainOfficialEN
+reddit: https://www.reddit.com/user/TOSChain/

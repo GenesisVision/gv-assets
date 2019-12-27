@@ -4,5 +4,14 @@ Gifto
 Symbol:
 GTO
 
+Description:
+GIFTO, which stands for Gifting Protocol, is a universal protocol that is based on the Ethereum blockchain. GIFTO offers a self-governing and self-sustaining system for blockchain based virtual gifts to be created, curated, bought, sent and exchanged across any global content platform such as YouTube, Instagram, and Facebook, among others.  GIFTO was the inaugural project on Binance’s Launchpad, and has strategic partnerships with leading companies and projects including Binance, Nebulas, Kyber, and many others.
+
 Tags:
 Crypto
+
+Links:
+website: https://gifto.io/
+twitter: https://twitter.com/gifto_io
+facebook: https://www.facebook.com/gifto.io/
+telegram: https://t.me/GiftoWallet_bot

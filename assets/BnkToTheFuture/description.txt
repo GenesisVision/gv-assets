@@ -4,5 +4,14 @@ BnkToTheFuture
 Symbol:
 BFT
 
+Description:
+BFT is the native token for the BnkToTheFuture (BF) ecosystem. BnkToTheFuture is an online investment platform that has a community that has invested over $775m in funding rounds listed on its online investment platform including equity in Coinbase, Circle, Blockchain.com, Kraken, BitStamp, BitFinex, ShapeShift, BitPay and over 100 others. 
+
 Tags:
 Crypto
+
+Links:
+website: https://bnktothefuture.com/
+twitter: https://twitter.com/banktothefuture
+facebook: https://www.facebook.com/banktothefuture
+telegram: https://t.me/bf_token

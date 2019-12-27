@@ -4,5 +4,14 @@ Datum
 Symbol:
 DAT
 
+Description:
+The Datum network allows anyone to store structured data securely in a decentralized way on a smart contract blockchain. The DAT smart token enables optional selling and buying of stored data while enforcing data usage rules as set by the data owner.
+
 Tags:
 Crypto
+
+Links:
+website: https://datum.org/
+twitter: https://twitter.com/datumnetwork
+facebook: https://www.facebook.com/datumnetwork/
+reddit: https://reddit.com/r/datumnetwork/

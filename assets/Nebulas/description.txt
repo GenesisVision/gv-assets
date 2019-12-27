@@ -4,5 +4,15 @@ Nebulas
 Symbol:
 NAS
 
+Description:
+Nebulas is an autonomous metanet. Hyper-mapped Structural Metadata can handle increasingly complex on-chain data and describe these interactions; new consensus incentives provide lasting positive incentive; new upgrade capabilities to upgrade without hard forks. NAS was developed as an ERC20 token, but is now a Mainnet NRC20 token that serves as currency on the Nebulas ecosystem. 
+
 Tags:
 Crypto
+
+Links:
+website: https://nebulas.io/
+twitter: https://twitter.com/nebulasio
+facebook: https://www.facebook.com/nebulasproject/
+telegram: https://t.me/nebulasen
+reddit: https://www.reddit.com/r/nebulas/

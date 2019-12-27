@@ -4,5 +4,14 @@ Etherparty
 Symbol:
 FUEL
 
+Description:
+Etherpart is a contract wizard that removes the complexity of creating, managing and executing smart contracts on any compatible blockchain. The platform allows users with zero knowledge of smart contract programming to create an enforceable digital agreement for all types of transactions.
+
 Tags:
 Crypto
+
+Links:
+website: https://vanbex.com/labs
+twitter: https://twitter.com/vanbexgroup
+facebook: https://www.facebook.com/vanbexgroup
+telegram: https://t.me/etherparty

@@ -4,5 +4,12 @@ Siacoin
 Symbol:
 SC
 
+Description:
+Sia is reinventing cloud storage. Our technology connects users who need file storage with hosts worldwide offering underutilized hard drive capacity. Blockchain technology secures their data and enables improved economics for users and hosts. The Sia blockchain allows this marketplace to run without an intermediary. Sia secures storage transactions with smart contracts, creating a more reliable and affordable offering when compared to traditional cloud providers. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.sia.tech/
+reddit: https://www.reddit.com/r/siacoin/

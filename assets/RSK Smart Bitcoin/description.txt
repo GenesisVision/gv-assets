@@ -4,5 +4,15 @@ RSK Smart Bitcoin
 Symbol:
 RBTC
 
+Description:
+RSK is an open-source smart contract platform with a 2-way peg to Bitcoin that also rewards the Bitcoin miners via merge-mining, allowing them to actively participate in the Smart Contract revolution. RSK goal is to add value and functionality to the Bitcoin ecosystem by enabling smart-contracts, near instant payments and higher-scalability.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.rsk.co/
+twitter: https://twitter.com/rsksmart
+facebook: https://www.facebook.com/RSKsmart/
+telegram: https://t.me/rskofficialcommunity
+reddit: https://www.reddit.com/r/rootstock/

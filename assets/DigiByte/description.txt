@@ -4,5 +4,15 @@ DigiByte
 Symbol:
 DGB
 
+Description:
+DigiByte is it’s own public UTXO blockchain, and the first one with SegWit, MultiAlgo mining and DigiShield. DigiByte is bringing free to use cybersecurity solutions to the world by development of open source cybersecurity cryptographic protocol built on top of the DigiByte public blockchain. Because of its incredible transaction speed, low fees, and mobile wallets in over 55 languages, DigiByte is very suitable as a currency. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.digibyte.io/
+twitter: https://twitter.com/DigiByteCoin
+facebook: https://www.facebook.com/digibytecoin/
+telegram: https://t.me/DigiByteCoin
+reddit: https://www.reddit.com/r/Digibyte/

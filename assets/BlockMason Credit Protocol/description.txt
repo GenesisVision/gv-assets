@@ -4,5 +4,15 @@ BlockMason Credit Protocol
 Symbol:
 BCPT
 
+Description:
+The Blockmason Credit Protocol Token is a utility token which is required to enable the recording of data through the Credit Protocol to the Ethereum blockchain. One entity sends a debt or credit request to another, and that user then confirms the debt or credit, which is recorded and stored within the Credit Protocol’s smart contract. BCPT is the token that provides recording capacity for this transaction.
+
 Tags:
 Crypto
+
+
+Links:
+website: https://blockmason.io/
+twitter: https://twitter.com/blockmasonio
+facebook: https://www.facebook.com/blockmasonio
+telegram: https://t.me/blockmason

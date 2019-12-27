@@ -4,5 +4,15 @@ Cardano
 Symbol:
 ADA
 
+Description:
+Developers position Cardano as the “third generation blockchain." The main goal of the platform is to implement all the best features of Litecoin, bitcoin and ethereum into one cryptocurrency; complementing the resulting mixture with a number of additional innovative technologies. Security and reliability are higher than Bitcoin, p2p transactions are faster and cheaper than Litecoin, and smart contracts are better implemented than Ethereum. The result is a multi-level, decentralized and flexible system. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.cardano.org/en/home/
+twitter: https://twitter.com/cardano
+facebook: https://www.facebook.com/groups/CardanoCommunity
+telegram: https://t.me/CardanoAnnouncements
+reddit: https://www.reddit.com/r/cardano/

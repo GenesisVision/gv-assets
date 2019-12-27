@@ -4,5 +4,15 @@ Syscoin
 Symbol:
 SYS
 
+Description:
+Syscoin is presented as a decentralized scalable blockchain for enterprise, a development platform, and an asset platform offering high throughput, scalability, and fast, easy token creation.  The platform also offers low fees, and provides a unique form of cross-chain asset interoperability capable of interconnecting platforms without requiring intermediaries nor counterparties. Its interoperability is presently focused primarily on Ethereum, enabling ERC20s to utilize the microtransaction capabilities of Syscoin Platform which provides VISA-like transfers via Syscoin's Z-DAG (patent-pending), while granting Syscoin Platform Tokens (SPTs) access to Ethereum's smart contract functionality. Syscoin also features the security of Bitcoin merge mining which provides a high degree of double spend protection relative to other blockchains.
+
 Tags:
 Crypto
+
+Links:
+website: https://syscoin.org/
+twitter: https://twitter.com/syscoin
+facebook: https://www.facebook.com/Syscoin/
+telegram: https://t.me/Syscoin_Official
+reddit: https://www.reddit.com/r/SysCoin/

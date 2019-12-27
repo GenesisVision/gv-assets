@@ -4,5 +4,15 @@ Aion
 Symbol:
 AION
 
+Description:
+The Aion Network is the most accessible Blockchain platform in the world by enabling developers to build production grade Java applications on a Blockchain network. Aion aims to help transition the world to a fair and equitable Internet by helping the masses leverage Blockchain technology.
+
 Tags:
 Crypto
+
+Links:
+website: https://theoan.com/
+twitter: https://twitter.com/Aion_OAN
+facebook: https://www.facebook.com/TheOpenApplicationNetwork/
+telegram: https://t.me/aion_blockchain
+reddit: https://www.reddit.com/r/AionNetwork/

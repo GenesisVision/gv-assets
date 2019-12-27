@@ -4,5 +4,15 @@ Kcash
 Symbol:
 KCASH
 
+Description:
+Kcash is a brand new digital currency wallet that offers users a one-stop shop for storage, exchange and consumer services. Kcash supports BTC, ETH, ETC, ACT and digital currencies based on the Ethereum and Achain smart contract platforms, with subsequent support for more mainstream digital currencies.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.kcash.com/
+twitter: https://twitter.com/Kcashofficial
+facebook: https://www.facebook.com/KcashOfficial
+telegram: javascript:void(0);
+

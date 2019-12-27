@@ -4,5 +4,15 @@ Eidoo
 Symbol:
 EDO
 
+Description:
+Eidoo describes itself as a Swiss company with the goal of improving how people manage their assets, invest, and make a profit in the blockchain economy. EDO is the utility token at the center of the Eidoo ecosystem - its purpose is to give access to a variety of services. Within the Eidoo wallet app, it is possible to transact on multiple blockchains using EDO to pay the network fees or transaction fees in the app's built-in Hybrid Exchange.
+
 Tags:
 Crypto
+
+Links:
+website: https://eidoo.io/
+twitter: https://twitter.com/eidoo_io
+facebook: https://www.facebook.com/eidoocrypto/
+telegram: https://t.me/eidoocryptoworld
+reddit: https://www.reddit.com/r/eidooapp/

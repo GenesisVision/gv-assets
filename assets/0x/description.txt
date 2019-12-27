@@ -4,5 +4,14 @@ Name:
 Symbol:
 ZRX
 
+Description:
+0x is an open protocol that facilitates the decentralized exchange of Ethereum-based tokens and assets. The 0x token (ZRX) is used by Makers and Takers to pay transaction fees to Relayers (entities that host and maintain public order books). ZRX tokens are also used for decentralized governance over 0x protocol’s update mechanism which allows its underlying smart contracts to be replaced and improved over time.
+
 Tags:
 Crypto
+
+Links:
+website: https://0x.org/
+twitter: https://twitter.com/0xproject
+facebook: https://www.facebook.com/0xProject/
+reddit: https://www.reddit.com/r/0xProject/

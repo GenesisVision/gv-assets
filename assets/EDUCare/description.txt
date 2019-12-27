@@ -4,5 +4,13 @@ EDUCare
 Symbol:
 EKT
 
+Description:
+EKT is a project committed to build a public blockchain of online education industry. The aim of EKT is to achieve fair education to make everyone has the right to receive education through protecting education intellectual property rights, reducing learning cost and lowering the threshold of high-quality education resources.
+
 Tags:
 Crypto
+
+Links:
+website: http://ekt8.io/
+twitter: https://twitter.com/EKTcoin
+telegram: https://0.plus/#/ektcoin

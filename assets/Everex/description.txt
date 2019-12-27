@@ -4,5 +4,14 @@ Everex
 Symbol:
 EVX
 
+Description:
+Everex is a blockchain-based capital transfer system that aims to enable and ease the financial inclusion of unbanked, or underbanked people around the world. Everex proposes the Cryptocash, a cryptocurrency, where each unit has its value pegged to, and a name based on, the fiat currency it represents. Users convert local fiat currencies to Cryptocash using a currency exchange and transfer the coins to their Everex wallet.
+
 Tags:
 Crypto
+
+Links:
+website: https://everex.io/
+twitter: https://twitter.com/everexio
+facebook: https://www.facebook.com/everex.io
+telegram: https://t.me/everexio

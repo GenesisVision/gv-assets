@@ -4,5 +4,15 @@ Tron
 Symbol:
 TRX
 
+Description:
+TRON is an open source platform launched in 2017 for the decentralized global distribution of content and entertainment in addition to the deployment of smart contracts. Featuring a high TPS (Transactions per second), the network enables creators to publish, store and retain ownership of their content, allowing content creators to be directly rewarded by content consumers via the native coin (TRX) and other crypto-currencies. 
+
 Tags:
 Crypto
+
+Links:
+website: https://tron.network/
+twitter: https://twitter.com/justinsuntron
+facebook: https://www.facebook.com/tronfoundation
+telegram: https://t.me/tronnetworkEN
+reddit: https://www.reddit.com/r/Tronix/

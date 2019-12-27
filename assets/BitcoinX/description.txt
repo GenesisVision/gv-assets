@@ -4,5 +4,13 @@ BitcoinX
 Symbol:
 BCX
 
+Description:
+BitcoinX is a fork of the Bitcoin blockchain at block 498888. Combining zero-knowledge proof, smart contract and DPOS consensus enables the BitcoinX network to become more reliable, environmental-friendly and much easier to use with greater efficiency. BCX can build the ideal Bitcoin network that will truly fit the future society.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.bcx.org/
+twitter: https://twitter.com/bcx_team
+facebook: https://www.facebook.com/OfficialBCXTeam

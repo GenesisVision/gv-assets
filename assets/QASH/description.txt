@@ -4,5 +4,14 @@ QASH
 Symbol:
 QASH
 
+Description:
+Quoine Liquid is a trading platform that aims to combine every liquidity source into a single highly liquid tradable order book. The Quoine Liquid team will empower their services with the blockchain technology and consequently allow the migration of financial institutions to a decentralized platform. QASH is an ERC-20 token that will allow users to benefit from the platform services and also work as a trading asset.
+
 Tags:
 Crypto
+
+Links:
+website: https://liquid.plus/
+twitter: https://twitter.com/quoineglobal
+facebook: https://www.facebook.com/quoine.sg/
+telegram: https://t.me/QUOINE

@@ -4,5 +4,15 @@ Quantstamp
 Symbol:
 QSP
 
+Description:
+Quantstamp is a blockchain security company developing automated security tools such as the Quantstamp Security Network and also conducts expert smart contract audits. Powered by QSP, the Quantstamp Security Network aims to enhance smart contract security and the reputation of projects that create smart contracts by producing openly accessible security reports.
+
 Tags:
 Crypto
+
+Links:
+website: https://quantstamp.com/
+twitter: https://twitter.com/Quantstamp
+facebook: https://www.facebook.com/quantstamp
+telegram: https://t.me/quantstampANN
+reddit: https://www.reddit.com/r/Quantstamp/

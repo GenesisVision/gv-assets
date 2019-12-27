@@ -4,5 +4,14 @@ Propy
 Symbol:
 PROPY
 
+Description:
+Propy Utility Token (PRO) is built on the ERC20 token standard to allow for both simple integration into users’ wallets. Tokens paid for writing data to the Propy Registry are stored in a special Rewards smart contract on the Ethereum blockchain. These aggregated amounts of tokens are paid out to the token holders, proportional to the PRO owned. The rewards contract generates a token distribution snapshot every month and distributes rewards for the quarter according to the snapshot. The snapshot is stored in the blockchain, so anyone can verify that rewards were distributed correctly.
+
 Tags:
 Crypto
+
+Links:
+website: https://propy.com/browse/
+twitter: https://twitter.com/PropyInc
+facebook: https://www.facebook.com/propyinc/
+telegram: https://t.me/propy

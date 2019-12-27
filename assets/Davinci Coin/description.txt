@@ -4,5 +4,14 @@ Davinci Coin
 Symbol:
 DAC
 
+Description:
+Davinci Coin(DAC) is universal platform project that based on blockchain technology in response to the rapid social transformation toward digital age and necessity to build a new type of economic system. Davinci Coin is able to be used as a various form of payment in areas such as shopping, insurance, and rent and mobile fee.  Use of DAC allows more transparent management of credit information, and enhances the security by minimizing the complexity of financial and accounting verification process.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.davinci.vision/
+twitter: https://twitter.com/DavinciFoundat1
+facebook: https://www.facebook.com/Davinci-coin-1688348254582102/
+telegram: https://t.me/davincifoundation

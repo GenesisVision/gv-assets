@@ -4,5 +4,14 @@ Cortex
 Symbol:
 CTXC
 
+Description:
+The Cortex Blockchain provides decentralized AI autonomous system which integrates AI models onto the blockchain. By implementing an AI model compatible blockchain platform, users are allowed to post tasks, submit models, make inferences by calling intelligent contracts and create their own AI DApps (Decentralized Artificial Intelligence Applications).
+
 Tags:
 Crypto
+
+Links:
+website: https://www.cortexlabs.ai/
+twitter: https://twitter.com/CTXCBlockchain
+facebook: https://www.facebook.com/CTXCBlockchain
+telegram: https://t.me/CortexBlockchain

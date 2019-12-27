@@ -4,5 +4,14 @@ CyberMiles
 Symbol:
 CMT
 
+Description:
+CyberMiles ("CM") is the blockchain technology being developed by 5xlab, a blockchain development laboratory. 5xlab is working closely with 5miles, a leading c2c marketplace operator with more than 12 million users in the US. 5miles is expected to be the first platform to utilize CyberMiles’ blockchain protocol, and will also assist 5xlab to develop the technology.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.cybermiles.io/
+twitter: https://twitter.com/cybermiles
+facebook: https://www.facebook.com/cybermiles
+telegram: https://t.me/cybermilestoken

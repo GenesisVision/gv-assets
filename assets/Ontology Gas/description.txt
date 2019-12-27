@@ -4,5 +4,14 @@ Ontology Gas
 Symbol:
 ONG
 
+Description:
+ONG (Ontology Gas) is Ontology’s second functional cryptographic token. ONG is designed to be used solely on the Ontology network, which is required as virtual crypto “fuel” for using certain designed functions on the Ontology network. The total supply of ONG is 1,000,000,000.
+
 Tags:
 Crypto
+
+Links:
+website: https://ont.io/
+twitter: https://twitter.com/OntologyNetwork
+facebook: https://www.facebook.com/ONTnetwork/
+telegram: https://t.me/OntologyNetwork

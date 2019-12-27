@@ -4,5 +4,13 @@ USD Coin
 Symbol:
 USDC
 
+Description:
+USD Coin (USDC) is a fully collateralized US Dollar stablecoin based on the open source fiat stablecoin framework developed by Centre, a consortium founded by Circle and Coinbase. Customers from around the world can tokenize US Dollars into USDC and / or redeem USDC back into US Dollars with Circle and Coinbase. USDC tokens are ERC-20 compatible and can be used with any ERC-20 compatible digital wallet or service. USDC is fully collateralized - every unit of USDC is only ever issued after a corresponding US Dollar is deposited in reserve bank accounts. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.centre.io/usdc
+twitter: https://twitter.com/centre_io
+

@@ -4,5 +4,14 @@ district0x
 Symbol:
 DNT
 
+Description:
+A network of decentralized markets and communities. Create, operate, and govern. Powered by Ethereum, Aragon, and IPFS. At the core of every district is the d0xINFRA framework, a stack of Ethereum smart contracts and front-end libraries distributed on IPFS which power a district's basic functionalities. 
+
 Tags:
 Crypto
+
+Links:
+website: https://district0x.io/
+twitter: https://twitter.com/district0x
+telegram: https://t.me/district0x
+reddit: https://www.reddit.com/r/district0x/

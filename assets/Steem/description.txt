@@ -4,5 +4,14 @@ Steem
 Symbol:
 STEEM
 
+Description:
+Steem is an open source blockchain protocol capable of storing social information and distributing tokens based on a Proof-of-Brain algorithm. The Steem blockchain creates opportunities for entrepreneurs by providing a scalable blockchain protocol which their application can tap into that is capable of storing a user’s content, social information, account information, json metadata, and more, while simultaneously empowering those users to earn cryptocurrency tokens (called STEEM) in exchange for sharing that information. The STEEM token features best-in-class properties like 3 second transfers and no fees thanks to Steem’s 3-second blocks and Delegated-Proof-of-Stake algorithm. 
+
 Tags:
 Crypto
+
+Links:
+website: https://steem.com/
+twitter: https://twitter.com/steemit
+facebook: https://www.facebook.com/steemit/
+reddit: https://www.reddit.com/r/steemit/

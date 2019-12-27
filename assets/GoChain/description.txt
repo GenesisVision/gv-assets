@@ -4,5 +4,14 @@ GoChain
 Symbol:
 GO
 
+Description:
+GoChain (the “Project”) is a decentralized blockchain network that uses Proof of Reputation as a consensus model to support smart contracts and distributed applications. GoChain’s primary mission is to be “10x more decentralized, 100x faster and 1,000x greener (less energy used to run the network) than Ethereum.” The Project would also like to remain Ethereum compatible so that users can use GoChain without changing their code or developer tools.
+
 Tags:
 Crypto
+
+Links:
+website: https://gochain.io/
+twitter: https://twitter.com/go_chain
+facebook: https://www.facebook.com/gochaingo
+telegram: https://t.me/go_chain

@@ -4,5 +4,15 @@ NEM
 Symbol:
 XEM
 
+Description:
+NEM is the world's first Smart Asset blockchain. Built from the ground up for enterprise-grade performance, NEM's blockchain technology delivers a world class platform for management of almost any kind of asset: currencies, supply chains, notarizations, ownership records and more. NEM’S power is exposed through a straightforward and secure developer interface so that you can deploy your blockchain solution in record time. 
+
 Tags:
 Crypto
+
+Links:
+website: https://nem.io/
+twitter: https://twitter.com/nemofficial/
+facebook: https://www.facebook.com/ourNEM/
+telegram: https://t.me/nemred
+reddit: https://www.reddit.com/r/nem/

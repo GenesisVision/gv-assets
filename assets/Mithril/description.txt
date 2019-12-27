@@ -4,5 +4,15 @@ Mithril
 Symbol:
 MITH
 
+Description:
+Mithril is a decentralized social media platform that rewards all content creators. Content creators in social media  are rewarded for posting their photo/video stories on Lit - this is what we call Social Mining. When users post content on Lit, the Mithril algorithm calculates the amount of Mithril tokens that users mine, and updates their balance on the iOS/Android apps. Product/application is already available on iOS and Android stores. Another product is Vault. The functions includes "Staking", "withdraw", and "shift". This will be a useful tool for us to complete Mithril Ecosystem platforms, where users can use MITH token to pay for  for dating apps, premium content, and live-streaming, or across Mithril Merchant Network to purchase retail, physical products in Hong Kong and Taiwan.
+
 Tags:
 Crypto
+
+Links:
+website: https://mith.io/
+twitter: https://twitter.com/MithrilOfficial
+facebook: https://www.facebook.com/MithrilOfficial/
+telegram: https://t.me/MithrilChat
+reddit: https://www.reddit.com/r/MithrilToken/

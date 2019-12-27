@@ -4,5 +4,12 @@ Dogecoin
 Symbol:
 DOGE
 
+Description:
+A Bitcoin clone that has reached success through clever marketing. Dogecoin has sponsored multiple high profile events such as Nascar teams and the winter Olympics - even so, there are few locations to use the coin - and instead, it has become a de facto internet tipping currency. The coin has produced 100 billion units by the end of 469716 and is now producing roughly 5 billion units per year.
+
 Tags:
 Crypto
+
+Links:
+website: https://dogecoin.com/
+reddit: https://www.reddit.com/r/dogecoin/

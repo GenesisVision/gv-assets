@@ -4,5 +4,15 @@ WAXP
 Symbol:
 WAX
 
+Description:
+WAX is a decentralized platform that enables anyone to operate a fully functioning virtual marketplace with zero investment in security, infrastructure, or payment processing. Developed by the founders of OPSkins, the world’s leading marketplace for online video game assets, WAX is designed to serve the 400+ million online players who already collect, buy and sell in-game items.
+
 Tags:
 Crypto
+
+Links:
+website: https://wax.io/
+twitter: https://twitter.com/WAX_io
+facebook: https://www.facebook.com/WAX.io.Community/
+telegram: https://t.me/wax_io
+reddit: https://www.reddit.com/r/WAX_io/

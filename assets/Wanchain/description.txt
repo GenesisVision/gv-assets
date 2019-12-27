@@ -4,5 +4,15 @@ Wanchain
 Symbol:
 WAN
 
+Description:
+Wanchain is creating new distributed financial infrastructure. Cross-chain smart contracts built on Wanchain will power the new digital economy. Wanchain is a distributed ledger that records cross-chain and intra-chain transactions；The ledger not only supports smart contracts, but also supports privacy protection.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.wanchain.org/
+twitter: https://twitter.com/wanchain_org
+facebook: https://www.facebook.com/wanchainfoundation/
+telegram: https://t.me/WanchainANN
+reddit: https://www.reddit.com/r/wanchain/

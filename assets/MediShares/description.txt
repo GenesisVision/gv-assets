@@ -4,5 +4,15 @@ MediShares
 Symbol:
 MDS
 
+Description:
+MediShares is the first global mutual insurance marketplace on the blockchain. It combine the traditional mutual insurance model with blockchain and smart contract which provide a low operation cost and guarantee of compensation for risks.
+
 Tags:
 Crypto
+
+
+Links:
+website: https://genesis.vision/
+twitter: https://twitter.com/MediShares
+facebook: https://www.facebook.com/MediShares-1971171169832807/
+telegram: https://t.me/medishares

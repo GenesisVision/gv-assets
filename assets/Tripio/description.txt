@@ -4,5 +4,12 @@ Tripio
 Symbol:
 TRIO
 
+Description:
+Tripio is the leading travel marketplace based on the blockchain. It leverages the decentralized network provided by blockchain technologies to directly connect global customers and service providers. The blockchain technologies Tripio leverages help reduce transactional and operational costs in travel industries, as well as improve customer experience in their respective products and services. On the Tripio platform, a service provider can publish her unique service terms and conditions using smart contracts. 
+
 Tags:
 Crypto
+
+Links:
+website: https://developers.trip.io/
+telegram: https://t.me/tripioglobal

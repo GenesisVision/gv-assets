@@ -4,5 +4,15 @@ SIRIN LABS Token
 Symbol:
 SRN
 
+Description:
+SIRIN LABS' vision is to become the world’s leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain economy. Through their proprietary SIRIN OS, SIRIN LABS is currently working on launching the world’s first smartphone that is equipped with a cold-storage crypto wallet that is fully secure and safe enough to both hold and use cryptographic coins.
+
 Tags:
 Crypto
+
+Links:
+website: https://sirinlabs.com/ru/
+twitter: https://twitter.com/SIRINLABS
+facebook: https://www.facebook.com/SirinLabs/?fref=ts
+telegram: https://t.me/sirinlabs
+reddit: https://www.reddit.com/r/SirinLabs/

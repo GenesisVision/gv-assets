@@ -4,5 +4,15 @@ AirSwap
 Symbol:
 AST
 
+Description:
+The Swap protocol provides a peer-to-peer methodology to exchange assets on the Ethereum blockchain. AirSwap is an ERC20 token that will have two functionalities, signal the intention to buy or sell Ethereum-based tokens and to give voting power to the traders providing managing capabilities to the roles of Oracles within the platform.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.airswap.io/
+twitter: https://twitter.com/airswap
+facebook: https://www.facebook.com/airswapio
+telegram: https://t.me/airswap
+reddit: https://www.reddit.com/r/AirSwap/

@@ -4,5 +4,15 @@ CoinMeet
 Symbol:
 MEET
 
+Description:
+CoinMeet (Symbol: MEET) is building a blockchain ecosystem focusing on digital assets, digital identity and digital socializing. CoinMeet is a wallet, ID, social tool, transaction medium, and the value router in the era of the digital economy. CoinMeet combines blockchain, mobile internet, biometric identification and machine learning and provides revolutionary and distributed digital financial service for people all around the world.
+
 Tags:
 Crypto
+
+Links:
+website: https://coinmeet.io/
+twitter: https://twitter.com/CoinMeetCoin
+facebook: https://www.facebook.com/CoinMeetOfficial
+telegram: https://t.me/coinmeet
+

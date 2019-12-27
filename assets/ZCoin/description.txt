@@ -4,5 +4,15 @@ ZCoin
 Symbol:
 XZC
 
+Description:
+Zcoin is a privacy focused cryptocurrency that utilizes zero knowledge proofs which allows users to destroy coins and then redeem them later for brand new ones with no transaction history. It was the first project to implement the Zerocoin protocol and is now the first to code and implement the Sigma protocol which unlike other leading ZKP implementations has no trusted setup, standard cryptographic assumptions and competitive performance.
+
 Tags:
 Crypto
+
+Links:
+website: https://zcoin.io/
+twitter: https://twitter.com/zcoinofficial
+facebook: https://www.facebook.com/zcoinofficial
+telegram: https://telegram.me/zcoinproject
+reddit: https://www.reddit.com/r/zcoin/

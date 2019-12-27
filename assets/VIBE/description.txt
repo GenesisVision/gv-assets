@@ -4,5 +4,13 @@ VIBE
 Symbol:
 VIBE
 
+Description:
+VIBEHub is a Virtual and Augmented reality MetaWorld that specializes in using volumetric video technology to capture holograms of artists, educators and public figures. The VIBEHub platform also features social gaming with the VIBE token integrated, all social functionality and a private off-chain solution that facilitates instant atomic microtransactions with no gas fees. The currency VIBE is used on the VIBEHub platform to host events, purchase content, vote, tip and use for all goods/services on the platform.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.vibehub.io/
+twitter: https://twitter.com/VibeHubVR
+telegram: https://t.me/VIBEHub2

@@ -4,5 +4,15 @@ Metal
 Symbol:
 MTL
 
+Description:
+Metal is a blockchain-based system utilizing Proof-of-Processed-Payments to identify users, rewarding them for converting legacy fiat currency into cryptocurrency. It is a system similar to bitcoin but with a user-friendly interface and front-end that is similar to Venmo, Square or PayPal. Metal can act as a bridge to bitcoin or any cryptocurrency available. Metal believes cash only businesses can benefit by adopting cryptocurrency as a new new form of cash, as cryptocurrencies possess many of the same properties particularly around privacy, censorship resistance and fungibility. In order to bring digital payments into a world that utilizes blockchain-based technology over some traditional banking rails, Metal expects to save consumers 4-5% on all purchases.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.metalpay.com/
+twitter: https://twitter.com/metalpaysme
+facebook: https://www.facebook.com/metalpaysme
+telegram: https://t.me/metalpaysme
+reddit: https://www.reddit.com/r/MetalPay/

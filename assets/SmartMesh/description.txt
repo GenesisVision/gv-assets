@@ -4,5 +4,13 @@ SmartMesh
 Symbol:
 SMT
 
+Description:
+SmartMesh is a blockchain based underlying protocol of the Internet of Things. SmartMesh has built-in blockchain light nodes, and extends the Raiden and Lightning Networks second layer architecture network protocols allowing internet-free digital payments and transactions. Utilizing blockchain-based token incentives, SmartMesh technology allows the formation of agile, decentralized Mesh Networks that can self-repair and have higher near-field speeds and bandwidth than standard Internet connections.
+
 Tags:
 Crypto
+
+Links:
+website: https://smartmesh.io/
+twitter: https://twitter.com/@Smart_Mesh/
+facebook: https://www.facebook.com/smartmesh/

@@ -4,5 +4,15 @@ Achain
 Symbol:
 ACT
 
+Description:
+Achain is a public blockchain platform that aims to enable developers of all levels of experience to issue tokens, smart contracts, and create applications. The platform will use the RDPoS consensus mechanism (Result-delegated Proof of Stake). The Achain token (ACT) will give users the right to access the network services and voting privileges on the platform.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.achain.com/
+twitter: https://twitter.com/AchainOfficial
+facebook: https://www.facebook.com/AchainOfficial/
+telegram: https://t.me/AchainOfficial
+reddit: https://www.reddit.com/r/Achain_Official/

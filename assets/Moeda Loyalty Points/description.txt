@@ -4,5 +4,14 @@ Moeda Loyalty Points
 Symbol:
 MDA
 
+Description:
+MOEDA’s business model exists at the intersection of two exciting, constantly-evolving fields: impact investing and blockchain. It is a comprehensive approach to empowering small-scale entrepreneurs through digital innovation and on-the-ground community support systems. We are a cooperative crypto credit banking platform that aim to enable: a mobile-powered, community-focused lending platform, which allows individuals to establish credit profiles and reputations through establishing digital identities. 
+
 Tags:
 Crypto
+
+Links:
+website: https://moedaseeds.com/
+twitter: https://twitter.com/moedaseeds
+facebook: https://www.facebook.com/moedaseeds/
+telegram: https://t.me/moedaproject

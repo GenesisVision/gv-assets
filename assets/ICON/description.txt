@@ -4,5 +4,15 @@ ICON
 Symbol:
 ICX
 
+Description:
+ICON is an interchain blockchain that connects various blockchains such as Bitcoin, Ethereum, and Qtum. ICX is used as an intermediary cryptocurrency. ICX enables transactions among different cryptocurrencies by determining the exchange rate through DEX Reserve. ICX can be used as for DApp tokens U-coin, which is a DAPP developed by our blockchain team for Korean University Consortium, can be one of these use cases already in development. 
+
 Tags:
 Crypto
+
+Links:
+website: https://icon.foundation/?lang=en
+twitter: https://twitter.com/@helloiconworld
+facebook: https://www.facebook.com/helloicon
+telegram: https://t.me/hello_iconworld
+reddit: https://www.reddit.com/r/helloicon/

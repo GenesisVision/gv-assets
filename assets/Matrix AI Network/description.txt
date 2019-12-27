@@ -4,5 +4,15 @@ Matrix AI Network
 Symbol:
 MAN
 
+Description:
+Designed to be the new generation blockchain, MATRIX leverages the latest artificial intelligence technology to deliver on the promise of blockchain technology. The fusion of blockchain and AI technologies enables MATRIX to build a revolutionary cryptocurrency, which supports significantly boosted transaction speed, superior accessibility to general users, enhanced security under malicious attacks, and highly flexible operations.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.matrix.io/
+twitter: https://twitter.com/MatrixAINetwork
+facebook: https://www.facebook.com/MatrixAINetworks
+telegram: https://t.me/matrixainetwork
+reddit: https://www.reddit.com/r/THEMATRIXAI/

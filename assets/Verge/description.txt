@@ -4,5 +4,15 @@ Verge
 Symbol:
 XVG
 
+Description:
+Verge improves upon the original Bitcoin blockchain with the aim to fulfill its initial purpose; that of providing individuals and businesses with a fast, efficient and decentralized way of everyday transacting while maintaining your privacy. Verge is an open-source software, and a community. It is not a company, never had an ICO, nor premine. The development is entirely funded by the community and the developers. 
+
 Tags:
 Crypto
+
+Links:
+website: https://vergecurrency.com/
+twitter: https://twitter.com/vergecurrency
+facebook: https://www.facebook.com/VERGEcurrency/
+telegram: https://t.me/VERGExvg
+reddit: https://www.reddit.com/r/vergecurrency/

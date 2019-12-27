@@ -4,5 +4,14 @@ Red Pulse Phoenix
 Symbol:
 PHB
 
+Description:
+Red Pulse is a market intelligence platform covering China's financial and capital markets. Our Phoenix Research Platform will connect industry experts, practitioners, and professionals together to share their views and analysis to a global audience. Red Pulse is building the next generation ecosystem for knowledge and research sharing.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.redpulse.com/
+twitter: https://twitter.com/red_pulse_china
+telegram: https://t.me/redpulse
+reddit: https://www.reddit.com/r/RedPulseToken/

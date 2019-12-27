@@ -4,5 +4,14 @@ Odyssey
 Symbol:
 OCN
 
+Description:
+Odyssey(OCN)’s mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem. Odyssey(OCN) is a revolutionary mission against the current centralised sharing economy to build one decentralised sharing economy and peer to peer ecosystem. Odyssey(CON)’s official token is OCN. OCN is the basic unit of accounts in Odyssey(OCN)’s blockchain. The value of all other tokens is derived from the value of OCN. Those who wish to enter or exit Odyssey(OCN) must buy or sell OCN.
+ 
 Tags:
 Crypto
+
+Links:
+website: http://www.ocnex.net/
+twitter: https://twitter.com/OdysseyOCN
+telegram: https://t.me/OdysseyOfficial
+reddit: https://www.reddit.com/r/OdysseyOCNOfficial/

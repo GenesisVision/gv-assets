@@ -4,5 +4,15 @@ Genaro Network
 Symbol:
 GNX
 
+Description:
+Genaro Network is an Ethereum-based storage network, providing blockchain developers a one-stop solution to deploy smart contracts and store data simultaneously. One of the major components of the Hub is the Genaro Accelerator, a resident incubation and acceleration platform that supports the creation of the DAPPS that utilize the Genaro Network. GNX is an ERC20 token that powers Genaro Network.
+
 Tags:
 Crypto
+
+Links:
+website: https://genaro.network/
+twitter: https://twitter.com/GenaroNetwork
+facebook: https://www.facebook.com/GenaroNetwork/
+telegram: https://t.me/GenaroNetworkOfficial
+reddit: https://www.reddit.com/r/GenaroNetwork/

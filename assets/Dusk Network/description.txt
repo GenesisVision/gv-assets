@@ -4,5 +4,13 @@ Dusk Network
 Symbol:
 DUSK
 
+Description:
+Dusk Network is a privacy-oriented blockchain protocol, that anyone can use to create zero-knowledge dApps. Dusk Network is secured by Segregated Byzantine Agreement (SBA). SBA includes Proof of Blind Bid, a private proof-of-stake implementation, that enables block generators to stake anonymously. The team is focussed on delivering a blockchain that offers high-throughput, scalability and instant transaction finality. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.dusk.network/
+twitter: https://twitter.com/duskfoundation
+telegram: https://t.me/DuskNetwork

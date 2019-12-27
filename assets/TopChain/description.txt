@@ -4,5 +4,14 @@ TopChain
 Symbol:
 TOPC
 
+Description:
+Topchain is the world’s leading brand in the gaming blockchain, reshaping the game industry structure with decentralized concept to create a global de-centralized gaming ecosystem. 
+
 Tags:
 Crypto
+
+Links:
+website: http://www.topc.io/
+twitter: https://twitter.com/TOPCHAIN1
+facebook: https://twitter.com/TOPCHAIN1
+telegram: http://t.me/topchaincoin

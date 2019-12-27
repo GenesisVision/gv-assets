@@ -4,5 +4,14 @@ Ontology
 Symbol:
 ONT
 
+Description:
+Ontology is a public blockchain project with distributed data collaboration aiming to build a peer to peer cross system trust network. Ontology trust network provides a strategic cooperation of data systems and trust sources. This network is composed of decentralized identity verification systems, multi factor authentication, distributed ledger technology and distributed data exchange All business types can be applied to Ontology blockchain technology without the need of users having prior knowledge on distributed networks. 
+
 Tags:
 Crypto
+
+Links:
+website: https://ont.io/
+twitter: https://twitter.com/OntologyNetwork
+facebook: https://www.facebook.com/ONTnetwork/
+telegram: https://t.me/OntologyNetwork

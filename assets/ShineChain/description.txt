@@ -4,5 +4,12 @@ ShineChain
 Symbol:
 SHE
 
+Description:
+ShineChain is a global mutual insurance community based on blockchain technology. Shine Chain provides a Public-beneficial Mutual Insurance, a mutual insurance solving trust problem based on blockchain technology as well as a mutual insurance for global users.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.shinechain.org/
+facebook: https://twitter.com/_shinechain?lang=en

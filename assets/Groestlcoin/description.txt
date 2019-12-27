@@ -4,5 +4,15 @@ Groestlcoin
 Symbol:
 GRS
 
+Description:
+Groestlcoin is a fast and secure coin with almost ZERO fees, that is privacy oriented. Major development release every 3 months. Groestlcoin was the first coin that activated SEGWIT and is Lightning Network ready. The cryptocurrency operates as open source software on a peer-to-peer model (transactions take place directly between the payer and payee).
+
 Tags:
 Crypto
+
+Links:
+website: https://www.groestlcoin.org/
+twitter: https://twitter.com/GroestlcoinTeam
+facebook: https://www.facebook.com/groestlcoin/
+telegram: http://t.me/groestl
+reddit: https://www.reddit.com/r/groestlcoin/

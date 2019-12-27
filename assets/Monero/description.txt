@@ -4,5 +4,14 @@ Monero
 Symbol:
 XMR
 
+Description:
+Monero (XMR, formerly BitMonero) is a fork of Bytecoin (on 18th April 2014) that emphasises the obfuscation of private data (like addresses and transaction values) making for a blockchain with a public ledger with open access for broadcasting and writing transactions but with complete privacy for users. Each user can read the portions of the blockchain that relate directly to their own addresses, or can choose to broadcast unobfuscated transactions. Monero (XMR) aims to be fiat currency replacement, a store of value. Due to the untraceability of transactions, all Monero coins are essentially fungible as no transaction history can be attached to them, thus making them functionally identical. 
+
 Tags:
 Crypto
+
+Links:
+website: https://web.getmonero.org/
+twitter: https://twitter.com/monero
+telegram: https://telegram.me/bitmonero
+reddit: https://www.reddit.com/r/Monero/

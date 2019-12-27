@@ -4,5 +4,15 @@ QuarkChain
 Symbol:
 QKC
 
+Description:
+The QuarkChain Network is an innovative permissionless blockchain architecture that aims to meet global commercial standards.  It provides a secure, decentralized, and scalable blockchain solution to deliver 100,000+ on-chain TPS. QuarkChain is the only public chain that can support multiple consensuses, multiple transaction model ( including virtual machines VMs), ledger, and token economics in one network.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.quarkchain.io/
+twitter: https://twitter.com/Quark_Chain
+facebook: https://www.facebook.com/quarkchainofficial/
+telegram: https://t.me/quarkchainio
+reddit: https://www.reddit.com/r/quarkchainio/

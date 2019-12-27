@@ -4,5 +4,14 @@ WaykiChain
 Symbol:
 WICC
 
+Description:
+The third-generation blockchain commercial public chain independently researched and developed by WaykiChain is at leading level in the industry. With high-performance transaction processing capabilities, efficient consensus mechanisms, powerful smart contract engines, and the blockchain upgrade management capabilities, WaykiChain is able to provide enterprise-level blockchain infrastructure and industry solutions.  
+
 Tags:
 Crypto
+
+Links:
+website: https://waykichain.com/
+twitter: https://twitter.com/wayki_chain
+facebook: https://www.facebook.com/waykichainofficial
+telegram: https://t.me/wiccofficial

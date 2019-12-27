@@ -4,5 +4,15 @@ Polymath
 Symbol:
 POLY
 
+Description:
+The Polymath Network is a blockchain-based system to coordinate and incentivize participants to collaborate and launch financial products on the blockchain. The Polymath team aims to create a standard token protocol which embeds defined requirements into the tokens themselves to ease the primary issuance and secondary trading of blockchain securities tokens.
+
 Tags:
 Crypto
+
+Links:
+website: https://polymath.network/
+twitter: https://twitter.com/polymathnetwork
+facebook: https://www.facebook.com/polymathnetwork
+telegram: https://t.me/polymathnetwork
+reddit: https://www.reddit.com/r/PolymathNetwork/

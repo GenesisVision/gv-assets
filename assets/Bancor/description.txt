@@ -4,5 +4,15 @@ Bancor
 Symbol:
 BNT
 
+Description:
+The Bancor Protocol is a blockchain-based system for discovery and a liquidity mechanism supporting multiple smart contract platforms. The BNT is the first smart token on the Bancor system and it will hold a single reserve in Ether. Other smart tokens, by using BNT as one of their reserves, connect to the BNT network. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.bancor.network/
+twitter: https://twitter.com/Bancor
+facebook: https://www.facebook.com/bancor
+telegram: https://telegram.me/bancor
+reddit: https://www.reddit.com/r/Bancor/

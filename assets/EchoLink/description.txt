@@ -4,5 +4,14 @@ EchoLink
 Symbol:
 EKO
 
+Description:
+EchoLink is a blockchain based system that provides verified education, skill, and work experience information. EchoLink provides users with trusted information regarding a job candidate's education, skill, and work experience. EchoLink provides savings to recruiters in time and financial resources. The EchoLink system can also be used for additional industries, such as banking, finance, general notary service.
+
 Tags:
 Crypto
+
+Links:
+website: https://echolink.info/
+twitter: https://twitter.com/EkoTechPlatform?lang=en
+telegram: https://t.me/EcholinkOfficial
+reddit: https://www.reddit.com/r/EchoLinkInfo/

@@ -4,5 +4,13 @@ Decred
 Symbol:
 DCR
 
+Description:
+Decred is a community-directed digital currency designed to be a superior store of value for generations to come. Decred uses a hybrid Proof-of-Work (PoW) and Proof-of-Stake (PoS) consensus mechanism designed to keep PoW miners’ power in in check and ensure no group can make consensus rule changes without the consent of the community. 
+
 Tags:
 Crypto
+
+Links:
+https://www.decred.org/https://genesis.vision/
+twitter: https://twitter.com/decredproject
+reddit: https://www.reddit.com/r/decred/

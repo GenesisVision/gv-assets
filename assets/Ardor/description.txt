@@ -4,5 +4,15 @@ Ardor
 Symbol:
 ARDR
 
+Description:
+Ardor is a blockchain-as-a-service-platform that evolved from the time-tested Nxt blockchain. The unique parent-child chain architecture of Ardor, with a single security chain and multiple transactional chains, enables three fundamental advantages - reducing blockchain bloat, providing multiple transactional tokens, and hosting ready-to-use interconnected blockchains. 
+
 Tags:
 Crypto
+
+Links:
+website: https://ardorplatform.org/
+twitter: https://twitter.com/ArdorPlatform
+facebook: https://www.facebook.com/ardorplatform
+telegram: https://t.me/ardorplatform
+reddit: https://www.reddit.com/r/Ardor/

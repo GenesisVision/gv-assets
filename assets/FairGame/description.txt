@@ -4,5 +4,13 @@ FairGame
 Symbol:
 FAIR
 
+Description:
+World's First Blockchain-based Business Simulation Game Fair City Brings Transparency to Your Own Kingdom.
+
 Tags:
 Crypto
+
+Links:
+website: https://fair.game/
+twitter: https://twitter.com/FairGameOnline
+telegram: https://t.co/wmbycUk1qD

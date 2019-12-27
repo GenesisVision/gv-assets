@@ -4,5 +4,15 @@ Enjin Coin
 Symbol:
 ENJ
 
+Description:
+Built on top of a robust on-chain infrastructure and comprised of the Enjin Platform, Explorer, Wallet, Beam, and other tools and services, the Enjin ecosystem empowers gamers with true ownership of digital assets and enables game industry businesses to increase revenue, gain a competitive edge, and innovate in previously impossible ways.
+
 Tags:
 Crypto
+
+Links:
+website: https://enjin.io/
+twitter: https://twitter.com/enjin
+facebook: https://www.facebook.com/enjinsocial
+telegram: https://t.me/enjin_coin/
+reddit: https://www.reddit.com/r/EnjinCoin/

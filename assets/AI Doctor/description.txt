@@ -4,5 +4,14 @@ AI Doctor
 Symbol:
 AIDOC
 
+Description:
+AI Doctor (AIDOC) is a cryptocurrency token issued on the Ethereum platform.The most active exchange that is trading AI Doctor is Huobi Global. Explore the address and transactions of AI Doctor on block explorers such as etherscan.io, ethplorer.io, and enjinx.io.
+
 Tags:
 Crypto
+
+Links:
+website: http://www.aidoc.me/
+twitter: https://twitter.com/AIDOCMe
+facebook: http://www.aidoc.me/
+telegram: http://www.aidoc.me/telegram

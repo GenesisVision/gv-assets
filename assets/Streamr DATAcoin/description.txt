@@ -4,5 +4,14 @@ Streamr DATAcoin
 Symbol:
 DATA
 
+Description:
+The community behind the award winning platform Streamr, is building the open source infrastructure that will power the world’s data economy. Our Marketplace application sits on top of our Network and acts as a storefront for the world’s real-time data streams. It categorises, bundles, sorts and showcases all available data products, both free and commercial, on the Streamr Network, and acts as a single common interface for bringing together data buyers and sellers. 
+
 Tags:
 Crypto
+
+Links:
+website: https://streamr.network/
+twitter: https://twitter.com/streamr
+telegram: https://t.me/streamrdata
+reddit: https://www.reddit.com/r/streamr/

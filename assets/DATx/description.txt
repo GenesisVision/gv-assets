@@ -4,5 +4,15 @@ DATx
 Symbol:
 DATX
 
+Description:
+DATx was initiated in early 2018 by Cosima Foundation as a cross-chain interoperable ecosystem. With the innovative X-DPOS consensus mechanism, DATx cross-chain interoperability will increase market penetration for DAPPs. By supporting BTC, ETH, and EOS in the DATx ecosystem, DAPPs have access to almost 70% of the blockchain industry market capitalization. 
+
 Tags:
 Crypto
+
+Links:
+website: https://datx.co/
+twitter: https://twitter.com/DATxOfficial
+facebook: https://www.facebook.com/DATx-210156636211492/
+telegram: https://t.me/datxofficial01
+reddit: https://www.reddit.com/user/DatxOfficial

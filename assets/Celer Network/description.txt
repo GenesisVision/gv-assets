@@ -4,5 +4,14 @@ Celer Network
 Symbol:
 CELR
 
+Description:
+Celer Network is a leading layer-2 scaling platform that enables fast, easy and secure off-chain transactions for not only payment transactions, but also generalized off-chain smart contract. It enables everyone to quickly build, operate, and use highly scalable decentralized applications through innovations in off-chain scaling techniques and incentive-aligned cryptoeconomics.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.celer.network/
+twitter: https://twitter.com/CelerNetwork
+facebook: https://www.facebook.com/Celernetwork/
+telegram: https://t.me/celernetwork

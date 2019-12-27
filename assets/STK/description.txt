@@ -4,5 +4,14 @@ STK
 Symbol:
 STK
 
+Description:
+The STK token will enable real time point of sale (POS) transactions directly from users’ private cryptocurrencywallets. The STK token is part of a global solution to facilitate borderless transactions. The STK token provides access to our state channels which a) ensure there is suffcient cryptocurrency (i.e. Bitcoin, Ether) in the digital wallet and b) users spending fat at point of sale will complete the purchase from their cryptocurrency assets. 
+
 Tags:
 Crypto
+
+Links:
+website: https://stktoken.com/
+twitter: https://twitter.com/stktoken
+telegram: https://t.me/stktoken
+reddit: https://www.reddit.com/r/STKToken/

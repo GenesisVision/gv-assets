@@ -4,5 +4,15 @@ Elrond
 Symbol:
 ERD
 
+Description:
+Elrond enables efficient and competitive dApp & smart contract deployments for real world use cases. The end user experience benefits from fast transaction speeds, while the high throughput and low costs enable the realization of business cases at scale, in even the most demanding environments such as machine-to-machine transactions and IoT deployments.
+
 Tags:
 Crypto
+
+Links:
+website: https://elrond.com/
+twitter: https://twitter.com/elrondnetwork
+facebook: https://www.facebook.com/ElrondNetwork/
+telegram: https://t.me/ElrondNetwork
+reddit: https://www.reddit.com/r/elrondnetwork/

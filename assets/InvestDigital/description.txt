@@ -4,5 +4,13 @@ InvestDigital
 Symbol:
 IDT
 
+Description:
+InvestDigital is the asset management protocol and toolset for cryptocurrencies, and it is implemented on EOS blockchain. Our vision is to build the completed ecosystem from content/tool production to investment strategy and then to financial products for cryptocurrency investment.
+
 Tags:
 Crypto
+
+Links:
+website: https://investdigital.info/?lang=EN
+twitter: https://twitter.com/hashtag/InvestDigital?src=hash&lang=en
+telegram: https://investdigital.info//public/img/telegram.png

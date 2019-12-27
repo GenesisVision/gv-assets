@@ -4,5 +4,15 @@ Aelf
 Symbol:
 ELF
 
+Description:
+Aelf is a decentralized self-evolving cloud computing network. Aelf provides a highly efficient multi-chain parallel-processing system with cross-chain communication and self-evolving governance. ELF tokens are used to pay resource fees in the system, such as the deployment of smart contracts, operating and upgrading of systems (transaction fees, cross-chain data transfer fees). 
+
 Tags:
 Crypto
+
+Links:
+website: https://aelf.io/
+twitter: https://twitter.com/aelfblockchain
+facebook: https://www.facebook.com/aelfofficial/
+telegram: https://t.me/aelfblockchain
+reddit: https://www.reddit.com/r/aelfofficial/

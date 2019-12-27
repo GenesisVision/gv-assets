@@ -4,5 +4,14 @@ Yuan Chain Coin
 Symbol:
 YCC
 
+Description:
+The Yuan Chain platform combines various innovative technologies,such as Hot Replacement Smart Contract and inter-blockchain technology, building a new blockchain network architecture. It features the decentralized characteristics of public blockchain while capable of having the high performance and privacy for which a permissioned blockchain is needed.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.yuan.org/
+twitter: https://twitter.com/yuanchain
+telegram: https://t.me/yccorg
+reddit: https://www.reddit.com/user/yuanchain/

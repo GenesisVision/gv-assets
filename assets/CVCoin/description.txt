@@ -4,5 +4,14 @@ CVCoin
 Symbol:
 CVCOIN
 
+Description:
+CVCoin (CVN) is a cryptocurrency token and operates on the BitShares platform. CVCoin has a current supply of 15,000,000 with 12,380,890 in circulation. 
+
 Tags:
 Crypto
+
+Links:
+website: https://crypviser.network/
+twitter: https://twitter.com/crypviser
+facebook: https://www.facebook.com/crypviser/
+reddit: https://www.reddit.com/r/Crypviser/

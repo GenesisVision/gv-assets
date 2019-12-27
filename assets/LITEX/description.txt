@@ -4,5 +4,14 @@ LITEX
 Symbol:
 LXT
 
+Description:
+LITEX is a completely decentralized payment ecosystem for cryptocurrency. Built on LTXN（LITEX Network), Litex supports instant micropayments with extreme low service charge. 
+
 Tags:
 Crypto
+
+Links:
+website: https://litex.io/
+twitter: http://twitter.com/litex_io
+facebook: http://facebook.com/litex.io
+telegram: https://t.me/litex_official

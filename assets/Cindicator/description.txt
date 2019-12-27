@@ -4,5 +4,14 @@ Cindicator
 Symbol:
 CND
 
+Description:
+Cindicator is a fintech company improving investment decision-making amid high uncertainty through predictive analytics. Cindicator uses blockchain technology to create a unique ecosystem of 116,000 decentralized analysts whose insights are enhanced by AI. Сindicator’s founders envision a future where the collective intelligence of analysts, data scientists, and investors is leveraged by AI to solve the most pressing problems of the post-capitalist era. 
+
 Tags:
 Crypto
+
+Links:
+website: https://cindicator.com/
+twitter: https://twitter.com/Cindicator
+facebook: https://www.facebook.com/crowdindicator
+telegram: https://t.me/cindicator_chat

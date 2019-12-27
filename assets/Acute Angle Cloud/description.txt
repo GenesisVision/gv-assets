@@ -4,5 +4,13 @@ Acute Angle Cloud
 Symbol:
 AAC
 
+Description:
+Acute Angle Cloud is a globally distributed IaaS platform. It is designed to be a globally distributed cloud computing service with a basic-layer platform based on the New PC Network (distributed hardware terminals), the Acute Angle Chain and CAN (Content-Addressable Network). 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.acuteangle.com/
+twitter: https://twitter.com/AcuteAngleCloud
+facebook: https://business.facebook.com/AcuteAngleCloud/

@@ -4,5 +4,15 @@ TOP
 Symbol:
 TOP
 
+Description:
+TOP Network is a decentralized open communication network that provides cloud communication services on the blockchain. TOP offers secure, low-cost services such as messaging, calling, video, VPN, CDN, IoT data sharing and more. TOP Network is also a high-performance public blockchain platform designed to handle real-world business of any size or volume. Powered by innovations including three-layer network, two-layer sharding, two-layer lattice DAG and PBFT-DPoS*, TOP can process several hundred thousand transactions per second on the blockchain.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.topnetwork.org/
+twitter: https://twitter.com/topnetwork_top
+facebook: https://www.facebook.com/topnetworktop/
+telegram: https://t.me/topnetwork_top
+reddit: https://www.reddit.com/r/TOP_Network/

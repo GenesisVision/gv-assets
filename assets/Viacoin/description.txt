@@ -4,5 +4,14 @@ Viacoin
 Symbol:
 VIA
 
+Description:
+Viacoin (VIA) is a cryptocurrency built for fast and secure microtransactions. Viacoin transactions are confirmed every 24 seconds, which is much faster compared to other popular cryptocurrencies like Litecoin (2,5 minutes) and Bitcoin (10 minutes). Viacoin transactions are extremely cheap (<$0.0005) regardless of the amount you are sending. Viacoin has wallets on Windows, macOS, Linux, Android and iOS. 
+
 Tags:
 Crypto
+
+Links:
+website: https://viacoin.org/
+twitter: https://twitter.com/viacoin
+telegram: https://telegram.me/viacoin
+reddit: https://www.reddit.com/r/viacoin

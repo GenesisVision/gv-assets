@@ -4,5 +4,14 @@ Waltonchain
 Symbol:
 WTC
 
+Description:
+Based on the blockchain, Waltonchain resorts to RFID technology to promote blockchain from the Internet to the Internet of Things to realize the concept of Value Internet of Things so as to create an authentic, traceable and data-fully shared, completely transparent business model. The purpose is to build a public chain of commercial ecology at the bottom of the chain.
+
 Tags:
 Crypto
+
+Links:
+website: http://www.waltonchain.org/
+twitter: https://twitter.com/Waltonchain
+telegram: https://t.me/waltonchain_en
+reddit: https://www.reddit.com/r/waltonchain/

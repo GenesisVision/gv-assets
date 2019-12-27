@@ -4,5 +4,15 @@ SONM
 Symbol:
 SNM
 
+Description:
+SONM, the autonomous decentralized system, and blockchain-based marketplace, offers a comprehensive alternative to the cloud using a fog computing structure. SONM allows users to connect their personal devices to one virtual space, creating a decentralized platform where consumers and suppliers can rent computing power from one another to be used for specific computerized tasks. 
+
 Tags:
 Crypto
+
+Links:
+website: https://sonm.com/
+twitter: https://twitter.com/sonmdevelopment
+facebook: https://www.facebook.com/SONMproject
+telegram: https://t.me/sonm_eng
+reddit: https://www.reddit.com/r/SONM/

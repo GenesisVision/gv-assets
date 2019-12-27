@@ -4,5 +4,14 @@ SunContract
 Symbol:
 SNC
 
+Description:
+The SunContract platform empowers individuals, with an emphasis on homeowners, to freely buy, sell or trade electricity. SunContract gives you the opportunity to become completely energy self-sufficient. Through the platform, you can buy electricity, solar power plants, heat pumps and storage units and select between a wide array of energy products and services.
+
 Tags:
 Crypto
+
+Links:
+website: https://suncontract.org/
+twitter: https://twitter.com/sun_contract
+facebook: https://www.facebook.com/suncontract.org/
+telegram: https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw

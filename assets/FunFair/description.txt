@@ -4,5 +4,15 @@ FunFair
 Symbol:
 FUN
 
+Description:
+FunFair is building a game-changing B2B platform using pioneering blockchain technology to bring transparency, efficiency, and access to new markets to the casino sector. FunFair Coin (FUN) is the cryptocurrency of the FunFair platform. The cryptocurrency is used to finance the platform. It also functions like a casino chip, any player wishing to play online at a FunFair casino must purchase FunFair Coins to place a bet. The prize will also be paid out in FunFair Coin.
+
 Tags:
 Crypto
+
+Links:
+website: https://funfair.io/
+twitter: https://twitter.com/FunFairTech
+facebook: https://www.facebook.com/funfairtech/
+telegram: https://t.me/joinchat/HtUKhUpG0FCu_X25mnU2Bg
+reddit: https://www.reddit.com/r/FunfairTech/

@@ -4,5 +4,15 @@ GXChain
 Symbol:
 GXS
 
+Description:
+GXChain is a fundamental blockchain for the global data economy, designed to build a trusted data internet of value. Since November 2018, GXChain has been rebranded from GXS to GXC. Based on decentralization, cryptography, and smart token design, GXChain provides a leading solution for the data economy by developing multiple trusted data modules. Data uploading, storage, computation, and exchange has been gradually realized with many commercialized applications.
+
 Tags:
 Crypto
+
+Links:
+website: https://gxs.gxb.io/
+twitter: https://twitter.com/GXChainGlobal
+facebook: https://www.facebook.com/GXChain/
+telegram: https://t.me/GXB_China
+reddit: https://www.reddit.com/r/GXS/

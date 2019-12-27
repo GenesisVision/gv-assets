@@ -4,5 +4,14 @@ UGAS
 Symbol:
 UGAS
 
+Description:
+Ultrain is a global leading public-chain 3.0 provider, an innovative general-purpose tech-infrastructure aiming to be the decentralized amazon cloud+andriod. ltrain’s goal is to be the No.1 commercial public-chain globally, not only providing a state of art technology, but also able to construct a real business ecosystem on top, leveraging it’s powerful R&D capabilities and unrivaled top global business resources provided by it’s founding team.  
+
 Tags:
 Crypto
+
+Links:
+website: https://ultrain.info/
+twitter: https://twitter.com/UltrainB
+facebook: https://www.facebook.com/Ultraincommunity/
+telegram: https://t.me/UltrainOfficial

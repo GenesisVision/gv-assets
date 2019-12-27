@@ -4,5 +4,14 @@ Medicalchain
 Symbol:
 MTN
 
+Description:
+Medicalchain enables users to give healthcare professionals access to their health data and records interactions with this data in an auditable, transparent and secure way on Medicalchain’s distributed ledger. Moreover, Medicalchain is a platform for others to build applications on top of to complement and improve the user experience. Users will be able to leverage their medical data to power a plethora of applications and services.
+
 Tags:
 Crypto
+
+Links:
+website: https://medicalchain.com/ru/
+twitter: https://twitter.com/medical_chain
+facebook: https://www.facebook.com/medicalchain/
+telegram: https://t.me/medicalchain

@@ -4,5 +4,13 @@ Ethos
 Symbol:
 BQX
 
+Description:
+Ethos is a people-powered blockchain platform. Our mission is to build a financial ecosystem that is open, safe and fair for everybody.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.ethos.io/
+twitter: https://twitter.com/ethos_io?lang=en
+

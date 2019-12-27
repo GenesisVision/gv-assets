@@ -4,5 +4,14 @@ Po.et
 Symbol:
 POE
 
+Description:
+Po.et is a shared, open, universal ledger designed to record metadata and ownership information for digital creative assets. Po.et is a continuation of Proof of Existence, the first non-financial application of the blockchain. By creating an open platform on the Bitcoin blockchain, Po.et aims to create the most institutional, globally-verifiable record of digital media assets. This record will be a framework for building smart, interoperable media applications using a shared, standard and extensible metadata format.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.po.et/
+twitter: https://twitter.com/_poetproject
+telegram: https://t.me/joinchat/GKMQ1kOQSdXVZpN1Rygcdw
+reddit: https://www.reddit.com/r/poetproject/

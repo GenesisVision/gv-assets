@@ -4,5 +4,13 @@ Ripple
 Symbol:
 XRP
 
+Description:
+Ripple, the company behind xRapid, xCurrent and XRP solutions continues to invest heavily in developing its ecosystem.  Its main objective has always been to increase the intrinsic value of its currency and trading technologies, as well as taking the adoption of cryptocurrencies to a new level. The company recently partnered with MoneyGram, an international money transfer service.  XRapid and xCurrent can be used to settle international transactions faster and much cheaper than using traditional methods. 
+
 Tags:
 Crypto
+
+Links:
+website: https://ripple.com/
+twitter: https://twitter.com/Ripple
+facebook: https://www.facebook.com/ripplepay

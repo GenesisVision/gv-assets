@@ -4,5 +4,13 @@ FansTime
 Symbol:
 FTI
 
+Description:
+FansTime is a blockchain project of global fan economy that links assets of the real world to the world of digital. FTI is an official encrypted digital currency in the FansTime ecosystem based on the launch of FansTime Chain. FTI is the official token for any transaction conducted in the ecosystem and the backbone economic system of the ecosystem.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.fanstime.org/
+twitter: https://twitter.com/FTI_Foundation
+telegram: http://t.me/fanstimeglobal

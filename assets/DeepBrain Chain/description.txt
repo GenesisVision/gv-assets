@@ -4,5 +4,14 @@ DeepBrain Chain
 Symbol:
 DBC
 
+Description:
+DeepBrain Chain is a decentralized neural network. Countless nodes across the world will supply computational power to AI companies and receive DBC as rewards. 70% of the DBC will be paid by the system and AI companies only need to pay 30%. Our token, DBC, is traded via smart contracts based on NEO. We use a hybrid consensus mechanism combining DPOS with POI. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.deepbrainchain.org/
+twitter: https://twitter.com/DeepBrainChain
+telegram: https://t.me/deepbrainchain
+reddit: https://www.reddit.com/r/DeepBrainChain/

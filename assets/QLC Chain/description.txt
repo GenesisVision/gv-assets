@@ -4,5 +4,15 @@ QLC Chain
 Symbol:
 QLC
 
+Description:
+QLC Chain is the next generation public Blockchain for decentralized Network-as-a-Service(NaaS). The QLC Chain and supporting ecosystem will enable any individual, business or organization to leverage their network resources to instantly become a service provider or network operator. The mission is to bring people online through a simpler, more pleasant, and more secure way with full transparency.
+
 Tags:
 Crypto
+
+Links:
+website: https://qlcchain.org/
+twitter: https://twitter.com/QLCchain
+facebook: https://www.facebook.com/QLCchain/
+telegram: https://t.me/qlinkmobile
+reddit: https://www.reddit.com/r/QLCChain/

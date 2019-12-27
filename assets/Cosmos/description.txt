@@ -4,5 +4,14 @@ Cosmos
 Symbol:
 ATOM
 
+Description:
+Developed by the Tendermint team since 2016, Cosmos is a highly forward-looking cross-chain blockchain project that aims to achieve a “blockchain-based internet” based on token transfer and to construct a deeply integrated token economy ecosystem. Cosmos Hub is the first cross-chain hub of the Cosmos ecosystem, and ATOM is the native staking token of Cosmos Hub, which can be used for spam prevention, staking dividends, and community management voting.
+
 Tags:
 Crypto
+
+Links:
+website: https://cosmos.network/
+twitter: https://twitter.com/cosmos
+telegram: https://t.me/cosmosproject
+reddit: https://www.reddit.com/r/cosmosnetwork/

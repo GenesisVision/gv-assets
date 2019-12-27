@@ -4,5 +4,14 @@ Bitcoin
 Symbol:
 BTC
 
+Description:
+The theory behind Bitcoin was first described by Satoshi Nakomoto in a paper “Bitcoin: A Peer to Peer Electronic Cash System”published to a cryptographic mailing list on the 31st of October 2008. The total supply of Bitcoins is capped at 21 million coins (roughly 18 million are currently in circulation), with each coin being divisible to the 8th decimal place, with a single unit of the smallest division (0.00000001 BTC) being known colloquially as a Satoshi (or sat). The software to run miners and wallets is open source and decentralized, meaning that the network is accessible to anyone with a computer and an internet connection. Transactions are validated and written into the blockchain by miners selected via the Proof of Work (SHA-256) protocol. 
+
 Tags:
 Crypto
+
+Links:
+website: https://bitcoin.org/en/
+twitter: https://bitcoin.org/en/
+facebook: https://bitcoin.org/en/
+reddit: https://www.reddit.com/r/Bitcoin/

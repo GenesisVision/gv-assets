@@ -4,5 +4,14 @@ OST
 Symbol:
 OST
 
+Description:
+OST blockchain infrastructure empowers new economies for mainstream businesses and emerging DApps. OST leads development of the OpenST Protocol, a framework for tokenizing businesses. OST KIT is a full-stack suite of developer tools, APIs and SDKs for managing blockchain economies. OST partners reach more than 300 million end-users. OST has offices in Berlin, New York, Hong Kong, and Pune. OST is backed by leading institutional equity investors including Tencent, Greycroft, Vectr Ventures, and 500 Startups.
+
 Tags:
 Crypto
+
+Links:
+website: https://ost.com/
+twitter: https://twitter.com/OSTdotcom
+facebook: https://www.facebook.com/OST
+telegram: https://t.me/ostdotcom

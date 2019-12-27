@@ -4,5 +4,15 @@ Nucleus Vision
 Symbol:
 NCASH
 
+Description:
+Founded in 2014 at Harvard University, Nucleus is an end-to-end technology solution that captures and provides previously unaccessed data to retailers and other ‘brick and mortar’ businesses through its proprietary blockchain and real time sensor technology. The solution that Nucleus has built, which currently has ION Sensors deployed in 10 live retail establishments, will support a valuable data network for unique visitor IDs and corresponding user data. Our proprietary IoT sensor technology doesn’t depend on any RFID, WiFi Bluetooth, or even facial recognition technologies to operate.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.nucleus.vision/
+twitter: https://twitter.com/NucleusVision
+facebook: https://www.facebook.com/NucleusVision/
+telegram: https://t.me/NucleusVision_ann
+reddit: https://www.reddit.com/r/NucleusVision/

@@ -4,5 +4,15 @@ LinkEye
 Symbol:
 LET
 
+Description:
+LinkEyeis a Hyperledger Fabric based consortium-blockchain solution to facilitate global credit alliance. Utilizating blockchain technology and credit economy model enables Linkeye to create a shared list of untrusted profiles within the credit alliance through connecting isolated islands of credit data, creating acomprehensive, reliable credit database. This serves to boost and supplement the credit system of society, eventually achieving the end goal of creating fairness in credit access for all.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.linkeye.com/#/
+twitter: https://twitter.com/LinkEyeProject
+facebook: https://www.facebook.com/LinkEyeOfficial/
+telegram: https://telegram.me/LinkEyeProject
+reddit: https://www.reddit.com/user/LinkEyeOfficial/

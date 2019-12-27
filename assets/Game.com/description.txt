@@ -4,5 +4,12 @@ Game.com
 Symbol:
 GTC
 
+Description:
+GTC (G Coins) is Game.com’s global decentralized blockchain cryptocurrency based on the Ethereum ERC20 standard, intended to become standard virtual currency for the global games industry. A total of 2 billion GTC have been made available. 
+
 Tags:
 Crypto
+
+Links:
+website: https://game.com/
+twitter: https://twitter.com/gameblockchain

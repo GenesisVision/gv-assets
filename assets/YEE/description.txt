@@ -4,5 +4,19 @@ YEE
 Symbol:
 YEE
 
+Description:
+Yee is a blockchain-powered & cloud-based social ecosystem. Yee project includes 4 parts: 
+1. YeeChain: a blockchain supporting fast transaction and high-efficiency storage;
+2. YeeNet: a cloud-based communication network based on YeeChain;
+3. Typical applications: YeeCall, YeeWallet, Dapps (decentralized applications), and YeeStore; 
+4. Yee ecosystem.
+
 Tags:
 Crypto
+
+Links:
+website: https://yeeco.io/
+twitter: https://twitter.com/YeeCoOfficial
+facebook: https://www.facebook.com/YeeCoOfficial/
+telegram: https://t.me/yeeofficialgroup
+reddit: https://www.reddit.com/user/yeetoken

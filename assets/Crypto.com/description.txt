@@ -4,5 +4,15 @@ Crypto.com
 Symbol:
 MCO
 
+Description:
+Crypto.com Chain will be a high performing native blockchain solution, which will make the transaction flows between crypto users and merchants accepting crypto seamless, cost-efficient and secure. 
+
 Tags:
 Crypto
+
+Links:
+website: https://crypto.com/en/chain
+twitter: https://twitter.com/cryptocom
+facebook: https://www.facebook.com/CryptoComOfficial
+telegram: https://t.me/CryptoComOfficial
+reddit: https://www.reddit.com/r/Crypto_com/

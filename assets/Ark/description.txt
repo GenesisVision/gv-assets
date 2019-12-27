@@ -4,5 +4,14 @@ Ark
 Symbol:
 ARK
 
+Description:
+ARK is an Interoperable Blockchain Development Platform, Giving startups/developers/users the ability to build there own project/blockchain/app on ARK, or their very own ARK based chain. ARK provides 18+ Software Development Kits using most major programming languages, giving every developer an advantage to jump into Blockchain development without the need to learn a new programming language.  ARK also has a native token, tradable at most major exchanges with lightning fast transaction times and fully customizable dynamic fees. 
+
 Tags:
 Crypto
+
+Links:
+website: https://ark.io/
+twitter: https://twitter.com/ArkEcosystem
+facebook: https://www.facebook.com/ArkEcosystem/
+reddit: https://www.reddit.com/r/ArkEcosystem/

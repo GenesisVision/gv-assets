@@ -4,5 +4,14 @@ Aave
 Symbol:
 LEND
 
+Description:
+ETHLend.io introduces decentralized lending on Ethereum network by using ERC-20 compatible tokens or Ethereum Name Service (ENS) domains as a collateral. ETHLend solves the problem of reducing the loss of loan capital on default. ETHLend provides decentralized solutions to avoid loss of capital and to make one true global lending market available.
+
 Tags:
 Crypto
+
+Links:
+website: https://aave.com/
+twitter: https://twitter.com/aaveaave
+facebook: https://www.facebook.com/AaveCom/
+telegram: https://t.me/Aavesome

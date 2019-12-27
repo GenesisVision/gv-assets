@@ -4,5 +4,14 @@ Matryx
 Symbol:
 MTX
 
+Description:
+Matryx provides a structure that reduces the friction of rewarding collaborators. Rather than attributing all the credit to one person or one group who proposes a solution that is built on other people’s work, Matryx tracks the provenance of assets, enables collaboration, and divides rewards amongst all participants. In this way Matryx can reward each unit of progress towards the goal. 
+
 Tags:
 Crypto
+
+Links:
+website: https://nanome.ai/matryx/
+twitter: hthttps://twitter.com/nanome_inctps://twitter.com/genesis_vision/
+facebook: https://www.facebook.com/nanomeinc/
+telegram: https://t.me/matryxai

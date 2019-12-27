@@ -4,5 +4,14 @@ Skycoin
 Symbol:
 SKY
 
+Description:
+Skycoin is a 3rd-generation cryptocurrency platform that anchors a revolutionary blockchain ecosystem. At the core of the Skycoin ecosystem is a novel consensus mechanism called Obelisk, which moves beyond Proof-of-Work and Proof-of-Stake to allow lighting-fast transaction speeds at the same time as being highly energy efficient, immune to mining centralization and 51% attacks.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.skycoin.com/
+twitter: https://twitter.com/skycoinproject
+facebook: https://www.facebook.com/SkycoinOfficial/
+telegram: https://t.me/Skycoin

@@ -4,5 +4,14 @@ Newton
 Symbol:
 NEW
 
+Description:
+Newton Project aims to build infrastructure for community-based economy, and through the provision of services around governance, collaboration and incentives, Newton upgrades corporate economy to a brand new community-based economy that benefits everyone who contributes. Newton has a full-stack technology architecture, including the underlying public chain New Chain (mainnet launched in December 18, 2018, with a “Main chain + sub chain”structure and POA consensus mechanism, TPS over 5000 and is scalable enough for various business applications), distributed storage service New Net and New IOT (covering more than a dozen sensors). 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.newtonproject.org/
+twitter: https://twitter.com/newton_project
+facebook: https://www.facebook.com/newtonproject
+telegram: https://t.me/Newtonproject

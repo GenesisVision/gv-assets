@@ -4,5 +4,13 @@ MIOTA
 Symbol:
 IOTA
 
+Description:
+IOTA is an open-source distributed ledger protocol that goes 'beyond blockchain' through its core invention of the blockless ‘Tangle’. The IOTA Tangle is a quantum-proof Directed Acyclic Graph, with no fees on transactions & no fixed limit on how many transactions can be confirmed per second in the network. Unlike blockchain architecture, IOTA has no separation between users and validators. IOTA is initially focused on serving as the backbone of the emerging Internet-of-Things (IoT).
+
 Tags:
 Crypto
+
+Links:
+website: https://www.iota.org/
+twitter: https://twitter.com/iotatoken
+facebook: https://www.facebook.com/iotatoken

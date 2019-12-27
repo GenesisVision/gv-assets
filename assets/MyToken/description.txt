@@ -4,5 +4,14 @@ MyToken
 Symbol:
 MT
 
+Description:
+MyToken is an application providing aggregate crypto market information across exchanges. We aim to build a healthy cryptocurrency investing platform and provide investors with the most objective data, information and tools which will help them gain in-depth understanding of the blockchain industry and projects. With data integration, UGC, community and ecosystem services together, we can effectively reduce decision-making costs for cryptocurrency investors and thus help them actively participate in the blockchain world.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.mytokencap.com/en/
+twitter: https://twitter.com/mytokenio
+facebook: https://www.facebook.com/MyTokenio-175148076435932/
+telegram: https://t.me/mytoken_en

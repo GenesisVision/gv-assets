@@ -4,5 +4,15 @@ Nuls
 Symbol:
 NULS
 
+Description:
+NULS is a highly customizable modular blockchain infrastructure. It consists of a microkernel and functional modules. NULS provides smart contract, multi-chain mechanism and cross-chain consensus. NULS aims to cater for a variety of applications, and its modular design makes it easy for small-businesses and the community to create, update and implement applications via our platform.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.nuls.io/
+twitter: https://twitter.com/Nuls
+facebook: https://www.facebook.com/nulscommunity/
+telegram: https://t.me/Nulsio
+reddit: https://www.reddit.com/r/nulsservice/

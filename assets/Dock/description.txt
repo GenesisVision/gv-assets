@@ -4,5 +4,15 @@ Dock
 Symbol:
 DOCK
 
+Description:
+Dock enables next-generation data verification capabilities utilizing distributed ledger technology. Dock provides data owners the ability to verify and store their digital credentials and achievements.
+
 Tags:
 Crypto
+
+Links:
+website: https://dock.io/
+twitter: https://twitter.com/docknetwork
+facebook: https://www.facebook.com/docknetwork/
+telegram: https://t.me/dockio
+reddit: https://www.reddit.com/r/dockio/

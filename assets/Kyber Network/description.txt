@@ -4,5 +4,15 @@ Kyber Network
 Symbol:
 KNC
 
+Description:
+Kyber is building the Decentralized Liquidity Network that powers instant and seamless inter-token transactions between platforms, ecosystems and other use cases. There are 4 interfaces that can be used to tap into our decentralized liquidity network, each one focused on a different user segment — KyberSwap for mainstream individuals, KyberDeveloper for businesses, projects or DApps, KyberReserve for token holders with substantial assets, and KyberGO for token sale contributors, teams and advisory firms.
+
 Tags:
 Crypto
+
+Links:
+website: https://kyber.network/
+twitter: https://twitter.com/kybernetwork
+facebook: https://www.facebook.com/kybernetwork
+telegram: https://t.me/kybernetwork
+reddit: https://www.reddit.com/r/kybernetwork/

@@ -4,5 +4,14 @@ Bluzelle
 Symbol:
 BLZ
 
+Description:
+Bluzelle uses blockchain, decentralized, and trustless computing technologies as the foundation for The New Data Economy. The nucleus of this borderless data economy is the Bluzelle decentralized database. With this database and framework of tools, Bluzelle allows developers to build products around three areas: (1) Private Data Ownership, (2) Data Syndication and (3) the Decentralized Web Infrastructure.
+
 Tags:
 Crypto
+
+Links:
+website: https://bluzelle.com/
+twitter: https://twitter.com/bluzellehq
+telegram: https://t.me/bluzelle
+reddit: https://www.reddit.com/r/Bluzelle/

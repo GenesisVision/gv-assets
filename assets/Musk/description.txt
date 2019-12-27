@@ -4,5 +4,14 @@ Musk
 Symbol:
 MUSK
 
+Description:
+MUSK is a media alliance chain. It wants to create a new media industry wide infrastructure within a decentralized economic ecology, using blockchain technology. Copyrights, media assets, content and project incubation will be its core focus. 
+
 Tags:
 Crypto
+
+Links:
+website: http://www.musk.vip/
+twitter: https://twitter.com/musk_vip_
+telegram: https://teleg.run/muskofficial
+

@@ -4,5 +4,13 @@ MEX
 Symbol:
 MEX
 
+Description:
+The MEX Token, a digital token issued by Global Digital Noble Metals Exchange, is a decentralized digital assets based on the Ethereum blockchain technology (ERC20 blocks). MEX is a blockchain financial service platform based on global development, and aims to create a fun digital asset amusement park for global users.
+
 Tags:
 Crypto
+
+Links:
+website: http://introduce.mex.link/
+twitter: https://twitter.com/Global_MEX
+telegram: https://t.me/MEX_chinese

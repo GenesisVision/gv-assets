@@ -4,5 +4,14 @@ Storj
 Symbol:
 STORJ
 
+Description:
+Storj aims to become a cloud storage platform that can’t be censored or monitored or have downtime. It is the first decentralized, end-to-end encrypted cloud storage that uses blockchain technology and cryptography to secure your files. Storj is a platform, cryptocurrency, and suite of decentralized applications that allows you to store data in a secure and decentralized manner. 
+
 Tags:
 Crypto
+
+Links:
+website: https://storj.io/
+twitter: https://twitter.com/storjproject
+facebook: https://www.facebook.com/storjproject
+reddit: https://www.reddit.com/r/storj/

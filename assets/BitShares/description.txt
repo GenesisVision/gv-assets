@@ -4,5 +4,14 @@ BitShares
 Symbol:
 BTS
 
+Description:
+BitShares (BTS) is a brand of open-source software based on the as blockchain technology as used by Bitcoin. BitShare can be used to launch Decentralized Autonomous Companies (DACs) which issue shares, produce profits and distribute profits to shareholders. BitShares was originally launched under the name of ProtoShares (PTS); it was later renamed to BitShares (BTS) and "reloaded" in November 2014 by merging several products into BitShares (BTS).
+
 Tags:
 Crypto
+
+Links:
+website: https://bitshares.org/
+twitter: https://twitter.com/BitSharesOrg
+telegram: https://t.me/BitSharesDEX
+reddit: https://www.reddit.com/r/BitShares/

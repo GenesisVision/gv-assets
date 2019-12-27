@@ -4,5 +4,14 @@ Fantom
 Symbol:
 FTM
 
+Description:
+FANTOM is a new DAG based Smart Contract platform that intends to solve the scalability issues of existing public distributed ledger technologies. The mission of FANTOM is to provide compatibility between all transaction bodies around the world, and create an ecosystem which allows real-time transactions and data sharing with low cost.
+
 Tags:
 Crypto
+
+Links:
+website: https://fantom.foundation/
+twitter: https://twitter.com/FantomFDN
+telegram: https://t.me/Fantom_English
+reddit: https://www.reddit.com/r/FantomFoundation/

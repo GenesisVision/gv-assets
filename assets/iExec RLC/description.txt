@@ -4,5 +4,15 @@ iExec RLC
 Symbol:
 RLC
 
+Description:
+iExec has developed the first decentralized marketplace for cloud computing resources. Blockchain is used to organize a market network where everyone can monetize their computing power, applications, and datasets. By providing on-demand access to cloud computing resources, iExec supports the most compute-intensive applications in fields such as AI, big data, healthcare, rendering or fin-tech.
+
 Tags:
 Crypto
+
+Links:
+website: https://iex.ec/
+twitter: https://twitter.com/iEx_ec
+facebook: https://www.facebook.com/iexecteam/
+telegram: https://t.me/iexec_discussion
+reddit: https://www.reddit.com/r/iexec/

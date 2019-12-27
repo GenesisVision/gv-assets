@@ -4,5 +4,14 @@ Huobi Token
 Symbol:
 HT
 
+Description:
+Empowering millions of users across over 130 countries trading over $1 billion in assets. 24/7/365 customer access and support. A trusted world-class operation designed specifically for knowledgeable crypto-investors. Advanced distributed system architecture built to protect against DDoS and other potential threats. More than 98% of digital assets stored in multi-signature, cold wallets. Security protocols are fully aligned and compliant with industry best practices.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.hbg.com/
+twitter: https://twitter.com/HuobiGlobal
+facebook: https://www.facebook.com/huobiglobalofficial
+telegram: https://t.me/huobiglobalofficial

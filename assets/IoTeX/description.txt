@@ -4,5 +4,15 @@ IoTeX
 Symbol:
 IOTX
 
+Description:
+IoTeX began the journey in 2017 to build the Internet of Trusted Things, where all physical and virtual “things” — humans, machines, businesses, and dApps — can efficiently exchange information and value at the global scale. IoTeX combines auto-scalable blockchain, trusted hardware and edge computing to realize the full potential of IoT. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.iotex.io/
+twitter: https://twitter.com/iotex_io
+facebook: https://www.facebook.com/iotex.io/
+telegram: https://t.me/IoTeXGroup
+reddit: https://www.reddit.com/r/IoTeX/

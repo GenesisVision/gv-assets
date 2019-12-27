@@ -4,5 +4,15 @@ AppCoins
 Symbol:
 APPC
 
+Description:
+AppCoins is an open and distributed protocol for App Stores using blockchain technology and smart contracts. Serving over 200 million users, AppCoin (APPC) tokens are the new native currency of the app economy that ensures trust without intermediaries. 
+
 Tags:
 Crypto
+
+Links:
+website: https://appcoins.io/
+twitter: https://twitter.com/AppCoinsProject
+facebook: https://www.facebook.com/AppCoinsOfficial/
+telegram: https://t.me/appcoinsofficial
+reddit: https://www.reddit.com/r/AppcoinsProtocol/

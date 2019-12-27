@@ -4,5 +4,15 @@ VeChain
 Symbol:
 VET
 
+Description:
+The VeChain project began in 2015 and is built to be the public blockchain platform supporting blockchain-based business applications offering real economic and social value. The VeChainThor Blockchain provides a comprehensive governance structure, a robust economic model, and advanced IoT integration, which can build a trust-free and distributed business ecosystem platform to enable a transparent information flow, efficient collaboration and high-speed value transfer.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.vechain.org/
+twitter: https://twitter.com/vechainofficial?lang=en
+facebook: https://www.facebook.com/groups/107663726575121/about/
+telegram: https://t.me/vechain_official_english
+reddit: https://www.reddit.com/r/Vechain/

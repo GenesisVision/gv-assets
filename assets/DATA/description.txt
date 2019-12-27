@@ -4,5 +4,14 @@ DATA
 Symbol:
 DTA
 
+Description:
+The community behind the award winning platform Streamr, is building the open source infrastructure that will power the world’s data economy. Real-time data from vehicles, personal devices, IoT gadgets, financial markets, weather stations and the factory floor, will move through our decentralised peer-to-peer Network. Our Marketplace application sits on top of our Network and acts as a storefront for the world’s real-time data streams. 
+
 Tags:
 Crypto
+
+Links:
+website: https://streamr.network/
+twitter: https://twitter.com/streamr
+telegram: https://t.me/streamrdata
+reddit: https://www.reddit.com/r/streamr/

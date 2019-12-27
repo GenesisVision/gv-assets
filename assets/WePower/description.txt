@@ -4,5 +4,14 @@ WePower
 Symbol:
 WPR
 
+Description:
+WePower is a blockchain-based green energy trading platform. WePower enables renewable energy producers to raise capital by issuing their own energy tokens. Energy tokenization standardizes simplifies and opens globally currently existing energy investment ecosystem.  As a result, energy producers can trade directly with the green energy buyers (consumers and investors) and raise capital by selling energy upfront, at below-market rates.
+
 Tags:
 Crypto
+
+Links:
+website: https://wepower.network/
+twitter: https://twitter.com/WePowerN
+facebook: https://www.facebook.com/WePowerNetwork
+telegram: https://t.me/WePowerNetwork

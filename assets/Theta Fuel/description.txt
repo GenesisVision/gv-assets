@@ -4,5 +4,14 @@ Theta Fuel
 Symbol:
 TFUEL
 
+Description:
+Theta Fuel - The operational token of the Theta Network.Theta protocol — the operational token, which will be known as Theta Fuel (TFUEL). Theta Fuel is a 2nd token in the Theta protocol that works in conjunction with the Theta Token (THETA) that exists today. Theta Token (THETA): The governance token of the Theta protocol. THETA is used to stake as a Validator or Guardian node, contributing to block production and the protocol governance of the Theta Network.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.thetatoken.org/
+twitter: https://twitter.com/Theta_Network
+facebook: https://www.facebook.com/ThetaNetwork/
+telegram: https://t.me/thetanetwork

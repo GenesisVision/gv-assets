@@ -4,5 +4,14 @@ SingularityNET
 Symbol:
 AGI
 
+Description:
+SingularityNET is the protocol specifically designed to solve these problems uniting them all while opening the AI market to the entire world. SingularityNET enables AI-as-a-service on a permission less platform, so that anyone can use AI services easily without a large company or government controling these services thanks to blockchain. SingularityNET is powered by the AGI token, which makes the decentralized economy possible. The AGI token also solves the Assignment of Credit Problem, allowing us to quantify the value an AI agent brings to the market. 
+
 Tags:
 Crypto
+
+Links:
+website: https://singularitynet.io/
+twitter: https://twitter.com/singularity_net
+facebook: https://www.facebook.com/singularityNET.io
+telegram: https://t.me/singularitynet

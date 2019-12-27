@@ -4,5 +4,14 @@ Lambda
 Symbol:
 LAMB
 
+Description:
+Lambda is a safe, reliable and infinitely extended decentralized storage network. On the Lambda Chain consensus network, data decentralization, data integrity, and security verification, as well as the operation of market-oriented storage transactions, can be realized, so as to provide infinitely extensible data storage capacity for the new generation of value Internet. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.lambdastorage.com/en/
+twitter: https://twitter.com/Lambdaim
+facebook: https://www.facebook.com/Lambdaim
+telegram: https://t.me/HelloLambda

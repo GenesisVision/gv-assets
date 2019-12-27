@@ -4,5 +4,14 @@ Stellar
 Symbol:
 XLM
 
+Description:
+Stellar is a decentralized open-source network for the exchange of over 500+ assets (including tokens and fiat) via the Stellar Consensus Protocol. In the Stellar network, users make payments (in any acceptable currency, fiat, gold, XLM) with other users, with the debts between trusted users being recorded on the decentralized ledger. When the payments are finalized the balance of the users are recorded upon the ledger. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.stellar.org/
+twitter: https://twitter.com/stellarorg
+facebook: https://www.facebook.com/stellarfoundation
+reddit: https://www.reddit.com/r/Stellar/

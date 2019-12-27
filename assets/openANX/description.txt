@@ -4,5 +4,14 @@ openANX
 Symbol:
 OAX
 
+Description:
+OAX is an ERC20 token developed to fuel an open-source decentralized exchange platform “openANX” which provides an aggregated order book to increase liquidity; holds collateral for asset gateways to reduce credit risk; and features an off-chain, predetermined dispute resolution system governed by the Decentralized Autonomous Organization(DAO) to maximize consumer protection.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.oax.org/
+twitter: https://twitter.com/OAX_Foundation
+telegram: https://t.me/openanxteam
+reddit: https://www.reddit.com/r/OpenANX/

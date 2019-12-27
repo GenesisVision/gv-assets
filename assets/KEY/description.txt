@@ -4,5 +4,15 @@ KEY
 Symbol:
 KEY
 
+Description:
+SelfKey is a blockchain based self-sovereign identity ecosystem that empowers individuals and companies to find more freedom, privacy and wealth through the full ownership of their digital identity. SelfKey enables an identity wallet, with which individuals and companies can control and manage their personal data, securely manage their cryptocurrency portfolio, transact with certifiers and relying parties and easily and painlessly onboard onto financial, immigration and cryptocurrency related services.
+
 Tags:
 Crypto
+
+Links:
+website: https://selfkey.org/
+twitter: https://twitter.com/selfkey
+facebook: https://www.facebook.com/SelfKeyHQ/
+telegram: https://t.me/selfkeyfoundation
+reddit: https://www.reddit.com/r/selfkey/

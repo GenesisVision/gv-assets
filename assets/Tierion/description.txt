@@ -4,5 +4,14 @@ Tierion
 Symbol:
 TNT
 
+Description:
+Tierion is launching a universal platform for data verification that operates at massive scale. Tierion solves this problem by providing a “proof engine” for the Internet. We've created a technology called Chainpoint that lets anyone prove when data was created and if it has been modified from its original state. We’re using this technology to launch the Tierion Network, a universal platform for data verification that operates at massive scale. The Tierion Network Token (TNT) provides an economic incentive to secure the network infrastructure and serves as a method to access network resources.
+
 Tags:
 Crypto
+
+Links:
+website: https://tierion.com/
+twitter: https://twitter.com/tierion/
+facebook: https://www.facebook.com/TierionInc
+telegram: t.me/tierion

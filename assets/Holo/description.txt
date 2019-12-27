@@ -4,5 +4,15 @@ Holo
 Symbol:
 HOT
 
+Description:
+Holo is a pragmatic compromise — a bridge for people to transition toward greater and greater decentralization and autonomy. The Holo ecosystem relies on hosts that provide processing and storage for distributed applications while earning redeemable credits.
+
 Tags:
 Crypto
+
+Links:
+website: https://holochain.org/
+twitter: https://twitter.com/holochain
+facebook: https://www.facebook.com/holochain.design/
+telegram: https://t.me/channelHolo
+reddit: https://www.reddit.com/r/holochain/

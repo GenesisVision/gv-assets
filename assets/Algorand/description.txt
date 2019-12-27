@@ -4,5 +4,15 @@ Algorand
 Symbol:
 ALGO
 
+Description:
+Algorand is a permissionless, pure proof of stake blockchain that ensures full participation, protection and speed within a truly decentralized network. Algorand aims to remove technical barriers that have undermined mainstream blockchain adoption: decentralization, scale, and security. Algorand uses a pure proof-of-stake (PPoS) consensus protocol built on Byzantine agreement whereby the users’ influence on the choice of a new block is proportional to their stake in the system. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.algorand.com/
+twitter: https://twitter.com/Algorand
+facebook: https://www.facebook.com/algorand/
+telegram: https://t.me/algorand
+reddit: https://www.reddit.com/r/AlgorandOfficial/

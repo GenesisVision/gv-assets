@@ -4,5 +4,15 @@ Project Pai
 Symbol:
 PAI
 
+Description:
+Project PAI is developing an open-source blockchain protocol to decentralize AI development for everyone. PAI, the world’s ﬁrst Personal AI (PAI), a 3D intelligent avatar designed to look like you, speak like you, and behave like you in the digital space. The PAI Network is a decentralized platform built from the protocol, and acts as an avatar repository and foundation for decentralized applications to use PAI in everyday life. 
+
 Tags:
 Crypto
+
+Links:
+website: https://projectpai.com/
+twitter: https://twitter.com/ProjectPai
+facebook: https://www.facebook.com/projectpai
+telegram: https://t.me/projectpai
+reddit: https://www.reddit.com/r/ProjectPAI/

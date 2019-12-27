@@ -4,5 +4,14 @@ Litecoin
 Symbol:
 LTC
 
+Description:
+Litecoin serves a similar use-case function as Bitcoin, attempting to be a digital store of value and medium of exchange but with the advantage of faster block times (which makes transactions faster to settle). In addition (due to lower network usage), it has lower transaction fees than the better known flagship crypto-currency. However, it suffers from a smaller market capitalization and liquidity which makes it much less useful as a pairing partner for other crypto-currencies. 
+
 Tags:
 Crypto
+
+Links:
+website: https://litecoin.org/
+twitter: https://twitter.com/LitecoinProject
+telegram: https://t.me/Litecoin
+reddit: https://www.reddit.com/r/litecoin/

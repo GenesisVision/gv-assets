@@ -4,5 +4,14 @@ Agrello
 Symbol:
 DLT
 
+Description:
+Agrello has developed an AI-powered interface, that allows users to easily create and manage smart-contract-based agreements which are legally binding, just like traditional contracts. The platform provides a graphical interface, templates, and wizards, allowing the user to draft legally-binding multi-party contracts with just a few clicks.
+
 Tags:
 Crypto
+
+Links:
+website: https://agrello.io/
+twitter: https://twitter.com/AgrelloOfficial
+facebook: https://www.facebook.com/agrelloapp/
+telegram: https://t.me/agrello

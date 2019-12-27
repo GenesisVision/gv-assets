@@ -4,5 +4,15 @@ Internet of Services
 Symbol:
 IOST
 
+Description:
+IOST is building an ultra-high TPS blockchain infrastructure to meet the security and scalability needs of a decentralized economy. Led by a team of proven founders and backed by world-class investors, our mission is to be the underlying architecture for the future of online services. 
+
 Tags:
 Crypto
+
+Links:
+website: https://iost.io/
+twitter: https://twitter.com/IOStoken
+facebook: https://www.facebook.com/IOSTofficial
+telegram: https://t.me/officialios
+reddit: https://www.reddit.com/r/IOStoken/

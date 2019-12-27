@@ -4,5 +4,14 @@ Fetch.AI
 Symbol:
 FET
 
+Description:
+Fetch.AI ("the Project") brings together machine learning ("ML"), artificial intelligence ("AI"), multi-agent systems and decentralized ledger technology to create an economic internet — an environment where digital representatives of the economy's moving parts (such as data, hardware, services, people and infrastructure) can get useful work done through effective introductions and predictions.
+
 Tags:
 Crypto
+
+Links:
+website: https://fetch.ai/
+twitter: https://twitter.com/fetch_ai?lang=en
+telegram: https://t.me/fetch_ai
+reddit: https://www.reddit.com/r/FetchAI_Community/

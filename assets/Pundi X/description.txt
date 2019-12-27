@@ -4,5 +4,14 @@ Pundi X
 Symbol:
 NPXS
 
+Description:
+Pundi X aims to bring in the next billion crypto users as it allows users to buy, sell, use cryptocurrency anywhere and anytime. It is decentralized, because the ecosystem and transaction records live on the blockchain. It is offline, because our entry point is via point-of-sale (pos) devices installed in physical outlets.
+
 Tags:
 Crypto
+
+Links:
+website: https://pundix.com/
+twitter: https://twitter.com/PundiXLabs
+facebook: https://www.facebook.com/pundixlabs/?_rdc=1&_rdr
+telegram: https://t.me/Pundix

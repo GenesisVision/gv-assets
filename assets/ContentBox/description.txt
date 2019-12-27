@@ -4,5 +4,14 @@ ContentBox
 Symbol:
 BOX
 
+Description:
+ContentBox aims to build a blockchain-based ecosystem for the digital content industry of tomorrow. Under ContentBox, the whole industry will gain three invaluable features: a shared content pool, a shared user pool, and a unified payout system. ContentBox is designed to benefit all stakeholders in the content industry including, but not limited to, creators, consumers, advertisers, distributors, and application developers.
+
 Tags:
 Crypto
+
+Links:
+website: https://contentbox.one/index.html
+twitter: https://twitter.com/Contentbox_one
+telegram: https://t.me/BoxCommunity
+

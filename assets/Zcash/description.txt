@@ -4,5 +4,12 @@ Zcash
 Symbol:
 ZEC
 
+Description:
+ZCash is a privacy driven cryptocurrency. ZCash uses zero-knowledge Succinct Non-interactive Arguments of Knowledge (zk-SNARKs) to ensure that all information (sender, receiver, amount) is encrypted, without the possibility of double-spending. The only information that is revealed regarding transactions is the time in which they take place.
+
 Tags:
 Crypto
+
+Links:
+website: https://z.cash/
+twitter: https://twitter.com/zcashco

@@ -4,5 +4,13 @@ BeeKan
 Symbol:
 BKBT
 
+Description:
+BeeKan (BKBT) is a cryptocurrency token and operates on the Ethereum platform. BeeKan has a current supply of 10,000,000,000 in circulation. The last known price of BeeKan is $0.000381 USD and is down -1.46% over the last 24 hours. It is currently trading on 5 active market(s) with $11,617.80 traded over the last 24 hours.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.beekan.org/
+twitter: https://twitter.com/BitwiresGlobal
+facebook: https://www.facebook.com/Bitwires

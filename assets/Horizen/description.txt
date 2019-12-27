@@ -4,5 +4,15 @@ Horizen
 Symbol:
 ZEN
 
+Description:
+Horizen (formerly ZenCash) is an incentive-driven application platform with optional zk-SNARK based privacy features that aims to provide everyone with complete control of their digital footprint. Horizen has one of the largest node networks in the industry with 21,000 reachable nodes across 56 countries, a passionate worldwide community, a team of over 50 professionals, and an ambitious roadmap driven by continuous investments in cutting-edge research and development.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.horizen.global/
+twitter: https://twitter.com/horizenglobal
+facebook: https://www.facebook.com/horizenglobal/
+telegram: https://t.me/horizencommunity
+reddit: https://www.reddit.com/r/Horizen/

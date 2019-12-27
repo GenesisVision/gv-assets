@@ -4,5 +4,15 @@ Ambrosus
 Symbol:
 AMB
 
+Description:
+The Ambrosus network is a blockchain-based ecosystem for supply chains, ensuring the origin, quality, compliance and proper handling of items tracked by the network. Ambrosus’ primary focus is on improving supply chains for life-essential products, specifically food and medicine, although the protocol can be applied to almost any complex supply chain. These new capabilities allow buyers and other participants in the supply chain to ensure that the standards of their Quality Assurance programs are being met. 
+
 Tags:
 Crypto
+
+Links:
+website: https://ambrosus.com/
+twitter: https://twitter.com/AmbrosusAMB
+facebook: https://www.facebook.com/ambrosusAMB
+telegram: https://t.me/ambrosuschat
+reddit: https://www.reddit.com/r/ambrosus/

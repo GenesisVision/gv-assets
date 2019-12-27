@@ -4,5 +4,15 @@ Nexus
 Symbol:
 NXS
 
+Description:
+Nexus (NXS) is an open source blockchain and peer-to-peer network. The project aims to 'develop technology for communities, enterprise, and connectivity'. As of 1 Mar 2019, Nexus comprises 3 Embassies in the US, UK, and Australia. Each of the Nexus Embassies is a non-profit entity created for technological/business development, along with education. The nonprofit entities have no owners, are represented by a volunteer board of directors, and are operated by teams of creatives and delegates.
+
 Tags:
 Crypto
+
+Links:
+website: https://nexus.io/
+twitter: https://twitter.com/NexusOfficial
+facebook: https://www.facebook.com/NexusBlockchain/
+telegram: https://t.me/NexusOfficial
+reddit: https://www.reddit.com/r/nexusearth/

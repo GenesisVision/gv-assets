@@ -4,5 +4,14 @@ BitUP Token
 Symbol:
 BUT
 
+Description:
+BUT is the native ERC20-compatible cryptographic token of the BitUP Platform implemented on the public Ethereum blockchain.A fixed supply of 1 billion BUT tokens will be created and no further tokens will be created.
+
 Tags:
 Crypto
+
+Links:
+website: https://bitup.com/
+twitter: https://twitter.com/bitupofficial
+facebook: https://www.facebook.com/GenesisVisionProject/
+telegram: https://t.me/bitupofficial

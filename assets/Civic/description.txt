@@ -4,5 +4,14 @@ Civic
 Symbol:
 CVC
 
+Description:
+Civic is a decentralized identity ecosystem that allows for on-demand, secure and lower cost access to identity verification via the blockchain. Through a digital Identity platform, users to set up their own virtual identity and to store it along with their personally identifiable information on the device. CVC is an Ethereum-based token used by service providers that are looking to acquire information about a user. These can make a payment in CVC. The smart contract system employed will then see funds delivered to both the validator and the identity owner (user).
+
 Tags:
 Crypto
+
+Links:
+website: https://www.civic.com/
+twitter: https://twitter.com/civickey
+facebook: https://www.facebook.com/civictechnologiesinc
+telegram: https://t.me/civicplatform

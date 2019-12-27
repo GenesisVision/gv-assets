@@ -4,5 +4,14 @@ Loopring
 Symbol:
 LRC
 
+Description:
+Loopring is an open protocol for scalable, non-custodial exchanges. Loopring 3.0 is our newest, fastest, and most forward-looking protocol. Loopring 3.0 can settle up to 1,400 trades per second while guaranteeing the same level of security as the underlying Ethereum blockchain. The average settlement cost for each trade with Loopring 3.0 is as low as $0.002 USD, which covers the gas for Ethereum transactions and the cost of proof generation on cloud computing platforms. 
+
 Tags:
 Crypto
+
+Links:
+website: https://loopring.org/#/
+twitter: https://twitter.com/loopringorg
+telegram: https://t.me/loopring_en
+reddit: https://www.reddit.com/r/loopringorg/

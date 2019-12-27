@@ -4,5 +4,14 @@ Ren
 Symbol:
 REN
 
+Description:
+Ren is an ecosystem for private and interoperable liquidity in decentralized finance. Transfer tokens in zero-knowledge, trustlessly swap between blockchains and trade on a dark pool.
+
 Tags:
 Crypto
+
+Links:
+website: https://renproject.io/
+twitter: https://twitter.com/renprotocol
+telegram: https://t.me/renproject
+reddit: https://www.reddit.com/r/RenProject/

@@ -4,5 +4,13 @@ Themis
 Symbol:
 GET
 
+Description:
+Themis is a blockchain-based fair exchange system for digital currencies, providing a decentralised escrow service for digital currencies. 
+
 Tags:
 Crypto
+
+Links:
+website: https://themis.network/en.html
+twitter: https://twitter.com/ThemisNetwork
+telegram: https://t.me/ThemisNetworkOfficial

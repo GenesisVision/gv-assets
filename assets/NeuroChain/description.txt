@@ -4,5 +4,15 @@ NeuroChain
 Symbol:
 NCC
 
+Description:
+NeuroChain is a new augmented blockchain based on intelligent decision making mechanisms. It is composed of Bots and a set of rules represented by flexible and scalable protocols (Proof of Involvement and Integrity & Proof of Workflow). It runs on a network or media with an adaptive communication layer. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.neurochaintech.io/
+twitter: https://twitter.com/neurochaintech
+facebook: https://www.facebook.com/NeuroChainOfficial/
+telegram: https://t.me/joinchat/HxPwABGGdXS3CiICGI0-kQ
+reddit: https://www.reddit.com/r/Neurochain/

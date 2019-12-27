@@ -4,5 +4,14 @@ Chiliz
 Symbol:
 CHZ
 
+Description:
+Chiliz, powering Socios.com, gives sports and esports fans the ability to crowd-manage their favourite teams, games, leagues and events. A universal sports and esports ‘crowd-control’ engine capable of giving fans voting rights to guide their some of their favourite teams’ management and strategy decisions. Any league, any team and any game, realised with blockchain technology. With Chiliz powering the Socios.com platform, fans can become influencers of any competitive entity. In turn, teams, leagues & events, from any corner of the sports & esports world can then monetise the fan demand for these voting rights.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.chiliz.com/en/home/
+twitter: https://twitter.com/chiliz
+facebook: https://www.facebook.com/Chilizdotcom/
+telegram: https://t.me/chiliz_io

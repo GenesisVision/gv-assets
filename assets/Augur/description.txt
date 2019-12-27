@@ -4,5 +4,14 @@ Augur
 Symbol:
 REP
 
+Description:
+Augur is an open, global platform where anyone anywhere can create, monitor or trade in prediction markets about any topic. The software is comprised of smart contracts perpetually deployed on a blockchain network, which enables applications deployed to be immune to local outages while benefiting from the entire community's security. All interactions with markets are communicated as database transactions between unique accounts powered by immutable software instructions.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.augur.net/
+twitter: https://twitter.com/AugurProject
+facebook: https://www.facebook.com/augurproject/
+reddit: https://www.reddit.com/r/Augur/

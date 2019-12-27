@@ -4,5 +4,11 @@ Machine Xchange Coin
 Symbol:
 MXC
 
+Description:
+TimeTravel as a proof-of-work algorithm. Machinecoin operates with no central authority or any banks; managing transactions and the issuing of Machinecoins is carried out collectively by the network itself. Transactions will get confirmed within some minutes.You’re not bound to any centralized authority. The network is run by all users using Machinecoin.
+
 Tags:
 Crypto
+
+Links:
+website: http://www.machinecoin.org/

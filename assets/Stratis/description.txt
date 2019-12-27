@@ -4,5 +4,15 @@ Stratis
 Symbol:
 STRAT
 
+Description:
+Stratis is the native value currency in the Stratis Platform, it fuels the creation of private and public custom blockchains for corporate use. The Stratis Platform offers a one-click deployment system for custom blockchain deployment. These blockchains can be customized to suit the companies' needs, and can even be deployed to mimic the features of popular blockchains like Ethereum or Lisk, which can be tested individually or in parallel.
+
 Tags:
 Crypto
+
+Links:
+website: https://stratisplatform.com/
+twitter: https://twitter.com/stratisplatform
+facebook: https://www.facebook.com/stratisplatform/
+telegram: https://t.me/StratisPlatform
+reddit: https://www.reddit.com/r/stratisplatform/

@@ -4,5 +4,15 @@ Komodo
 Symbol:
 KMD
 
+Description:
+Komodo is an end-to-end blockchain infrastructure solutions provider. Komodo’s tech enables seamless cross-chain interoperability among all federated blockchains. Every blockchain built with Komodo is also connected to 95% of chains outside the federation via atomic swap technology. Future plans are in place for blockchain bridging support, which will create cross-chain fungibility throughout the entire blockchains industry. Moreover, with Komodo’s architecture, multiple blockchains can sync up and function as a single chain. 
+
 Tags:
 Crypto
+
+Links:
+website: https://komodoplatform.com/
+twitter: https://twitter.com/KomodoPlatform
+facebook: https://www.facebook.com/KomodoPlatform
+telegram: https://telegram.me/KomodoPlatform_Official
+reddit: https://www.reddit.com/r/komodoplatform/

@@ -4,5 +4,15 @@ Nexo
 Symbol:
 NEXO
 
+Description:
+Nexo delivers the World’s First Instant Crypto-backed Loans, thus resolving a crucial inefficiency for the crypto world. The Instant Cryptobacked Loans are an automatic, flexible and cost-efficient way of obtaining liquidity that is secured by the value of the client’s digital assets. The whole process is completed in just a few simple clicks. No hidden fees, no capital gains taxes, no credit checks. Transparency is guaranteed through the use of blockchain technology, smart contracts and algorithmic processes executed by the Nexo Oracle.
+
 Tags:
 Crypto
+
+Links:
+website: https://nexo.io/ru
+twitter: https://twitter.com/NexoFinance
+facebook: https://www.facebook.com/nexofinance/
+telegram: https://t.me/nexofinance
+reddit: https://www.reddit.com/r/Nexo/

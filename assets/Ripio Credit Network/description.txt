@@ -4,5 +4,15 @@ Ripio Credit Network
 Symbol:
 RCN
 
+Description:
+Ripio Credit Network (“ RCN ”) is a protocol based on smart contracts and blockchain technology, which brings enhanced transparency and reliability in credit and lending. The protocol enables connections between lenders and borrowers located anywhere in the world, regardless of currency. By including an intermediary agent (the “ Cosigner ”), the RCN seeks to neutralize the lender’s credit risk and, in case of a default, provide an alternative mechanism for managing the debt collection in the borrower’s country of residence.
+
 Tags:
 Crypto
+
+Links:
+website: https://ripiocredit.network/
+twitter: https://twitter.com/RCNFinance
+facebook: https://www.facebook.com/RCN.finance/
+telegram: https://t.me/RCNchat
+reddit: https://www.reddit.com/r/rcn_token/

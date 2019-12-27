@@ -4,5 +4,15 @@ AdEx
 Symbol:
 ADX
 
+Description:
+AdEx is a decentralized ad exchange built on Ethereum blockchain and smart contracts. The core feature of AdEx will be the so-called AdEx User Profile - a personalized page that allows every end user to understand and control the ads delivered to them. This means that with the help of the user’s AdEx Profile advertisers achieve surgical precision for ad targeting and ensure a high Return On Ad Spending (ROAS).
+
 Tags:
 Crypto
+
+Links:
+website: https://www.adex.network/
+twitter: https://twitter.com/adex_network
+facebook: https://www.facebook.com/AdExNetwork/
+telegram: https://t.me/AdExNetwork
+reddit: https://www.reddit.com/r/AdEx/

@@ -4,5 +4,15 @@ Lisk
 Symbol:
 LSK
 
+Description:
+Lisk is a next generation platform that allows for the development and distribution of JavaScript based decentralized applications using an easy to use, fully featured ecosystem. Through Lisk, developers can build, publish, distribute, and monetize their applications within a custom built cryptocurrency powered system that utilizes custom blockchains, smart contracts, cloud storage, and computing nodes; all from within one industry solution.
+
 Tags:
 Crypto
+
+Links:
+website: https://lisk.io/
+twitter: https://twitter.com/LiskHQ
+facebook: https://www.facebook.com/LiskHQ
+telegram: https://t.me/Lisk_HQ
+reddit: https://www.reddit.com/r/Lisk/

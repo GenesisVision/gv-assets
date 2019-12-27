@@ -4,5 +4,14 @@ Cocos-BCX
 Symbol:
 COCOS
 
+Description:
+The platform for the next generation of digital game economy. Cocos-BCX' , fully named 'Cocos BlockChain Expedition', aims to create an integrated multi-platform runtime environment for games, providing developers with the convenience and completeness in game development, while bringing users a whole new gaming experience, unprecedented gaming status, and with all the assets obtained in the games being wholly owned by the users.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.cocosbcx.io/
+twitter: https://twitter.com/COCOSKOREA
+telegram: https://t.me/cocosbcxen
+reddit: https://www.reddit.com/user/cocos-bcx/

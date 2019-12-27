@@ -4,5 +4,14 @@ Blox
 Symbol:
 CDT
 
+Description:
+Blox is the next generation platform for portfolio tracking and blockchain asset management. With Blox, You can automatically sync your wallets and exchange accounts into a single platform. Create as many portfolios as you need and track all of your blockchain assets in one place, accurately and seamlessly
+
 Tags:
 Crypto
+
+Links:
+website: https://www.blox.io/
+twitter: https://twitter.com/Blox_Official
+facebook: https://www.facebook.com/blox.io/
+telegram: https://t.me/blox_product_discussion

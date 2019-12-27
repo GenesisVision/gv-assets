@@ -4,5 +4,15 @@ IoT Chain
 Symbol:
 ITC
 
+Description:
+IoT Chain is a secure, lite operating system for the Internet of Things. The Internet of Things (IoT) is a term used to describe the interconnection of computer devices embedded in everyday objects enabling them to share data. The TC token acts as a carrier of value and ownership, exchanged among intelligent devices. Once an ITC-enabled device is connected to the network, users can obtain the right to use that device through the payment of tokens. These connected devices generate large amounts of data that can be used for AI, machine learning, business analytics and more.
+
 Tags:
 Crypto
+
+Links:
+website: https://iotchain.io/
+twitter: https://twitter.com/IoT_Chain
+facebook: https://www.facebook.com/IoTChain/
+telegram: https://t.me/IoTChain
+reddit: https://www.reddit.com/r/iotchain/

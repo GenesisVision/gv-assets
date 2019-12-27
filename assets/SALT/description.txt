@@ -4,5 +4,14 @@ SALT
 Symbol:
 SALT
 
+Description:
+SALT is a membership based lending and borrowing network that allows users to leverage their blockchain assets to secure cash loans. The SALT Secured Automated Lending Technology is a protocol and asset agnostic architecture designed to adapt to the constantly growing class of blockchain assets. Unlike traditional forms of collateral, such as real estate and automobiles, blockchain assets are divisible, fungible, and in many cases instantly transferable. These potential advantages can be fully realized with SALT’s volatility risk mitigating technology.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.saltlending.com/
+twitter: https://twitter.com/SALTlending
+facebook: https://www.facebook.com/SALTLENDING/
+telegram: https://t.me/SALTlendingannouncements

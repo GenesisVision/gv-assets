@@ -4,5 +4,14 @@ Raiden Network Token
 Symbol:
 RDN
 
+Description:
+The Raiden Network is an off-chain transfer network for Ethereum ERC20 tokens. It provides a fast, scalable, and cheap alternative to on-chain token transfers. At the same time, the Raiden Network transfers provide users with guarantees of finality, security, and decentralization similar to those known from blockchains.
+
 Tags:
 Crypto
+
+
+Links:
+website: https://raiden.network/
+twitter: https://twitter.com/raiden_network
+reddit: https://www.reddit.com/r/raidennetwork/

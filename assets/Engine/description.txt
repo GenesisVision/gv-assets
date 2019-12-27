@@ -4,5 +4,12 @@ Engine
 Symbol:
 EGCC
 
+Description:
+Engine technical ground floor is mainly composed of consensus mechanism, smart contract, sidechain management, network communication, and record storage, and monitors the entire Engine service throughout the entire life cycle. EGCC is a native asset on the Engine blockchain. It is a value measurement of the digital mapping of physical automotive assets on the Engine blockchain. It is the only approved transaction value subject matter in the Engine system platform, and its value will increase with the development of Engine’s entire ecology.
+
 Tags:
 Crypto
+
+Links:
+website: https://t.co/S7yrp1yl1f
+twitter: https://twitter.com/EngineChainEGCC

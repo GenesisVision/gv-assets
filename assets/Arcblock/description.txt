@@ -4,5 +4,14 @@ Arcblock
 Symbol:
 ABT
 
+Description:
+ArcBlock is a platform and an ecosystem for building and deploying decentralized blockchain applications. It connects your existing system to blockchain networks, enabling you to automate business processes using the data and identities associated with existing systems. ArcBlock’s primary goal is to remove the barriers that have slowed blockchain adoption among the general public.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.arcblock.io/
+twitter: https://twitter.com/ArcBlock_io
+facebook: https://www.facebook.com/arcblock.io/
+telegram: https://t.me/ArcBlock

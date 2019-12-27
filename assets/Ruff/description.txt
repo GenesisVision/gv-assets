@@ -4,5 +4,14 @@ Ruff
 Symbol:
 RUFF
 
+Description:
+Ruff Chain combines the Internet of Things technology with the blockchain. It contains a distributed operating system and an open main chain, connecting peer to peer network and consensus mechanism from the virtual world to reality. Our goal is to solve the problem of trusted operations and onerous operations between IoT systems in different domains, thus creating an open Ruff Chain Ecosystem.
+
 Tags:
 Crypto
+
+Links:
+website: https://ruffchain.com/
+twitter: https://twitter.com/Ruff_Chain
+facebook: https://www.facebook.com/RuffChainProject/
+telegram: https://t.me/RuffChain

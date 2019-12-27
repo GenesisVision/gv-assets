@@ -4,5 +4,15 @@ COVA
 Symbol:
 COVA
 
+Description:
+Covalent is a privacy-protected data network that utilizes a decentralized computing network to ensure that data is encrypted at all times.
+
 Tags:
 Crypto
+
+Links:
+website: https://covalent.ai/
+twitter: https://twitter.com/covatoken
+facebook: https://www.facebook.com/GenesisVisionProject/
+telegram: https://t.co/LYZOGYuMjp
+

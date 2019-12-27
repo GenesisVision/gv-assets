@@ -4,5 +4,15 @@ Nano
 Symbol:
 NANO
 
+Description:
+Nano is a decentralized, sustainable, and secure next-generation digital currency focused on addressing the inefficiencies present in existing cryptocurrencies. Designed to solve peer to peer transfer of value, Nano aims to revolutionize the world economy through an ultrafast, fee-less and decentralized network that is open and accessible to everyone.
+
 Tags:
 Crypto
+
+Links:
+website: https://nano.org/
+twitter: https://twitter.com/nano
+facebook: https://www.facebook.com/nanofoundation
+telegram: https://t.me/nanocurrency
+reddit: https://www.reddit.com/r/nanocurrency/

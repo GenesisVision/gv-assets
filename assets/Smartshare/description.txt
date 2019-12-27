@@ -4,5 +4,14 @@ Smartshare
 Symbol:
 SSP
 
+Description:
+Smartshare Protocol is a distributed network protocol that not only uses blockchain technology and smart contract to evaluate and quantify the substantive value of all sharable objects, but also can realize the exchange of sharing value of all sharable objects.
+
 Tags:
 Crypto
+
+Links:
+website: https://smartshare.vip/#/
+twitter: https://twitter.com/Smartshare_vip
+facebook: https://facebook.com/SmartshareOfficial
+telegram: https://t.me/SmartshareOfficialEN

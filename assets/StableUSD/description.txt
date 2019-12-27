@@ -4,5 +4,13 @@ StableUSD
 Symbol:
 USDS
 
+Description:
+StableUSD (USDS) is a fiat-collateralized stablecoin created by Stably. Each StableUSD token is legally backed and redeemable for a US Dollar held in escrow accounts managed by Stably's regulated trustees, such as Prime Trust. To provide a complete and up-to-date level of transparency, Stably provides a view of its reserve balance in real-time via a live feed from the API of its reserve holders. Independent third-party Cohen & Co. also provides regular attestations on the StableUSD reserve balance.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.stably.io/
+twitter: https://twitter.com/stablycoin/
+facebook: https://www.facebook.com/stablycoin/

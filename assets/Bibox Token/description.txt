@@ -4,5 +4,14 @@ Bibox Token
 Symbol:
 BIX
 
+Description:
+The Bibox Token is an Ethereum-based token that allows users to receive a discount for any fees on the Bibox platform, a pure cryptocurrency exchange. Bibox is an AI enhanced encrypted digital asset exchange, the platform uses an advanced distributed cluster system to ensure its handling capacity of more than 10 million users and enhances its huge error tolerance.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.bibox.com/
+twitter: https://twitter.com/Bibox365
+facebook: https://www.facebook.com/BiboxGlobal
+reddit: https://www.reddit.com/r/Bibox/

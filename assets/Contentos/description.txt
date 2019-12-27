@@ -4,5 +4,15 @@ Contentos
 Symbol:
 COS
 
+Description:
+Contentos is a blockchain protocol that aims to form the foundation for a decentralized digital content ecosystem that empowers all members, including creators, consumers, and advertisers, to earn fair compensation for their contributions. Contentos also intends to establish itself as the future Ethereum of digital content, accepting content DApps of all kinds. By utilizing the tokenization enabled by blockchain technology, Contentos aims to bring to life the dream of a more fair and democratic content environment. Content creation, curation, distribution, storage, and verification are all rewarded in COS tokens, the unique cryptocurrency powering the Contentos ecosystem.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.contentos.io/
+twitter: https://twitter.com/contentosio
+facebook: https://www.facebook.com/ContentosOfficial/
+telegram: https://t.me/ContentosGlobal
+reddit: https://www.reddit.com/r/Contentosofficial/

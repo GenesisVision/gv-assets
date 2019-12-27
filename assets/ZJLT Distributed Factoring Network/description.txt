@@ -4,5 +4,13 @@ ZJLT Distributed Factoring Network
 Symbol:
 ZJLT
 
+Description:
+ZJLT Distributed factoring network - Factoring platform. ZJLT Distributed factoring network (ZJLT) establishes itself as a decentralized credit self-certification and account receivable factoring ecological network for companies with core customers. It is similar to Tencent's latest blockchain application based on supply chain finance, and an enhanced version of the UK's Populous project.
+
 Tags:
 Crypto
+
+Links:
+website: http://www.zjlt.io/
+twitter: https://twitter.com/zjltfoundation
+telegram: http://t.me/ZJLTFoundation

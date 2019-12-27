@@ -4,5 +4,14 @@ OmiseGO
 Symbol:
 OMG
 
+Description:
+OmiseGO is building a decentralized exchange, liquidity provider mechanism, clearinghouse messaging network, and asset-backed blockchain gateway. This high-performant distributed network enforces exchange across asset classes, from at-backed issuers to fully decentralized blockchain tokens (ERC-20 style and native cryptocurrencies). Unlike nearly all other decentralized exchange platforms, this allows for the decentralized exchange of other blockchains and between multiple blockchains directly without a trusted gateway token. 
+
 Tags:
 Crypto
+
+Links:
+website: https://omisego.co/
+twitter: https://twitter.com/omise_go
+facebook: https://www.facebook.com/OmiseGO/
+reddit: https://www.reddit.com/r/omise_go/

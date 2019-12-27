@@ -4,5 +4,14 @@ Portal
 Symbol:
 PORTAL
 
+Description:
+Portal is a project that has been established and promoted. The Portal team is determined to upgrade Internet messaging by building a virtual reality ecosystem, thus profoundly improving people's daily life, including information communication, culture and entertainment, social interaction, shopping, work and study, as well as medical treatment and health, so as to accelerate the arrival of the future. 
+
 Tags:
 Crypto
+
+Links:
+website: http://www.project-portal.io/
+twitter: https://twitter.com/contact2portal
+facebook: https://www.facebook.com/1638917542833085
+telegram: https://t.me/ProjectportalEN

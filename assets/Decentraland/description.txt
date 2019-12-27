@@ -4,5 +4,15 @@ Decentraland
 Symbol:
 MANA
 
+Description:
+Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications. Users claim ownership of virtual land on a blockchain-based ledger of parcels. Land is a non-fungible, transferrable, scarce digital asset stored in an Ethereum smart contract.
+
 Tags:
 Crypto
+
+Links:
+website: https://decentraland.org/
+twitter: https://twitter.com/decentraland
+facebook: https://www.facebook.com/decentraland/
+telegram: https://t.me/dcl_market
+reddit: https://www.reddit.com/r/decentraland/

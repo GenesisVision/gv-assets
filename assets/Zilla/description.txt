@@ -4,5 +4,15 @@ Zilla
 Symbol:
 ZLA
 
+Description:
+ZILLA makes the entire process of finding and participating in an ICO much simpler, by providing a unified marketplace for ICO crowdsales. In the same way platforms Alibaba and Amazon make it easy to buy products online, ZILLA brings ICO token crowdsales to regular users in the form of one simple app.
+
 Tags:
 Crypto
+
+Links:
+website: https://zla.io/en
+twitter: https://twitter.com/zillatoken
+facebook: https://www.facebook.com/ZILLAtoken/
+telegram: https://t.me/zilla_app
+reddit: https://www.reddit.com/r/ZILLAtoken/

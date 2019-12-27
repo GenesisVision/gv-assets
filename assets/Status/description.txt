@@ -4,5 +4,14 @@ Status
 Symbol:
 SNT
 
+Description:
+Status is an open source messaging platform and mobile interface to interact with decentralized applications that run on the Ethereum Network. The Status Network token is a modular utility token that fuels the Status network. This includes a Decentralized Push Notification Market, Governance of the Status client, Community Curation of content, along with social communication tools such as Tribute to Talk.
+
 Tags:
 Crypto
+
+Links:
+website: https://status.im/
+twitter: https://twitter.com/ethstatus
+facebook: https://www.facebook.com/ethstatus
+reddit: https://www.reddit.com/r/statusim/

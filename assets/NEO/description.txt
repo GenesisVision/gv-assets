@@ -4,5 +4,15 @@ NEO
 Symbol:
 NEO
 
+Description:
+NEO is a non-profit community-based blockchain project that utilizes blockchain technology and digital identity to digitize assets, to automate the management of digital assets using smart contracts, and to realize a "smart economy" with a distributed network. 
+
 Tags:
 Crypto
+
+Links:
+website: https://neo.org/
+twitter: https://twitter.com/neo_blockchain
+facebook: https://www.facebook.com/NEOSmartEcon/
+telegram: https://t.me/NEO_EN
+reddit: https://www.reddit.com/r/NEO/

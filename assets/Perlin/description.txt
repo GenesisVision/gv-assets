@@ -4,5 +4,15 @@ Perlin
 Symbol:
 PERL
 
+Description:
+Perlin is a leaderless, highly scalable, PoS smart contract platform with a mission to power the future of decentralized technologies and accelerates the transformation of international trade to a purely digital, autonomous industry. Perlin is pursuing several adoption strategies but is currently focused on the $US 11 Trillion international trade market with its distribution partners such as the International Chamber of Commerce, Enterprise Singapore, Dubai Chamber of Commerce and others.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.perlin.net/
+twitter: https://twitter.com/PerlinNetwork
+facebook: https://www.facebook.com/perlin.network/
+telegram: https://t.me/perlinnetworkchat
+reddit: https://www.reddit.com/r/perlin/

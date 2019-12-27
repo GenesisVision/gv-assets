@@ -4,5 +4,14 @@ Seele
 Symbol:
 SEELE
 
+Description:
+Seele aims to facilitate the development of various industries and provide services for multiple businesses. The novel Neural Consensus Algorithm, Heterogeneous Forest Network, Value Transport Protocol (VTP), and other ground-breaking technologies have been proposed by Seele. Moreover, Seele is publishing a series of Yellow Papers in research areas like cryptology, consensus algorithm, and network transmission, etc., to provide guidance for the entire industry.
+
 Tags:
 Crypto
+
+Links:
+website: https://seele.pro/
+twitter: https://twitter.com/SeeleTech
+facebook: https://www.facebook.com/seeletech
+telegram: https://t.me/seeletech

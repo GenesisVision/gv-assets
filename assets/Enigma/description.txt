@@ -4,5 +4,14 @@ Enigma
 Symbol:
 ENG
 
+Description:
+Enigma is a decentralized computation platform with guaranteed privacy. Our goal is to enable developers to build ’privacy by design’, end-to-end decentralized applications, without a trusted third party. Unlike blockchains, computations and data storage are not replicated by every node in the network.
+
 Tags:
 Crypto
+
+Links:
+website: https://enigma.co/
+twitter: https://twitter.com/enigmampc
+telegram: http://t.me/enigmaproject
+reddit: https://enigma.co/community/Reddit

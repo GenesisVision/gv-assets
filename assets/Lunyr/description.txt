@@ -4,5 +4,14 @@ Lunyr
 Symbol:
 LUN
 
+Description:
+Lunyr is an Ethereum-based knowledge sharing platform which rewards users with app tokens for peer-reviewing and contributing information. We aim to be the starting point of the internet for finding reliable, accurate information. Our long-term vision is to develop a knowledge base API that developers can use to create next generation decentralized applications in Artificial Intelligence, Virtual Reality, Augmented Reality, and more.
+
 Tags:
 Crypto
+
+Links:
+website: https://lunyr.com/
+twitter: https://twitter.com/LunyrInc
+facebook: https://www.facebook.com/lunyrinc/
+telegram: https://t.me/lunyrcommunity

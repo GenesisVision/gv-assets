@@ -4,5 +4,14 @@ Aeternity
 Symbol:
 AE
 
+Description:
+Aeternity is a decentralized æpps platform. It scales through state channels that run smart contracts. It introduces a new language that supports formal verification and allows to write simpler, safer code. It features an integrated naming system and oracles, which could be used to request and access data from various data providers.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.aeternity.com/
+twitter: https://twitter.com/aeternity
+facebook: https://www.facebook.com/aeternityproject/
+telegram: https://telegram.me/aeternity

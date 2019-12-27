@@ -4,5 +4,14 @@ Binance Coin
 Symbol:
 BNB
 
+Description:
+Binance Coin (BNB) is the cryptocurrency of the Binance platform. The name "Binance" is a combination of binary and finance. As of 2019, many businesses accept BNB as a form of payment.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.binance.com
+twitter: https://twitter.com/binance
+facebook: https://www.facebook.com/469201610080869
+reddit: https://reddit.com/r/binance

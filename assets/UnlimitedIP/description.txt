@@ -4,5 +4,14 @@ UnlimitedIP
 Symbol:
 UIP
 
+Description:
+UIP (short for UnlimitedIP ) is a recreational copyright intelligent trading platform created by Link Entertainments Technology based on EOS.
+
 Tags:
 Crypto
+
+
+Links:
+website: http://www.unlimitedip.io/
+twitter: https://twitter.com/IPStock_ips
+telegram: https://t.me/UIPworld

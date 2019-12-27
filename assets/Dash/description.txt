@@ -4,5 +4,14 @@ Dash
 Symbol:
 DASH
 
+Description:
+Dash is an open source peer-to-peer cryptocurrency with a strong focus on the payments industry. Dash offers a form of money that is anonymous, portable, inexpensive and fast. It can be spent securely both online and in person with only minimal transaction fees. In addition to Bitcoin's feature set, Dash currently also includes a second-layer network of masternodes to facilitate instant transactions (InstantSend), private transactions (PrivateSend) and governance functions to create a self-governing and self-funding network capable of paying individuals and businesses for work that adds value to Dash.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.dash.org/
+twitter: https://twitter.com/dashpay
+facebook: https://www.facebook.com/DashPay/
+reddit: https://www.reddit.com/r/dashpay/

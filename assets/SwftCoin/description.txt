@@ -4,5 +4,14 @@ SwftCoin
 Symbol:
 SWFTC
 
+Description:
+SWFT Blockchain is a cross-blockchain platform. On the APP, the website, or the API, users can transfer cryptocurrency with one click. Built by world experts in artificial intelligence, big data, and blockchain, SWFT Blockchain became an outstanding transfer platform. Its success emerges as a result of efficiently hedging risks and providing customers with a user-friendly platform for cryptocurrency transactions. By using SwftCoin, users enjoy a discount on transaction fees on the SWFT Blockchain platform.
+
 Tags:
 Crypto
+
+Links:
+website: https://www.swft.pro/
+twitter: https://twitter.com/SwftCoin/
+facebook: https://www.facebook.com/SWFTBlockchain/
+telegram: https://t.me/SWFTBlockchain/

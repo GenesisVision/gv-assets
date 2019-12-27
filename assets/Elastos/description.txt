@@ -4,5 +4,15 @@ Elastos
 Symbol:
 ELA
 
+Description:
+Elastos aims to create a new kind of Internet, powered by blockchain technology. On this new Internet, people will be able to own digital assets and generate wealth from them. Elastos will be a platform for decentralized applications (Dapps) that runs on a peer-to-peer network with no centralized control. People can access these Dapps via their mobile phones, without changing their operating system. The Elastos Web will be a special economic zone where Elastos tokens function as the base currency. 
+
 Tags:
 Crypto
+
+Links:
+website: https://www.elastos.org/
+twitter: https://twitter.com/Elastos_org
+facebook: https://www.facebook.com/elastosorg/
+telegram: https://t.me/elastosgroup
+reddit: https://www.reddit.com/r/Elastos/

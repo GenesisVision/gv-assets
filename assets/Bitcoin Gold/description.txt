@@ -4,5 +4,15 @@ Bitcoin Gold
 Symbol:
 BTG
 
+Description:
+Bitcoin Gold was created in 2017 through a fork of the Bitcoin blockchain. t is a community-led project to create an experimental hard fork of Bitcoin to a new proof-of-work algorithm. The Bitcoin Gold blockchain contains the full transaction history of the Bitcoin blockchain up until the fork date, including the exact balances of Bitcoins held in wallets around the world, providing insights on Bitcoin price and other details about these wallets. 
+
 Tags:
 Crypto
+
+Links:
+website: https://bitcoingold.org/
+twitter: https://twitter.com/bitcoingold
+facebook: https://www.facebook.com/bitcoingoldofficial/
+telegram: https://t.me/BitcoinGoldHQ
+reddit: https://www.reddit.com/r/BitcoinGoldHQ/

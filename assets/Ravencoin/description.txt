@@ -4,5 +4,14 @@ Ravencoin
 Symbol:
 RVN
 
+Description:
+it's a new open-source project intended to see if a use case specific blockchain designed to be focused on the transfer of assets can develop technology which provides security or functional advantages for certain projects. The RVN team is launching their coin in the spirit of Bitcoin, code first. We hope to keep you updated in this thread as to work being done on RVN, as that information becomes available to us. 
+
 Tags:
 Crypto
+
+Links:
+website: https://ravencoin.org/
+twitter: https://twitter.com/ravencoin
+telegram: https://t.me/RavencoinDev
+reddit: https://www.reddit.com/r/Ravencoin/
