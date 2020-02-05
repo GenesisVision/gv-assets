@@ -14,4 +14,4 @@ Links:
 website: https://tierion.com/
 twitter: https://twitter.com/tierion/
 facebook: https://www.facebook.com/TierionInc
-telegram: t.me/tierion
+telegram: https://t.me/tierion/
