@@ -1,0 +1,17 @@
+Name:
+ARPA Chain
+
+Symbol:
+ARPA
+
+Description:
+ARPA is the world’s first privacy-preserving computation network that’s based on MPC. ARPA enables private smart contracts on blockchains acting as a layer 2. ARPA is committed to providing secure data transferring, sharing, and joint-analysis solutions based on cryptographic operations and blockchain for businesses and individuals.
+
+Tags:
+Crypto
+
+Links:
+website: https://arpachain.io/
+twitter: https://twitter.com/arpaofficial
+facebook: https://www.facebook.com/ARPA-317434982266680/54
+telegram: https://t.me/arpa_community

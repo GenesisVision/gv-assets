@@ -1,0 +1,16 @@
+Name:
+Kava
+
+Symbol:
+KAVA
+
+Description:
+Kava describes itself as a cross-chain Defi platform for cryptoassets.The Kava CDP platform is secured by 100+ validators, the very best professional validator services ensure your assets are safe.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.kava.io/
+twitter: https://twitter.com/kava_labs
+telegram: https://t.me/kavalabs

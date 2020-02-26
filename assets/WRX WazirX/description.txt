@@ -1,0 +1,17 @@
+Name:
+WRX WazirX
+
+Symbol:
+WRX 
+
+Description:
+Launched in 2018, WazirX is India's largest and fastest-growing cryptocurrency exchange with more than 200,000 app downloads with an average rating of 4.5. They have recently gone global. WazirX’s aim is to bridge the global fiat-cryptocurrency gap with the world’s first auto-matching P2P engine - WazirX Peer-to-Peer. As of today, WazirX P2P is the go-to method to deposit and withdraw INR in India, and growing steadily.
+
+Tags:
+Crypto
+
+Links:
+website: https://wazirx.com/
+twitter: https://twitter.com/WazirXIndia
+facebook: https://www.facebook.com/wazirx
+telegram: https://t.me/WazirX

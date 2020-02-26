@@ -1,0 +1,17 @@
+Name:
+Blockstack
+
+Symbol:
+STX
+
+Description:
+Blockstack is a new decentralized internet where users own their data and apps run locally. A browser portal is all that’s needed to get started.
+
+Tags:
+Crypto
+
+Links:
+website: https://blockstack.org/
+twitter: https://twitter.com/blockstack
+telegram: https://t.me/BlockstackChat
+reddit: https://www.reddit.com/r/blockstack/

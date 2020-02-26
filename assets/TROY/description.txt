@@ -1,0 +1,16 @@
+Name:
+TROY
+
+Symbol:
+TROY
+
+Description:
+Troy is a global prime broker specializing in crypto trading and asset management. Troy provides crypto brokerage services for institutional clients and professional traders including spot & margin trading, derivatives, data, custody, lending and staking in a single account.
+
+Tags:
+Crypto
+
+Links:
+website: https://troytrade.com/
+twitter: https://twitter.com/troytrade
+telegram: https://t.me/TroyTrade_Official

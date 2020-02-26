@@ -1,0 +1,17 @@
+Name:
+TokenClub
+
+Symbol:
+TCT 
+
+Description:
+TokenClub, a blockchain-based cryptocurrency investment service community, provides investors with accurate cryptocurrency information, professional consultant service and practical investment instructions. It solves trust and incentive issues through blockchain technology, and meanwhile makes investors who have abundant professional experience, high investment level, and more contributions to community become outstanding.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.tokenclub.com/
+twitter: https://mobile.twitter.com/Token8Club
+facebook: https://www.facebook.com/token.club.71
+telegram: https://t.me/token_club

@@ -1,0 +1,16 @@
+Name:
+DREP
+
+Symbol:
+DREP
+
+Description:
+DREP is committed to building “connectors” and “toolkits” based on blockchain technology, providing solutions that combine ease of use, flexibility and frictionless integration. Based on DREP Chain, DREP ID and DREP SDK, DApp R&D teams are able to release multi-public-chain asset versions, built-in wallets and asset trading platforms with one-click. DREP is also the early initiator and core member of the Sino-Singapore Innovation Alliance (SSIA).
+
+Tags:
+Crypto
+
+Links:
+website: https://www.drep.org/
+twitter: https://twitter.com/FoundationDrep
+telegram: https://t.me/drep_foundation

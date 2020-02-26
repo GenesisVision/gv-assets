@@ -1,0 +1,17 @@
+Name:
+LTO Network
+
+Symbol:
+LTO 
+
+Description:
+LTO Network builds upon this foundation taking a hybrid approach with its blockchain solution. Private layer is intended for Live Contracts, ad-hoc permissionless private chains, each with their own workflow logic. Every Live Contract rests upon its own miniature chain. The logic in each miniature chain is defined as Finite State Machine, making it understandable for both humans and machines. 
+
+Tags:
+Crypto
+
+Links:
+website: https://ltonetwork.com/
+twitter: https://twitter.com/LTOnetwork
+telegram: https://t.me/LTOnetwork
+reddit: https://www.reddit.com/r/LTONetwork/

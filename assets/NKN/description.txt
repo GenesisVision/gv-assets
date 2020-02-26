@@ -1,0 +1,17 @@
+Name:
+NKN
+
+Symbol:
+NKN
+
+Description:
+NKN is the new kind of network connectivity protocol & ecosystem powered by blockchain for an open, decentralized, and shared Internet. NKN’s goal is to revamp the trillion dollars communication business, where we face many challenges today such as inefficient resource utilization, lack of net neutrality, and centralized network control. 
+
+Tags:
+Crypto
+
+Links:
+website: https://www.nkn.org/
+twitter: https://twitter.com/NKN_ORG
+telegram: https://t.me/nknorg
+reddit: https://www.reddit.com/r/nknblockchain

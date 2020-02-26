@@ -1,0 +1,18 @@
+Name:
+ViteX
+
+Symbol:
+VITE
+
+Description:
+Vite is a next-generation Reactive Blockchain that adopts a message-driven, asynchronous architecture and a DAG-based ledger with smart contract mechanism.  The goal for Vite’s design is to provide a reliable public platform for powerful dApps, with features of ultra-high throughput and scalability. Vite's design of token issuance, token exchanging via Loopring protocol and cross-chain protocol constitutes a closed-loop value system. Users can conveniently issue, store and exchange their digital assets in Vite system.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.vite.org/
+twitter: https://twitter.com/vitelabs
+facebook: https://www.facebook.com/vitelabs/
+telegram: https://t.me/vite_en
+reddit: https://www.reddit.com/r/vitelabs

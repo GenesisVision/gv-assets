@@ -1,0 +1,17 @@
+Name:
+Origin Protocol
+
+OGN
+
+Description:
+Origin’s mission is to enable true peer-to-peer commerce. Using Origin, buyers and sellers can meet and transact directly without any intermediaries. Today, users can buy and sell goods and services on Origin’s flagship marketplace app and partner apps. The Origin Token (OGN) is an important component of the Origin platform, acting as an incentive mechanism to ensure the health and growth of the network while giving Origin’s users stakes in the network.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.originprotocol.com/
+twitter: https://twitter.com/originprotocol
+facebook: https://www.facebook.com/originprotocol
+telegram: https://t.me/originprotocol
+reddi: https://reddit.com/r/originprotocol/

@@ -1,0 +1,17 @@
+Name:
+Hedera Hashgraph
+
+Symbol:
+HBAR 
+
+Description:
+Hedera is a decentralized public network for you to make your digital world exactly as it should be – yours. Whether you're a startup or enterprise, a creator or a consumer, Hedera goes beyond blockchain for developers to create the next era of fast, fair, and secure applications.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.hedera.com/
+twitter: https://twitter.com/hashgraph
+facebook: https://www.facebook.com/hashgraph
+telegram: https://t.me/hashgraph

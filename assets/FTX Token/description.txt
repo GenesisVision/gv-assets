@@ -1,0 +1,16 @@
+Name:
+FTX Token
+
+Symbol:
+FTT
+
+Description:
+FTX Token (FTT) is the backbone of the FTX ecosystem. Issued in spring of 2019, FTX buys and burns FTT weekly based on fees paid to FTX.  FTT can also be used as collateral on FTX, and gains from insurance fund growth.  As the FTX ecosystem grows, FTT will be integrated into it. 
+
+Tags:
+Crypto
+
+Links:
+website: https://ftx.com/ftt
+twitter: https://twitter.com/FTX_official
+telegram: https://t.me/FTX_Official
