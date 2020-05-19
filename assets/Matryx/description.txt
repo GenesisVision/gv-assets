@@ -12,6 +12,6 @@ Crypto
 
 Links:
 website: https://nanome.ai/matryx/
-twitter: hthttps://twitter.com/nanome_inctps://twitter.com/genesis_vision/
+twitter: https://twitter.com/nanome_inc
 facebook: https://www.facebook.com/nanomeinc/
 telegram: https://t.me/matryxai

@@ -11,7 +11,7 @@ Tags:
 Crypto
 
 Links:
-website:https://basicattentiontoken.org/
+website: https://basicattentiontoken.org/
 twitter: https://twitter.com/@attentiontoken
 facebook: https://www.facebook.com/attentiontoken/
 telegram: https://t.me/batproject

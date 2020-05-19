@@ -11,6 +11,6 @@ Tags:
 Crypto
 
 Links:
-https://www.decred.org/https://genesis.vision/
+website: https://www.decred.org/
 twitter: https://twitter.com/decredproject
 reddit: https://www.reddit.com/r/decred/

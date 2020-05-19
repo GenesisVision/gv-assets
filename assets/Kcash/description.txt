@@ -14,5 +14,4 @@ Links:
 website: https://www.kcash.com/
 twitter: https://twitter.com/Kcashofficial
 facebook: https://www.facebook.com/KcashOfficial
-telegram: javascript:void(0);
-
+telegram: https://t.me/KcashOfficial_EN
