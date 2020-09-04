@@ -1,0 +1,16 @@
+Name:
+Ocean Protocol
+
+Symbol:
+OCEAN
+
+Description:
+The OCEAN utility token is used as a unit of exchange for buying and selling data and AI services within Ocean's Pacific Mainnet. Consumers can discover and purchase data and AI services in marketplaces which are connected to the Ocean Protocol Pacific network. The Ocean network processes transactions using Service Execution Agreements and clear payments with the Ocean Token. The Ocean Token is designed to enable data exchange and to maximize the supply of data within Ocean's POA networks, but as a standard ERC-20 token it is also deployed on Ethereum's Mainnet for increased security. 
+
+Tags:
+Crypto
+
+Links:
+website: https://oceanprotocol.com/
+twitter: https://twitter.com/oceanprotocol
+telegram: https://t.me/OceanProtocol_Community

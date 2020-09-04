@@ -1,0 +1,19 @@
+Name:
+Tezos
+
+Symbol:
+XTZ
+
+Description:
+Tezos (XTZ) is a blockchain network linked to a digital token, which is called a tez or a tezzie. Tezos is not based on the mining of tez. Instead, token holders receive a reward for taking part in the proof-of-stake consensus mechanism.
+
+Tags:
+Crypto
+
+Links:
+website: https://tezos.com
+twitter: https://twitter.com/tezos
+facebook: https://www.facebook.com/tezosledger/
+telegram: https://t.me/tezosplatform
+reddit: https://www.reddit.com/r/tezos
+

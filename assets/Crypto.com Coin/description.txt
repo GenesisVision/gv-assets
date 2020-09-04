@@ -1,0 +1,18 @@
+Name:
+Crypto.com Coin
+
+Symbol:
+CRO
+
+Description:
+The Crypto.com Coin (CRO) token is the native token of Crypto.com Chain - next-generation public blockchain solution. CRO also powers with utility across payment, trading and financial services use cases the overall Crypto.com ecosystem, which was founded in 2016 with the goal of accelerating the world’s transition to cryptocurrency.
+ 
+Tags:
+Crypto
+
+Links:
+website: https://chain.crypto.com/
+twitter: https://twitter.com/cryptocom
+facebook: https://www.facebook.com/CryptoComOfficial
+telegram: https://t.me/CryptoComOfficial
+reddit: https://www.reddit.com/r/Crypto_com/

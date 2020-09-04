@@ -1,0 +1,16 @@
+Name:
+yearn.finance
+
+Symbol:
+YFI
+
+Description:
+The YFI token is the native utility token in the yearn.finance platform — a Decentralized Finance (DeFi) platform which aims to build products on aggregated liquidity provision, leveraged trading, automated marketing making, and more. Users can earn it by contributing liquidity to yearn.finance's aggregated liquidity pool, or ypool, and use the token for platform governance. yearn.finance currently provides a profit optimizing service for lending providers, moving providers' funds between dYdX, Aave, and Compound autonomously for highest return.
+
+Tags:
+Crypto
+
+Links:
+website: https://yearn.finance/
+twitter: https://twitter.com/iearnfinance
+telegram: https://t.me/yearnfinance

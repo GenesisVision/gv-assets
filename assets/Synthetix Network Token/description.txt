@@ -1,0 +1,16 @@
+Name:
+Synthetix Network Token
+
+Symbol:
+SNX
+
+Description:
+SNX is a cryptocurrency that powers the Synthetix protocol. Synthetix protocol enables trading synthetic assets on Ethereum. Synths are tokens that provide exposure to assets such as gold, Bitcoin, U.S. Dollars, TESLA, and AAPL within the Ethereum blockchain.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.synthetix.io
+twitter: https://twitter.com/synthetix_io
+

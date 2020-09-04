@@ -1,0 +1,16 @@
+Name:
+Compound Coin
+
+Symbol:
+COMP
+
+Description:
+Compound (COMP) is an ERC-20 asset that empowers community governance of the Compound protocol; COMP token-holders and their delegates debate, propose, and vote on all changes to the protocol. By placing COMP directly into the hands of users and applications, an increasingly large ecosystem will be able to upgrade the protocol, and will be incentivized to collectively steward the protocol into the future with good governance.
+
+Tags:
+Crypto
+
+Links:
+website: https://compound.finance
+twitter: https://twitter.com/compoundfinance
+

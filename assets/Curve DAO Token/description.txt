@@ -1,0 +1,16 @@
+Name:
+Curve DAO Token
+
+Symbol:
+CRV
+
+Description:
+CRV is the native utility token in the Curve platform, and is used for voting in platform governance, and as a reward for liquidity providers. A portion of the trading fees collected is used to conduct constant CRV token burns. Since Curve only trades stablecoins, liquidity providers experience minimal impermanent loss, which can occur in liquidity pools where tokens with large value fluctuations are traded. 
+
+Tags:
+Crypto
+
+Links:
+website: https://www.curve.fi/
+twitter: https://twitter.com/CurveFinance
+telegram: https://t.me/curvefi

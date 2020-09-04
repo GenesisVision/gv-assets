@@ -1,0 +1,18 @@
+Name:
+Thorchain
+
+Symbol:
+RUNE
+
+Description:
+An integral part of the system and the nodes that run it is THORChain’s native token is RUNE. Available through Binance Chain, the token is a BEP2 token.The RUNE token is used in all liquidity pools and is bonded by nodes. All RUNE tokens are at a 1:1 ratio to asset value and this allows for pools to be linked. RUNE is also the rewards for pools, with the equivalent of 1/3rd of the System Income providing continuous liquidity incentives. 
+
+Tags:
+Crypto
+
+Links:
+website: https://thorchain.org
+twitter: https://twitter.com/thorchain_org
+telegram: https://t.me/thorchain_org
+reddit: https://reddit.com/r/thorchain
+

@@ -2,17 +2,16 @@ Name:
 WAXP
 
 Symbol:
-WAX
+WAXP
 
 Description:
-WAX is a decentralized platform that enables anyone to operate a fully functioning virtual marketplace with zero investment in security, infrastructure, or payment processing. Developed by the founders of OPSkins, the world’s leading marketplace for online video game assets, WAX is designed to serve the 400+ million online players who already collect, buy and sell in-game items.
+WAX is a purpose-built blockchain and protocol token designed to make e-commerce transactions faster, easier, and safer for all participants. The WAX Blockchain uses Delegated Proof of Stake (DPoS) as its consensus mechanism and is meant to be fully backward compatible with EOS. The custom features and incentive mechanisms developed by WAX are designed to optimize the blockchain's usability in e-commerce, and encourage voting on guilds and proposals.WAX Token model is designed to drive several activities to grow the WAX ecosystem: staking, rewards, and voting.
 
 Tags:
 Crypto
 
 Links:
 website: https://wax.io/
-twitter: https://twitter.com/WAX_io
-facebook: https://www.facebook.com/WAX.io.Community/
+twitter: https://twitter.com/wax_io
 telegram: https://t.me/wax_io
 reddit: https://www.reddit.com/r/WAX_io/

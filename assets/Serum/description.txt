@@ -1,0 +1,16 @@
+Name:
+Serum
+
+Symbol:
+SRM
+
+Description:
+SRM is Serum’s governance token based on the Solana blockchain. Serum is the world's first completely on-chain cryptocurrency ecosystem with trustless trading brought to you by Project Serum, in collaboration with a consortium of crypto trading and DeFi experts. Built on Solana, Serum is fast and efficient.  The Serum project is powered by the SRM governance token, which also provides discounts on trading on Serum, and is burnt with revenue earned from transactions on the network. 
+
+Tags:
+Crypto
+
+Links:
+website: https://projectserum.com/
+twitter: https://twitter.com/projectserum
+telegram: https://t.me/ProjectSerum

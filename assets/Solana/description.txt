@@ -1,0 +1,17 @@
+Name:
+Solana
+
+Symbol:
+SOL
+
+Description:
+SOL is the native asset of the Solana blockchain. Founded by former Qualcomm, Intel, and Dropbox engineers in late-2017, Solana is a single-chain, delegated-Proof-of-Stake protocol whose focus is on delivering scalability without sacrificing decentralization or security. Core to Solana's scaling solution is a decentralized clock titled Proof-of-History (PoH), built to solve the problem of time in distributed networks where there is not a single, trusted, source of time. By using Verifiable Delay Functions, PoH allows each node to locally generate timestamps with SHA256 computations. This eliminates the need for the broadcasts of timestamps accross the network, improving overall network efficiency.
+
+Tags:
+Crypto
+
+Links:
+website: https://solana.com
+twitter: https://twitter.com/solana
+telegram: https://t.me/solanaio
+reddit: https://www.reddit.com/r/solana/

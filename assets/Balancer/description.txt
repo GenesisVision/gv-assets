@@ -1,0 +1,15 @@
+Name:
+Balancer
+
+Symbol:
+BAL
+
+Description:
+Balancer is an automated market maker, decentralized exchange, and liquidity pool protocol built on Ethereum that allows users to provide liquidity for multiple assets simultaneously. Balancer's BAL token acts as a governance token to help the project set features such as issuance rewards and whitelisted pools for liquidity mining. When users trade, their orders are filled by multiple pools with better pricing and lower slippage.
+
+Tags:
+Crypto
+
+Links:
+website: https://balancer.finance/
+twitter: https://twitter.com/BalancerLabs

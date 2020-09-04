@@ -1,0 +1,16 @@
+Name:
+Reserve Rights Token
+
+Symbol:
+RSR
+
+Description:
+RSR - a cryptocurrency used to facilitate the stability of the Reserve token, which can be held and spent the way we use US dollars and other stable fiat money, and confers the cryptographic right to purchase excess Reserve tokens as the network grows.
+
+Tags:
+Crypto
+
+Links:
+website: https://reserve.org/
+twitter: https://twitter.com/reserveprotocol
+telegram: https://t.me/reservecurrency

@@ -1,0 +1,16 @@
+Name:
+Numeraire
+
+Symbol:
+NMR
+
+Description:
+Numeraire (NMR) is a cryptocurrency token and operates on the Ethereum platform. The NMR token can be used as payment for data, tournament payouts, staking, and is also burnt as a way to punish bad actors on applications built on the Erasure Protocol.
+
+Tags:
+Crypto
+
+Links:
+website: https://numer.ai/
+twitter: https://twitter.com/numerai
+telegram: https://t.me/NMR_Official

@@ -1,0 +1,18 @@
+Name:
+Origin Token
+
+Symbol:
+OGN
+
+Description:
+Origin Token (also known as OGN) is a utility token that serves multiple purposes in ensuring the health and growth of the network. At a high-level, this native token is intended to serve several key functions on the Origin platform. First, OGN is a multi-purpose incentive token that drives behavior for end users, developers, marketplace operators, and other ecosystem participants. In addition, OGN is a medium-of-exchange token that can be used for payments between buyers and sellers on the platform. Finally, it is intended that OGN will serve a critical piece in the future governance of the network. 
+
+Tags:
+Crypto
+
+Links:
+website: https://www.originprotocol.com/
+twitter: https://twitter.com/originprotocol
+facebook: https://www.facebook.com/originprotocol
+telegram: https://www.instagram.com/originprotocol/
+reddit: https://www.reddit.com/r/originprotocol/

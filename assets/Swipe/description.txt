@@ -1,0 +1,18 @@
+Name:
+Swipe
+
+Symbol:
+SXP
+
+Description:
+Swipe Token (SXP) is a utility based cryptocurrency designed to be the gas and fuel of the Swipe Network. Swipe's SXP is the protocols native digital currency and used for throughout the Swipe ecosystem of products to operate and secure the network. Users may use SXP to stake by bonding SXP on the Ethereum blockchain to secure the payment network, use it towards Swipe Visa Card lock-ups for higher tier cards, redeem it for discounts on the platform, convert it to fiat and use on the Swipe Visa Card, and stake SXP to run a commercial node for Swipe Issuing.
+
+Tags:
+Crypto
+
+Links:
+website: https://swipe.io/
+twitter: https://twitter.com/SwipeWallet
+facebook: https://www.facebook.com/Swipe
+telegram: https://t.me/SwipeWallet
+reddit: https://www.reddit.com/r/Swipe_io

@@ -1,0 +1,18 @@
+Name:
+Chromia
+
+Symbol:
+CHR
+
+Description:
+CHR is Chromia's native utility token. Users can use CHR tokens within dApps and the dApps in turn pay transaction fees to block producers using the CHR token. Chromia allows dApps to issue CHR-backed tokens, while investors of dApp projects can be compensated in CHR through a profit-sharing contract. For developers, Chromia offers the opportunity to derive income from their dApps, with popular dApps generating more income demand for tokens owned by the developer. Current implementations of dApps on Chromia involves finance, gaming, real estate, and healthcare. In the future, Chromia will also focus on dApps involving supply chain, enterprise services, and IoT.
+
+Tags:
+Crypto
+
+Links:
+website: https://chromia.com
+twitter: https://twitter.com/Chromia
+facebook: https://www.facebook.com/teamchromia
+telegram: https://t.me/hellochromia
+reddit: https://www.reddit.com/r/Teamchromia/

@@ -1,0 +1,17 @@
+Name:
+SAND
+
+Symbol:
+SAND
+
+Description:
+The Sandbox claims to be a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform’s utility token. It is claimed that players can create digital assets (Non-Fungible Tokens, aka NFTs), upload them to the marketplace, and drag-and-drop them to create game experiences with The Sandbox Game Maker. The Sandbox aims to bring blockchain into mainstream gaming, attracting both crypto and non-crypto game enthusiasts by offering the advantages of true-ownership, digital scarcity, monetization capabilities, and interoperability.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.sandbox.game/
+twitter: https://twitter.com/thesandboxgame
+facebook: https://www.facebook.com/TheSandboxGame/
+telegram: https://t.me/sandboxgame

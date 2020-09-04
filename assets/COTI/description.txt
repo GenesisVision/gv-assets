@@ -1,0 +1,18 @@
+Name:
+COTI
+
+Symbol:
+COTI
+
+Description:
+COTI describes itself as a «fully encompassing finance on the blockchain» ecosystem that is designed specifically to meet the challenges of traditional finance (fees, latency, global inclusion and risk) by introducing a new type of DAG-based base protocol and infrastructure that is scalable, fast, private, inclusive, low cost and is optimized for real-time payments. The ecosystem includes a DAG-based Blockchain, a Proof of Trust Consensus Algorithm, a multiDAG, a Global Trust System (GTS), a Universal Payment Solution (UPS), a Payment Gateway, as well as consumer (COTI Pay) and merchant (COTI Pay Business) applications.
+
+Tags:
+Crypto
+
+Links:
+website: https://coti.io/
+twitter: https://twitter.com/COTInetwork
+facebook: https://www.facebook.com/COTInetwork
+telegram: https://t.me/COTInetwork
+reddit: https://www.reddit.com/r/cotinetwork/

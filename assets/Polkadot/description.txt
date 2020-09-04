@@ -1,0 +1,17 @@
+Name:
+Polkadot
+
+Symbol:
+DOT
+
+Description:
+DOT is the token native to the Polkadot network for the purpose of carrying out the key functions of the platform. DOT serves multiple purposes such as: Governance, where participants can manage protocol updates and fixes; Staking, where the tokens are staked to ensure the network remains secure, as good validators are rewarded, and bad actors lose their stake; Bonding, where new parachains are supported by bonding tokens; and Fees — for ferrying messages across parachains.
+
+Tags:
+Crypto
+
+Links:
+website: https://polkadot.network/
+twitter: https://twitter.com/Polkadot
+telegram: https://t.me/polkadotofficial
+reddit: https://www.reddit.com/r/dot
