@@ -1,0 +1,15 @@
+Name:
+Uniswap
+
+Symbol:
+UNI
+
+Description:
+Since its inception, the Uniswap Protocol (”Uniswap”) has served as trustless and highly decentralized financial infrastructure. Having proven product-market fit for highly decentralized financial infrastructure with a platform that has thrived independently, Uniswap is now particularly well-positioned for community-led growth, development, and self-sustainability. The introduction of UNI (ERC-20) serves this purpose, enabling shared community ownership and a vibrant, diverse, and dedicated governance system, which will actively guide the protocol towards the future.
+
+Tags:
+Crypto
+
+Links:
+website: https://uniswap.org/
+twitter: https://twitter.com/UniswapProtocol
