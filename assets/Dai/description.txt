@@ -1,0 +1,16 @@
+Name:
+Dai
+
+Symbol:
+DAI
+
+Description:
+Dai is decentralized and backed by collateral. The Maker Protocol, which allows anyone anywhere in the world to generate Dai, aims to facilitate greater security, transparency, and trust.
+
+Tags:
+Crypto
+
+Links:
+website: https://makerdao.com
+twitter: https://twitter.com/MakerDAO
+reddi: https://www.reddit.com/r/MakerDAO
