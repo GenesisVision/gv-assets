@@ -1,0 +1,18 @@
+Name:
+Orchid Protocol
+
+Symbol:
+OXT
+
+Description:
+Orchid takes a new approach to digital privacy with the first peer-to-peer, incentivized privacy network. On the network, anyone can buy and sell bandwidth using the Orchid token (OXT). Users can browse privately and access content without being limited by their geography. With its decentralized design, multi-hop architecture, and Open Source ethos, Orchid offers users "unprecedented digital privacy in a trustless context".
+
+Tags:
+Crypto
+
+Links:
+website: https://www.orchid.com
+twitter: https://twitter.com/orchidprotocol
+facebook: https://www.facebook.com/OrchidProtocol
+telegram: https://t.me/OrchidOfficial
+reddit: https://reddit.com/r/orchid
