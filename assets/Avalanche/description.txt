@@ -1,0 +1,18 @@
+Name:
+Avalanche
+
+Symbol:
+AVAX
+
+Description:
+Avalanche is an open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. Built using an original consensus protocol, Avalanche (AVAX) -- previously abbreviated as Ava or AVA -- is the reportedly the first smart contracts platform that confirms transactions in under one second, supports the entirety of the Ethereum development toolkit, and enables millions of full block producers. Led by the creator of the first coin minted through proof-of-work and supported by pioneering researchers from Cornell University, Avalanche is bringing another accomplishment in distributed systems to the world after Classical and Nakamoto consensus protocols.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.avalabs.org 
+twitter: https://twitter.com/avalancheavax
+telegram: https://t.me/avalancheavax
+reddit: https://www.reddit.com/r/Avax
+

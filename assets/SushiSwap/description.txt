@@ -1,0 +1,16 @@
+Name:
+SushiSwap
+
+Symbol:
+SUSHI
+
+Description:
+SushiSwap is a Decentralized Finance (DeFi) liquidity provision platform that aims to be an evolution of Uniswap.SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics. SushiSwap protocol aims to better aligns incentives for network participants by introducing revenue-sharing & network effects to the popular AMM model.
+
+Tags:
+Crypto
+
+Links:
+website: https://sushiswapclassic.org/
+twitter: https://twitter.com/sushiswap
+
