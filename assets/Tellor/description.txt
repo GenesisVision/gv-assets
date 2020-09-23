@@ -1,0 +1,16 @@
+Name:
+Tellor
+
+Symbol:
+TRB
+
+Description:
+Tellor is a decentralized oracle on Ethereum. TRB provides crypto-economic incentives to secure the Tellor network.
+
+Tags:
+Crypto
+
+Links:
+website: https://tellor.io
+twitter: https://twitter.com/wearetellor
+telegram: https://t.me/tellor

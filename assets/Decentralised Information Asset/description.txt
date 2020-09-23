@@ -1,0 +1,17 @@
+Name:
+Decentralised Information Asset
+
+Symbol:
+DIA
+
+Description:
+DIA (Decentralised Information Asset) is an open-source, data and oracle platform for the DeFi ecosystem. DIA leverages crypto economic incentives to drive supply, share and use transparent, crowd-verified price data and oracles on financial and digital assets. 
+
+Tags:
+Crypto
+
+Links:
+website: https://diadata.org
+twitter: https://twitter.com/DIAdata_org
+telegram: https://twitter.com/DIAdata_org
+

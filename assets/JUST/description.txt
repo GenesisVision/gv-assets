@@ -1,0 +1,19 @@
+Name:
+JUST
+
+Symbol:
+JST
+
+Description:
+JST can be used for paying interest, platform maintenance, participating in governance through voting, and other activities on the JUST platform.
+
+JUST allows all transactions, collateralization, and governance to be transparently executed on-chain. JUST is built on the TRON Network, the largest decentralized application ecosystem, and aims to provide a set of easy-to-use and transparent financial services for all its members.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.just.network
+twitter: https://twitter.com/defi_just
+telegram: https://t.me/just_defi
+

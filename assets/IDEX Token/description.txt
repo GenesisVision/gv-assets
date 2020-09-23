@@ -1,0 +1,19 @@
+Name:
+IDEX Token
+
+Symbol:
+IDEX
+
+Description:
+IDEX is a hybrid model of a decentralized exchange based on Ethereum that was founded in 2018. Though the resource brands itself as a decentralized platform it has several characteristics that are found in centralized exchanges such as off-chain order books and order matching.
+
+The exchange with over 270 listed ERC20 trading markets has over 100,000 verified accounts. In July 2020, the DEX volume soared and surpassed 4 billion USD, hitting a new all-time high. IDEX enters the top three leaders of the DEX market after Curve and Uniswap. 
+
+Tags:
+Crypto
+
+Links:
+website: https://idex.market/
+twitter: https://twitter.com/aurora_dao
+reddit: https://www.reddit.com/r/auroradao/
+
