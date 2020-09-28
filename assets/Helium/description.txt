@@ -1,0 +1,22 @@
+Name:
+Helium
+
+Symbol:
+HNT
+
+Description:
+Launched in July 2019, Helium is a decentralized wireless network that allows low power smart devices to send and receive data to the internet. Miners earn HNT for providing network coverage and relaying data to the internet using hardware called a Hotspot.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.helium.com
+twitter: https://twitter.com/helium
+facebook: https://www.facebook.com/heliumsystems
+reddit: https://www.reddit.com/r/HeliumNetwork
+telegram: https://t.me/helium_network
+instagram: instagramhttps://www.instagram.com/join.helium
+
+
+
