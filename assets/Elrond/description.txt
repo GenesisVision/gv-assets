@@ -2,17 +2,20 @@ Name:
 Elrond
 
 Symbol:
-ERD
+EGLD
 
 Description:
-Elrond enables efficient and competitive dApp & smart contract deployments for real world use cases. The end user experience benefits from fast transaction speeds, while the high throughput and low costs enable the realization of business cases at scale, in even the most demanding environments such as machine-to-machine transactions and IoT deployments.
+Elrond describes itself as a new blockchain architecture, designed to bring a 1000-fold cumulative improvement in throughput and execution speed. To achieve this, Elrond introduces two features: Adaptive State Sharding mechanism, and a Proof of Stake (PoS) algorithm, enabling linear scalability with a reportedly fast, efficient, and secure consensus mechanism. Thus, Elrond can reportedly process upwards of 10,000 transactions per second (TPS), with 5-second latency, and negligible cost. It aims to become the backbone of a permissionless, borderless, globally accessible internet economy.
 
 Tags:
 Crypto
 
 Links:
-website: https://elrond.com/
+website: https://elrond.com
 twitter: https://twitter.com/elrondnetwork
-facebook: https://www.facebook.com/ElrondNetwork/
+reddit: https://www.reddit.com/r/elrondnetwork
 telegram: https://t.me/ElrondNetwork
-reddit: https://www.reddit.com/r/elrondnetwork/
+facebook: https://www.facebook.com/ElrondNetwork/
+
+
+

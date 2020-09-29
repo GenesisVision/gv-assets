@@ -1,0 +1,20 @@
+Name:
+Aragon
+
+Symbol:
+ANT
+
+Description:
+Aragon (ANT) is a decentralized platform built on the Ethereum network that offers a modularized way to create and manage dApps, cryptoprotocols, and decentralized autonomous organizations (DAO). The ANT ERC-20 token will enable its holders to govern the Aragon Network. The project is led by Luis Cuende, who was featured on the 'Forbes 30 under 30' category in 'Technology'.
+
+Tags:
+Crypto
+
+Links:
+website: https://aragon.org/
+twitter: https://www.reddit.com/r/aragonproject
+reddit: https://twitter.com/AragonProject
+
+
+
+

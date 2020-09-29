@@ -5,14 +5,18 @@ Symbol:
 DGB
 
 Description:
-DigiByte is it’s own public UTXO blockchain, and the first one with SegWit, MultiAlgo mining and DigiShield. DigiByte is bringing free to use cybersecurity solutions to the world by development of open source cybersecurity cryptographic protocol built on top of the DigiByte public blockchain. Because of its incredible transaction speed, low fees, and mobile wallets in over 55 languages, DigiByte is very suitable as a currency. 
+DigiByte is an open-source blockchain, created in 2013 and released in early 2014 by DigiByte founder Jared Tate. Its network is based on three layers: smart contracts, decentralized applications (DApps) and customizable tokens. The middle layer, the public ledger, is where DigiByte digital assets exist in the network, while the third and bottom later hosts the decentralized nodes, the client software and their communication. A unique factor of DigiByte is its five mining algorithms — Sha256, Scrypt, Skein, Qubit and Odocrypt — whose advanced difficulty adjustment aims to keep the blockchain secure and protect it from malicious attacks. DigiByte has its own block explorer, DigiExplorer. DigiByte was the first major altcoin to activate Segwit in April 2017.
 
 Tags:
 Crypto
 
 Links:
-website: https://www.digibyte.io/
-twitter: https://twitter.com/DigiByteCoin
-facebook: https://www.facebook.com/digibytecoin/
-telegram: https://t.me/DigiByteCoin
-reddit: https://www.reddit.com/r/Digibyte/
+website: https://digibyte.io/
+twitter: https://twitter.com/digibytecoin
+facebook: https://www.facebook.com/digibytecoin
+reddit: https://www.reddit.com/r/Digibyte
+telegram: https://t.me/OfficialDigiByteGroups
+
+
+
+

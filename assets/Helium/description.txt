@@ -16,7 +16,7 @@ twitter: https://twitter.com/helium
 facebook: https://www.facebook.com/heliumsystems
 reddit: https://www.reddit.com/r/HeliumNetwork
 telegram: https://t.me/helium_network
-instagram: instagramhttps://www.instagram.com/join.helium
+instagram: https://www.instagram.com/join.helium
 
 
 
