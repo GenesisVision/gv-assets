@@ -1,0 +1,16 @@
+Name:
+UMA
+
+Symbol:
+UMA
+
+Description:
+UMA describes itself as a protocol for building synthetic assets. It aims to allow users to write self-enforcing smart contracts with economic guarantees. UMA is designed to power the financial innovations made possible by permissionless, public blockchains, like Ethereum. Using concepts borrowed from fiat financial derivatives, UMA defines an open-source protocol that allows any two counterparties to design and create their own financial contracts. But unlike traditional derivatives, UMA contracts are secured with economic incentives alone, making them self-enforcing and universally accessible.
+
+Tags:
+Crypto
+
+Links:
+website: https://umaproject.org
+twitter: https://twitter.com/UMAprotocol
+

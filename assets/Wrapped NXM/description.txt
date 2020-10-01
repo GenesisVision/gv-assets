@@ -1,0 +1,15 @@
+Name:
+Wrapped NXM
+
+Symbol:
+WNXM
+
+Description:
+Nexus Mutual uses Ethereum so that people can pool risk together without the need for an insurance company.
+
+Tags:
+Crypto
+
+Links:
+website: https://nexusmutual.io
+twitter: https://twitter.com/NexusMutual
