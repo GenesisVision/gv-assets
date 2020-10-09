@@ -1,0 +1,16 @@
+Name:
+renBTC
+
+Symbol:
+RENBTC
+
+Description:
+RENBTC is a cryptocurrency token built on top of Ethereum platform, launched in May 2020.
+
+Tags:
+Crypto
+
+Links:
+twitter: https://twitter.com/renprotocol
+telegram: https://t.me/renproject
+reddit: https://www.reddit.com/r/RenProject/

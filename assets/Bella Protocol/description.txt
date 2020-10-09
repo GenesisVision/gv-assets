@@ -1,0 +1,16 @@
+Name:
+Bella Protocol
+
+Symbol:
+BEL
+
+Description:
+Bella Protocol is described to be a set of DeFi products for one-click crypto banking. The project's goal is to accelerate DeFi adoption among mass users by providing a full-suite of DeFi products, including automated yield farming tool, lending protocol, 1-click savings account, customized robo-advisor, and more with elegant design and smooth user experience.
+
+Tags:
+Crypto
+
+Links:
+website: https://bella.fi/
+twitter: https://twitter.com/BellaProtocol
+telegram: https://t.me/bellaprotocol

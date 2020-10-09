@@ -1,0 +1,18 @@
+Name:
+Nervos Network
+
+Symbol:
+CKB
+
+Description:
+CKB is a cryptocurrency that powers The Nervos CKB (Common Knowledge Base). The Nervos CKB is the layer 1, proof of work public blockchain protocol of the Nervos Network.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.nervos.org
+twitter: https://twitter.com/nervosnetwork
+facebook: https://www.facebook.com/theNervosNetwork/
+telegram: https://t.me/nervosnetwork
+reddit: https://www.reddit.com/r/NervosNetwork/

@@ -1,0 +1,17 @@
+Name:
+V.SYSTEMS
+
+Symbol:
+VSYS
+
+Description:
+VSYS is the native currency for the v.systems blockchain platform with use cases such as transactions, staking, and minting on the network.
+
+Tags:
+Crypto
+
+Links:
+twitter: https://twitter.com/VSYSCoin
+facebook: https://www.facebook.com/vsystemsofficial/
+telegram: https://t.me/VSYSOfficialGroup
+reddit: https://www.reddit.com/r/V_SYSTEMS/

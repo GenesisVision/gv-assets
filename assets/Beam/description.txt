@@ -1,0 +1,16 @@
+Name:
+Beam
+
+Symbol:
+BEAM
+
+Description:
+Beam aims to offer a private, scalable, and easy-to-use cryptocurrency. All transactions on Beam are private by default and none of the cryptographic protocols used in Beam require a trusted setup. Like Bitcoin, scarcity is ensured by periodic halving.
+
+Tags:
+Crypto
+
+Links:
+website: https://beam.mw
+twitter: https://twitter.com/beamprivacy
+reddit: https://www.reddit.com/r/beamprivacy/

@@ -1,0 +1,17 @@
+Name:
+VeThor Token
+
+Symbol:
+VTHO
+
+Description:
+VTHO is a cryptocurrency and operates on the VeChain platform. VeThor Token has a current supply of 28,345,112,532. The last known price of VeThor Token is 0.0006286 USD and is down -3.42 over the last 24 hours. It is currently trading on 27 active market(s) with $2,212,423.94 traded over the last 24 hours.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.vechain.org/
+twitter: https://twitter.com/vechainofficial
+telegram: https://t.me/vechain_official_englis
+reddit: https://www.reddit.com/r/Vechain/

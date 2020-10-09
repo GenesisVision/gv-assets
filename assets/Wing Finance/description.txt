@@ -1,0 +1,16 @@
+Name:
+Wing Finance
+
+Symbol:
+WING
+
+Description:
+Wing is described to be a credit-based, cross-chain DeFi lending platform dedicated to the crypto asset lending and cross-chain interactions between DeFi products. The project's decentralized governance model and risk control mechanism are described to promote a mutually beneficial relationship between borrowers, creditors, and guarantors. Wing has also developed a credit evaluation module as a showcase example of credit-based decentralized lending.
+
+Tags:
+Crypto
+
+Links:
+website: https://wing.finance/
+twitter: https://twitter.com/Wing_Finance
+telegram: https://t.me/WingDAO

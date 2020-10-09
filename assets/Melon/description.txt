@@ -1,0 +1,18 @@
+Name:
+Melon
+
+Symbol:
+MLN
+
+Description:
+MLN is a cryptocurrency and operates on the Ethereum platform. Melon has a current supply of 1,250,000. The last known price of Melon is 22.84547609 USD and is down -11.00 over the last 24 hours.
+
+Tags:
+Crypto
+
+Links:
+website: https://melonprotocol.com
+twitter: https://twitter.com/melonprotocol
+facebook: https://www.facebook.com/melonport/
+telegram: https://t.me/melonport
+reddit: https://www.reddit.com/r/melonproject/
