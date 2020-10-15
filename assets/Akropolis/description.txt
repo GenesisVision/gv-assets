@@ -1,0 +1,16 @@
+Name:
+Akropolis
+
+Symbol:
+AKRO
+
+Description:
+Akropolis native token (AKRO) is used for bonding (staking), and is required for user participation in the AkroChain consensus which works as DPoS. AKRO is the fuel of the incentive mechanism designed to get users to participate in elementary units of the network — in short, AFOs taking part in block validation. Other functions of AKRO token are participation in the network governance and use as collateral in case of attracting a loan.
+ 
+Tags:
+Crypto
+
+Links:
+website: https://akropolis.io/
+twitter: https://twitter.com/akropolisio
+telegram: https://t.me/akropolis_official

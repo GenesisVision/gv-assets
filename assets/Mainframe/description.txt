@@ -5,7 +5,7 @@ Symbol:
 MFT
 
 Description:
-Mainframe is a privacy focused, p2p decentralized data relay network that empowers developers to create unstoppable, untrackable, and private web3 applications for the world of tomorrow. Resistant to censorship, surveillance, and disruption, the Mainframe network’s robust encryption and metadata obscuring features enables any application to safely and privately send data, store files, manage payments, run tasks, and much more. The network is fueled by the MFT token, incentivizing nodes to relay and store data packets to support the basic functions of the Mainframe network infrastructure.
+The MFT (Mainframe) ERC-20 token can be used as a medium of exchange within it's platform. The Mainframe Lending Protocol allows anyone to borrow against their crypto by leveraging collateral assets approved by Mainframe Governance. Mainframe uses a bond-like instrument, representing an on-chain obligation that settles on a specific future date. Buying and selling the tokenized debt enables fixed-rate lending and borrowing � something much needed in decentralized finance today. Mainframe Governance is the community organized process of managing the various aspects of the Lending Protocol. Unique to the Mainframe Lending Protocol is the liquidation mechanism, rehypothecation of collateral accounts, and an incentivization layer powered by staking the Mainframe Token (MFT). 
 
 Tags:
 Crypto

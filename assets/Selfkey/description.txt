@@ -1,0 +1,18 @@
+Name:
+Selfkey 
+
+Symbol:
+KEY
+
+Description:
+The KEY token is used to enable all functionalities the Selfkey platform provides. SelfKey is a self-sovereign identity platform, built on the Ethereum blockchain, which aims to enable individuals and companies to have full ownership of their digital identity.SelfKey builds an identity wallet, with which individuals and companies can control and manage their personal data and cryptocurrency portfolio. The project also enables a concept called "verified claims", which enables a user to prove something is verified by a trusted party without having to reveal the information itself.
+
+Tags:
+Crypto
+
+Links:
+website: https://selfkey.org/
+twitter: https://twitter.com/selfkey
+facebook: https://www.facebook.com/SelfKeyHQ/
+telegram: https://t.me/selfkeyfoundation
+reddit: https://www.reddit.com/r/selfkey/

@@ -5,13 +5,13 @@ Symbol:
 BTT
 
 Description:
-BitTorrent is a peer-to-peer protocol that powers the torrent clients used around the world today. BitTorrent (BTT) allows content creators to connect with their audience, earn and spend digital currency without a middleman. By creating incentives for users to share, the token will enable faster download and better swarm longevity for the entire network.
-
+BitTorrent Token (BTT) is a TRC-10 utility token based on the blockchain that powers features of the most popular decentralized protocols and applications in the world. DApps powered by BTT include BitTorrent Speed, BitTorrent File System, DLive, and others in the pipeline.
+ 
 Tags:
 Crypto
 
 Links:
-website: https://www.bittorrent.com/btt/
+website: https://www.bittorrent.com/token/btt/
 twitter: https://twitter.com/BitTorrent
 facebook: https://www.facebook.com/bittorrent
-telegram: https://t.me/BTTBitTorrent
+telegram: https://t.me/BitTorrentToken

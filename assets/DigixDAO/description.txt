@@ -5,7 +5,7 @@ Symbol:
 DGD
 
 Description:
-Digix provides a use case for the tokenization and documentation of physical assets through its Proof of Provenance (PoP) protocol. The PoP protocol utilizes Ethereum and the InterPlanetary Files System (IPFS) to track an asset through its chain of custody. This allows for the open and public verification of an assetâ€™s existence without a centralized database. Digix also offers an API allowing other applications to be built on top of our asset tokenization service.
+DigixDAO (DGD) is building a decentralized autonomous organization (DAO) that specializes in the tokenization of physical assets. The project provides the infrastructure to create tokens backed by physical assets on the blockchain. To wit, it allows for the public verification of an asset’s existence through its chain of custody via its Proof of Provenance (PoP) protocol, which makes use of the Ethereum network and the Interplanetary File System (IPFS). Digix also offers an API that enables other applications to be built on top of its asset tokenization service. Digix has 2 cryptocurrencies, Digix Gold (DGX) and DigixDAO (DGD). The company reportedly procures its gold from LBMA-approved refiners. For security, Digix includes third-party auditing from Bureau Veritas.  
 
 Tags:
 Crypto
@@ -13,4 +13,4 @@ Crypto
 Links:
 website: https://digix.global/
 twitter: https://twitter.com/digixglobal
-
+facebook: https://www.facebook.com/digixglobal

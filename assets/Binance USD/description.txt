@@ -1,0 +1,18 @@
+Name:
+Binance USD
+
+Symbol:
+BUSD
+
+Description:
+Binance USD (BUSD) is a 1:1 USD-backed stable coin issued by Binance (in partnership with Paxos). Approved and regulated by the New York State Department of Financial Services (NYDFS). BUSD aims to meld the stability of the dollar with blockchain technology. It is a digital fiat currency, issued as ERC-20 and supports BEP-2.
+ 
+Tags:
+Crypto
+
+Links:
+website: https://www.binance.com/en/busd
+twitter: https://twitter.com/binance
+facebook: https://www.facebook.com/binance
+telegram: https://t.me/BinanceExchange
+reddit: https://www.reddit.com/r/binance/

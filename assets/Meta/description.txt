@@ -1,0 +1,19 @@
+Name:
+Meta
+
+Symbol:
+MTA
+
+Description:
+Meta lies at the heart of the mStable Standard. It is what ensures the integrity of mStable system in the event of permanent loss. mStable has a protocol token, Meta (MTA), with three core functions:
+ to coordinate decentralised governance
+; to incentivise bootstrapping of mASSET liquidity, utility and a decentralised community of Governors
+; to act as the ultimate source of re-collateralisation when it is implemented. The Meta token aims to coordinate decentralised governance by incentivising stakeholders to act in the best interests of mStable.
+
+Tags:
+Crypto
+
+Links:
+website: https://mstable.org/
+twitter: https://twitter.com/mstable_
+

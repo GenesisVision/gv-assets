@@ -1,0 +1,22 @@
+Name:
+Aave Protocol
+
+Symbol:
+AAVE
+
+Description:
+Aave is a decentralized finance protocol that allows people to lend and borrow crypto. Lenders earn interest by depositing digital assets into specially created liquidity pools. Borrowers can then use their crypto as collateral to take out a flash loan using this liquidity. Aave (which means “ghost” in Finnish) was originally known as ETHLend when it launched in November 2017, but the rebranding to Aave happened in September 2018. (This helps explain why this token’s ticker is so different from its name!)
+
+Tags:
+Crypto
+
+Links:
+website: https://aave.com
+twitter: https://twitter.com/AaveAave
+reddit: https://www.reddit.com/r/Aave_Official
+telegram: https://t.me/Aavesome
+instagram: https://www.instagram.com/aave.aave
+
+
+
+

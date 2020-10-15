@@ -1,0 +1,16 @@
+Name:
+Cream
+
+Symbol:
+CREAM
+
+Description:
+The CREAM token is the governance token of the Cream platform. Cream Finance is a decentralized lending and exchange platform featuring liquidity mining. CREAM holders are able to vote on the addition/removal of liquidity pools, supported assets, changes in platform parameters, and more.
+
+Tags:
+Crypto
+
+Links:
+website: https://cream.finance/
+twitter: hhttps://twitter.com/CreamdotFinance
+telegram: https://t.me/CreamdotFinance

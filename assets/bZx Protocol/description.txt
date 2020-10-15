@@ -1,0 +1,16 @@
+Name:
+bZx Protocol
+
+Symbol:
+BZRX
+
+Description:
+bZx is a decentralized finance (DeFi) protocol built on Ethereum which allows users to build applications designed for lenders, borrowers and traders. bZx’s token, BZRX, is a governance and utility token which captures value from protocol fee sharing, Balancer mining rewards, and the right to draw from the bZx Insurance Fund. Each BZRX token can be redeemed for a proportionate amount of non-BZRX tokens from the insurance fund. This gives the BZRX token a fundamental value by being both backed by current assets supported on the protocol, as well as future cash flows. The insurance fund receives half of the protocol's loan origination fees, fees from interest payments, and fees generated via trading.
+ 
+Tags:
+Crypto
+
+Links:
+website: https://bzx.network/
+twitter: https://twitter.com/bzxHQ
+telegram: https://t.me/b0xNet

@@ -5,13 +5,13 @@ Symbol:
 NPXS
 
 Description:
-Pundi X aims to bring in the next billion crypto users as it allows users to buy, sell, use cryptocurrency anywhere and anytime. It is decentralized, because the ecosystem and transaction records live on the blockchain. It is offline, because our entry point is via point-of-sale (pos) devices installed in physical outlets.
-
+Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike. By applying the technology to a series of real world use cases such as cards and the XPOS point-of-sale devices, the team has built products that could accept the NPXS token for goods and services. With the goals of supporting retail intelligence, marketing & loyalty programs as well as inventory & order management systems, the Pundi X Point-of-Sale device could help to support digital commerce worldwide.
+ 
 Tags:
 Crypto
 
 Links:
 website: https://pundix.com/
 twitter: https://twitter.com/PundiXLabs
-facebook: https://www.facebook.com/pundixlabs/?_rdc=1&_rdr
+facebook: https://www.facebook.com/pundixlabs/
 telegram: https://t.me/Pundix
