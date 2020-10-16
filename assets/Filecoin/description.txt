@@ -1,0 +1,19 @@
+Name:
+Filecoin
+
+Symbol:
+FIL
+
+Description:
+Filecoin is a decentralized storage system that aims to “store humanity’s most important information.”  The project was first described back in 2014 as an incentive layer for the Interplanetary File System (IPFS), a peer-to-peer storage network. Filecoin is open protocol and backed by a blockchain that records commitments made by the network’s participants, with transactions made using FIL, the blockchain’s native currency. The blockchain is based on both proof-of-replication and proof-of-spacetime.
+
+Tags:
+Crypto
+
+Links:
+website: https://filecoin.io
+twitter: https://twitter.com/Filecoin
+
+
+
+
