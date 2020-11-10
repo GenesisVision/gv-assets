@@ -1,0 +1,18 @@
+Name:
+Alpha Finance Lab
+
+Symbol:
+ALPHA
+
+Description:
+Alpha Finance Lab describes itself as a cross-chain DeFi platform that will interoperate and bring alpha to users across different blockchains such as Binance Smart Chain (BSC) and Ethereum. Alpha Lending, the first product built by Alpha Finance Lab, is a decentralized lending protocol with algorithmically-adjusted interest rates. ALPHA is the native utility token of the platform. Token holders can earn a share of network fees by staking ALPHA tokens to cover any default loans. The ALPHA tokens can also be used for liquidity mining and governance voting. Alpha Finance Lab will implement governance on two levels via a Decentralized Autonomous Organization (DAO): product-level governance and Alpha Finance-level governance. Product-level governance will allow ALPHA token holders to vote on key parameters of specific Alpha products. Alpha Finance-level governance will allow ALPHA token holders to vote on how the portfolio of Alpha products interoperate.
+
+Tags:
+Crypto
+
+Links:
+website: https://alphafinance.io/
+twitter: https://twitter.com/alphafinancelab
+github: https://github.com/AlphaFinanceLab
+discord: https://discord.gg/Z2vuKDT
+telegram: https://t.me/AlphaFinanceLab 

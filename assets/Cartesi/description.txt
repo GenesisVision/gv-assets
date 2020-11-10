@@ -1,0 +1,18 @@
+Name:
+Cartesi
+
+Symbol:
+CTSI
+
+Description:
+Cartesi is building an operating system for DApps. The project enables complex and intensive computations to run in a Linux environment, outside the blockchain, without compromising decentralization. Cartesi aims to make DApps significantly more powerful, easier to develop, and portable. Cartesi aims to bring mainstream scalability and convenience to developers and users of decentralized applications.
+
+Tags:
+Crypto
+
+Links:
+website: https://cartesi.io/
+twitter: https://www.twitter.com/cartesiproject
+telegram: https://t.me/cartesiannouncements
+github: https://www.github.com/cartesi
+discord: https://discord.gg/Pt2NrnS

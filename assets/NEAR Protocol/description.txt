@@ -1,0 +1,20 @@
+Name:
+NEAR Protocol
+
+Symbol:
+NEAR
+
+Description:
+NEAR Protocol is a decentralized application platform designed to make apps usable on the web. The network runs on a Proof-of-Stake (PoS) consensus mechanism called Nightshade, which aims to offer scalability and stable fees.
+
+Tags:
+Crypto
+
+Links:
+website: https://near.org/
+twitter: https://twitter.com/nearprotocol
+telegram: https://t.me/cryptonear
+wechat: https://near.org/wechat
+youtube: https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw
+discord: http://near.chat/
+github: https://github.com/near

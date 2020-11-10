@@ -1,0 +1,17 @@
+Name:
+Axie Infinity
+
+Symbol:
+AXS
+
+Description:
+Axie Infinity is a Pokémon-inspired digital pet universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets. All art assets and Axie genetic data can be easily accessed by 3rd parties, allowing community developers and artist to build their own tools and experiences in the Axie Infinity universe. Although Axie is still in early access, it is currently the #1 NFT platform on Ethereum by Monthly Active Users. While Axie is a fun game, it's also taken on characteristics of a social network and jobs platform due to the strong community and play to earn opportunities that have come from its early success.
+
+Tags:
+Crypto
+
+Links:
+website: https://axieinfinity.com/
+twitter: https://twitter.com/axieinfinity
+facebook: https://www.facebook.com/AxieInfinity
+discord: https://discord.gg/axie

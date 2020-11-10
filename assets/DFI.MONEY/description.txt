@@ -1,0 +1,17 @@
+Name:
+DFI.MONEY
+
+Symbol:
+YFII
+
+Description:
+DFI.MONEY, also known as YFII, is a fork of popular decentralized finance (DeFi) aggregator platform yearn.finance (YFI). Launched in July 2020, it aims to optimize returns for DeFi investors while adhering to changes proposed in an upgrade plan called YIP-8. In addition to protocol changes, DFI.MONEY has also released new products, chief among which, the Vault, it describes as its “killer product.” The native token of DFI.MONEY is YFII, a fixed-supply token which liquidity providers earn in accordance with their network interaction.
+
+Tags:
+Crypto
+
+Links:
+website: https://dfi.money/#/
+twitter: https://twitter.com/DfiMoney
+discord: https://discord.gg/XQ4wnmz
+github: https://github.com/yfii
