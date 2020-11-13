@@ -1,0 +1,16 @@
+Name:
+EasyFi
+
+Symbol:
+EASY
+
+Description:
+EasyFi describes itself as a universal layer 2 lending protocol built for DeFi focused on scalability, composability, and adoption. It has been designed as an open network infrastructure to run on public networks to facilitate an end to end lending & borrowing of digital assets and related financial products. The EasyFi network is blockchain agnostic, allowing cross-chain asset settlements. EasyFi uses a Proof-of-Stake consensus mechanism. The network design is ethereum compatible and blockchain agnostic that facilitates the expeditious settlement of assets over different blockchain networks while retaining custody with the asset owner’s network. The cross-chain framework allows lending & borrowing across a host of markets such as private platforms and permissionless public networks. The network is secured by proof of stake mechanism, governed through participating voters to achieve consensus among network participants.
+
+Tags:
+Crypto
+
+Links:
+website: https://easyfi.network/
+twitter: https://twitter.com/EasyfiNetwork?s=08
+telegram: https://t.me/easyfiNetwork

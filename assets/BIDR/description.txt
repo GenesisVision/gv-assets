@@ -1,0 +1,19 @@
+Name: 
+BIDR
+
+Symbol:
+BIDR
+
+Description:
+BinanceIDR, is a stable digital currency anchored to the rupiah (IDR) supported by Binance and Tokocrypto, a regulated digital currency exchange in Indonesia. Issued in proportion to 1BIDR=1IDR.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.tokocrypto.com/en/
+twitter: https://twitter.com/TokoCrypto
+facebook: https://www.facebook.com/TCDXOfficial/
+instagram: https://www.instagram.com/tokocrypto/?hl=en
+telegram: https://t.me/TokocryptoOfficial
+linkedin: https://www.linkedin.com/company/tokocrypto/

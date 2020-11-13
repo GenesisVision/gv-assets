@@ -1,0 +1,19 @@
+Name:
+Hive
+
+Symbol:
+HIVE
+
+Description:
+Hive is a Graphene-based social blockchain (and community hard-fork of STEEM) that launched on 03/20/2020 with the core idea of decentralization. Hive's prime selling points are its true decentralization, speed, and scalability. Other notable features include it having the lowest entry-barrier for user adoption in the market, time delay security, integrated token allocation, and the upcoming Smart Media Token integration. It is an ideal building location for a variety of innovative projects focused on a broad range of fields, from open source development to social games. Hive aims to be the preferred blockchain for dApp development.
+
+Tags:
+Crypto
+
+Links:
+website: https://hive.io/
+twitter: https://twitter.com/hiveblocks
+facebook: https://www.facebook.com/hiveblocks/
+telegram: https://t.me/hiveblockchain
+reddit: https://reddit.com/r/hivenetwork
+youtube: https://www.youtube.com/channel/UCwM89V7NzVIHizgWT3GxhwA

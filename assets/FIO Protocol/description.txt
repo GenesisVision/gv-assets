@@ -1,0 +1,19 @@
+Name:
+FIO Protocol
+
+Symbol:
+FIO
+
+Description:
+FIO Protocol (FIO) is a blockchain protocol that aims to enable a better way of sending/receiving coins and tokens. The FIO token is the native utility token of the project's blockchain infrastructure, FIO Chain, and is used for transaction gas fees and on-chain governance. The FIO Chain uses a Delegated Proof-of-Stake (DPoS) to achieve network consensus. Block Producers are elected by FIO token holders via on-chain voting. Anyone can register to become a BP and produce blocks if they receive enough votes.
+
+Tags:
+Crypto
+
+Links:
+website: https://fioprotocol.io/
+twitter: https://twitter.com/joinFIO
+facebook: https://www.facebook.com/officialFIO
+telegram: https://t.me/joinFIO
+reddit: https://www.reddit.com/r/officialFIO
+linkedin: https://www.linkedin.com/company/officialfio/

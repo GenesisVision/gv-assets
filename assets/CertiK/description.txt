@@ -1,0 +1,16 @@
+Name:
+CertiK
+
+Symbol:
+CTK
+
+Description:
+CertiK Chain, a security-first, delegated proof-of-stake blockchain, for trustworthy execution of mission-critical applications, including DeFi, NFTs, and autonomous vehicles. CertiK Chain prioritizes cross-chain compatibility, built as a Cosmos Hub with full EVM and Hyperledger Burrow compatibility, as well as compatibility with eWASM and Ant Financial’s AntChain. Across protocols, blockchain projects can receive security insights with the Security Oracle, which provides real-time guards of on-chain transactions, identifying and flagging a wide range of malicious vulnerabilities before they occur. Depending on the level of the security score, audited blockchain projects of any protocol may be eligible for a CertiKShield membership, which is a flexible, decentralized reimbursement system for any crypto asset that is irretrievably lost or stolen due to security issues. CertiKShield memberships are open to all community members of these eligible blockchain projects, providing a safety net to holders of crypto assets in case anything unexpected happens.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.certik.foundation/
+twitter: https://twitter.com/certikorg
+telegram: https://t.me/certikfoundation
