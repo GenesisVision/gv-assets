@@ -1,0 +1,18 @@
+Name:
+Injective Protocol
+
+Symbol:
+INJ
+
+Description:
+Injective Protocol describes itself as the first layer-2 DEX that unlocks the full potential of decentralized derivatives and borderless DeFi. The Injective Chain is implemented as a Cosmos SDK module, built with Ethermint (EVM on Tendermint). It utilizes a Tendermint-based Proof-of-Stake to facilitate cross chain derivatives trading across Cosmos, Ethereum, and many other layer-1 protocols. In addition, the protocol is collision resistant and utilizes Verifiable Delay Functions (VDFs) to prevent front-running.
+
+Tags:
+Crypto
+
+Links:
+website: https://injectiveprotocol.com/
+twitter: https://twitter.com/injectivelabs
+facebook: https://www.facebook.com/injectiveprotocol
+telegram: https://t.me/joininjective
+reddit: https://www.reddit.com/r/injective/

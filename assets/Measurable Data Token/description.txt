@@ -1,0 +1,17 @@
+Name:
+Measurable Data Token
+
+Symbol:
+MDT
+
+Description:
+Measurable Data Token (MDT) aims to provide a blockchain-based data economy, where data providers and data buyers can exchange data securely and anonymously. The MDT ecosystem now features two products with real use cases: MyMDT Data Wallet is a decentralized application based on Ethereum that allows users to get rewards for sharing anonymous data points. The application has been integrated with the following apps: MailTime, Magic Crystal, and Email Messenger.
+
+Tags:
+Crypto
+
+Links:
+website: https://mdt.io/
+twitter: https://twitter.com/MeasurableData
+telegram: https://t.me/measurabledata
+reddit: https://www.reddit.com/r/MeasurableDataToken/

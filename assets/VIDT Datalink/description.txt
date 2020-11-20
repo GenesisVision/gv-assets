@@ -1,0 +1,17 @@
+Name:
+VIDT Datalink
+
+Symbol:
+VIDT
+
+Description:
+VIDT Datalink is a blockchain-powered data validation platform. VIDT Datalink enables organizations to protect their digital data against fraud and manipulation. A simple but strong formula, that adds and protects value at minimum expense and effort. Organizations like Nyenrode, AmSpec and IBM use VIDT Datalink to certify and secure digital documents like certificates, invoices, diplomas and sensor-data.
+
+Tags:
+Crypto
+
+Links:
+website: https://about.v-id.org/
+instagram: https://www.instagram.com/vidtofficial/
+linkedin: https://www.linkedin.com/company/v-id/
+youtube: https://www.youtube.com/channel/UCh6xfbjMUeYFUO-2O_wRSBA/videos
