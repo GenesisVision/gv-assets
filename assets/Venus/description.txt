@@ -1,0 +1,16 @@
+Name:
+Venus
+
+Symbol:
+XVS
+
+Description:
+Venus is an algorithmic money market and synthetic stablecoin protocol launched exclusively on Binance Smart Chain (BSC). The protocol introduces a simple-to-use crypto asset lending and borrowing solution to the decentralized finance (DeFi) ecosystem, enabling users to directly borrow against collateral at high speed while losing less to transaction fees. In addition, Venus allows users to mint VAI stablecoins on-demand within seconds by posting at least 200% collateral to the Venus smart contract.
+
+Tags:
+Crypto
+
+Links:
+website: https://venus.io/
+twitter: https://twitter.com/VenusProtocol
+telegram: https://t.me/VenusProtocol
