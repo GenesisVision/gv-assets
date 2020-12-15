@@ -2,15 +2,15 @@ Name:
 Bitcoin Cash ABC
 
 Symbol:
-BCH
+BCHA
 
 Description:
-Bitcoin Cash (BCH also known as BCHABC) is a hard-fork of Bitcoin after consensus was not reached on the question of increasing the blocksize of the original Bitcoin. It envisages an economic system whereby two parties can exchange value trustlessly and instantly, free from interference and mediation from third parties. The move to a larger block size was to enable a greater number of transactions to be written to the blockchain without altering other fundamental parameters of the original Bitcoin. 
+Bitcoin Cash ABC is a blockchain and cryptocurrency created on Nov. 15, 2020, as a result of a hard fork in the Bitcoin Cash (BCH) blockchain that split the original chain into two new chains, provisionally called "Bitcoin Cash ABC" and "Bitcoin Cash Node." The latter retained the existing Bitcoin Cash name and ticker, while at the time of the fork, Bitcoin Cash ABC had not yet announced new branding. Bitcoin Cash ABC is based on the Bitcoin Cash protocol, which is itself a fork of the original Bitcoin (BTC) protocol. It is focused on providing a fast, highly scalable, global cryptocurrency in a manner that is sustainable in the long term.
 
 Tags:
 Crypto
 
 Links:
-website: https://www.bitcoinabc.org/
+website: https://www.bitcoinabc.org
 twitter: https://twitter.com/bitcoin_abc
-facebook: https://www.facebook.com/bitcoinabc.org/
+facebook: https://www.facebook.com/bitcoinabc.org

@@ -1,0 +1,16 @@
+Name:
+Bitcoin Cash
+
+Symbol:
+BCH
+
+Description:
+Bitcoin Cash is a peer-to-peer electronic cash system that aims to become sound global money with fast payments, micro fees, privacy, and high transaction capacity (big blocks). In the same way that physical money, such as a dollar bill, is handed directly to the person being paid, Bitcoin Cash payments are sent directly from one person to another. As a permissionless, decentralized cryptocurrency, Bitcoin Cash requires no trusted third parties and no central bank. Unlike traditional fiat money, Bitcoin Cash does not depend on monetary middlemen such as banks and payment processors. Transactions cannot be censored by governments or other centralized corporations. Similarly, funds cannot be seized or frozen — because financial third parties have no control over the Bitcoin Cash network. 
+
+Tags:
+Crypto
+
+Links:
+website: https://bch.info
+reddit: https://www.reddit.com/r/btc
+telegram: https://t.me/bitcoincashnode
