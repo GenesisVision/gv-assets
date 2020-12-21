@@ -1,0 +1,17 @@
+Name:
+The Graph
+
+Symbol:
+GRT
+
+Description:
+The Graph is an indexing protocol for querying data for networks like Ethereum and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem. Anyone can build and publish open APIs, called subgraphs, that applications can query using GraphQL to retrieve blockchain data. There is a hosted service in production that makes it easy for developers to get started building on The Graph and the decentralized network will be launching later this year. The Graph currently supports indexing data from Ethereum, IPFS and POA, with more networks coming soon.
+
+Tags:
+Crypto
+
+Links:
+website: https://thegraph.com/blog/
+twitter: https://twitter.com/graphprotocol
+reddit: https://www.reddit.com/r/thegraph/
+telegram: https://t.me/graphprotocol

@@ -1,0 +1,16 @@
+Name:
+HARD Protocol
+
+Symbol:
+HARD
+
+Description:
+HARD Protocol is a decentralized money market built on Kava, enabling the lending and borrowing of cross-chain assets. HARD Protocol supports supply-side deposits for BTC, XRP, BNB, BUSD, and USDX. The platform will allow overcollateralized borrowing for supported assets. All HARD tokens distributed as rewards are locked by a smart contract. Users that claim HARD tokens with longer vesting schedules will receive more tokens. The exact options for token redemptions are subject to governance voting. The HARD token is the native governance token of the platform and has the following use cases: - Liquidity mining rewards: the HARD token is rewarded to users who deposit and/or borrow supported assets. - Governance voting: HARD token holders can participate in platform governance voting and earn HARD rewards.
+
+Tags:
+Crypto
+
+Links:
+website: https://hard.kava.io/
+twitter: https://twitter.com/hard_protocol
+telegram: https://t.me/hard_protocol
