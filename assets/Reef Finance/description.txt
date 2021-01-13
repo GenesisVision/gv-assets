@@ -1,0 +1,17 @@
+Name:
+Reef Finance
+
+Symbol:
+REEF
+
+Description:
+Reef is a DeFi platform built on Polkadot that aims to deliver cross-chain trading. A yield engine and a smart liquidity aggregator are among the project’s offerings. Work began on the project in the second half of 2020. Those behind Reef argue that the process of trading, lending and staking crypto is currently fragmented — creating “a painful experience for all of its participants.” Reef aggregates liquidity and provides automation. It also aims to address the drawbacks associated with existing trading platforms. While centralized exchanges are prone to security breaches, decentralized rivals can lack liquidity and are often difficult to use.
+
+Tags:
+Crypto
+
+Links:
+website: https://reef.finance/
+twitter: https://twitter.com/ReefDeFi
+telegram: https://t.me/reefdefi
+reddit: https://www.reddit.com/r/ReefDeFi/
