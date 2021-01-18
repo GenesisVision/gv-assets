@@ -1,0 +1,14 @@
+Name:
+Keep3rV1
+
+Symbol:
+KP3R
+
+Description:
+Keep3rV1 is a decentralized platform designed to facilitate the coordination between projects that need to source outside development operations and those who can provide those required services. Essentially, the project serves as a job board that facilitates the interaction between job posters, such as decentralized finance protocols, and job executors, known as Keepers. The tasks performed by Keepers range from submitting and calling transactions on-chain to completing complex operations off-chain. Keep3rV1 uses an ERC-20 token, KP3R, for governance and to provide rewards to Keepers. The project was first announced on Oct. 22, 2020. It launched on the Ethereum mainnet in beta mode on Oct. 28, 2020.
+
+Tags:
+Crypto
+
+Links:
+website: https://keep3r.network/

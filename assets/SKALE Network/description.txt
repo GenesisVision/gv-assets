@@ -1,0 +1,17 @@
+Name:
+SKALE Network
+
+Symbol:
+SKL
+
+Description: 
+SKALE is an open source elastic blockchain network that gives developers the ability to easily provision highly configurable fully decentralized chains. It serves as a security and execution layer that connects with Ethereum and is deeply integrated into the Ethereum Network. The network grows linearly to support thousands of independent blockchains (elastic sidechains) file storage chains, and other types of sub chains – all tied to the Ethereum public mainnet and fully compatible with the entire Ethereum ecosystem. SKALE uses the $SKL token, a hybrid use token which represents the right to work in the network as a validator, stake as a delegator, or access a share of its resources. SKALE chains can execute sub-second block times, run over 2,000 tps on every chain, and run full-state smart contracts in addition to decentralized storage, and machine learning in EVM.
+
+Tags:
+Crypto
+
+Links:
+website: https://skale.network
+twitter: https://twitter.com/SkaleNetwork
+telegram: https://t.me/skaleofficial
+

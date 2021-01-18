@@ -1,0 +1,17 @@
+Name:
+Bitcoin Standard Hashrate Token
+
+Symbol:
+BTCST
+
+Description: 
+Bitcoin Standard Hashrate Token aims to bring exchange-grade liquidity to Bitcoin mining and solve the current problem of a limited number of exit options while participating in the mining process. Each BTCST is collateralized by 0.1 terahash per second of Bitcoin mining power. Users are able to stake their BTCSTs and by doing so they can receive daily Bitcoin distributions corresponding to the amount of mining power staked. No upper limit and no KYC required.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.1-b.tc
+twitter: https://twitter.com/btcst2020
+telegram: https://t.me/BTCST_Community_EN
+reddit: https://www.reddit.com/user/BTCStandardHashrate
