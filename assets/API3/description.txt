@@ -1,0 +1,20 @@
+Name:
+API3
+
+Symbol:
+API3
+
+Description:
+API3 is a DAO-governed project for the creation of dAPIs — fully decentralized and blockchain-native APIs — which will be set up, managed, insured, and monetized at scale by the API3 DAO. With dAPIs, API3 aims for the concept of an API to take the next evolutionary step to meet the inevitably strict decentralization requirements of Web 3.0 without employing third-party intermediaries.
+
+Tags:
+Crypto
+
+Links:
+website: https://api3.org/
+twitter: https://twitter.com/API3DAO
+reddit: https://www.reddit.com/r/API3/
+telegram: https://t.me/API3DAO
+
+
+
