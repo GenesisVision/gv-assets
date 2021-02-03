@@ -1,0 +1,18 @@
+Name:
+Flamingo Finance
+
+Symbol:
+FLM
+
+Description:
+Flamingo is a decentralized finance (DeFi) platform based on the Neo blockchain and the Poly Network interoperability protocol. It combines several DeFi applications into a single ecosystem: a cross-blockchain asset gateway (wrapper), an on-blockchain liquidity pool (swap), a blockchain asset vault, a perpetual contract trading platform (perp) and a decentralized governance organization (DAO).
+
+Tags:
+Crypto
+
+Links:
+website: https://flamingo.finance/
+twitter: https://twitter.com/FlamingoFinance
+
+
+

@@ -1,0 +1,19 @@
+Name:
+Phala Network
+
+Symbol:
+PHA
+
+Description:
+Phala Network is a privacy-preserving protocol for data-protection and blockchain smart contracts. Phala.Network guarantees the reliable execution of smart contracts while keeping the data secret. Confidential contracts run in miner nodes with Trusted Computing capable hardware, which guarantees the secrecy of the contract data.
+
+Tags:
+Crypto
+
+Links:
+website: https://phala.network/
+twitter: https://twitter.com/PhalaNetwork
+telegram: https://t.me/phalanetwork
+
+
+
