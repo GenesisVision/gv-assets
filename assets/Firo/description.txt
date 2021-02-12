@@ -1,0 +1,18 @@
+Name:
+Firo
+
+Symbol:
+FIRO
+
+Description:
+Firo formerly known as Zcoin, is a privacy focused cryptocurrency that utilizes zero-knowledge proofs which allows users to destroy coins and then redeem them later for brand new ones with no transaction history. Its research created the Lelantus privacy protocol which supports high anonymity sets without requiring trusted setup and relying only on standard cryptographic assumptions. Firo also utilises Dandelion++ to obscure the originating IP of transactions without relying on any external services such as Tor/i2P.
+
+Tags:
+Crypto
+
+Links:
+website: https://firo.org/
+twitter: https://twitter.com/firoorg
+telegram: https://t.me/firoproject
+reddit: https://www.reddit.com/r/FiroProject/
+

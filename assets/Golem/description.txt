@@ -2,16 +2,17 @@ Name:
 Golem
 
 Symbol:
-GNT
+GLM
 
 Description:
-Golem is a global, open source, decentralized supercomputer that anyone can access. Golem is capable of computing a wide variety of tasks, from CGI rendering, through machine learning to scientific computing. Golem enables users and applications (requestors) to rent out cycles of other users’ (providers) machines. Any user ranging from a single PC owner to a large data center can share resources through Golem and get paid in GNT (Golem Network Tokens) by requestors.
+The Golem Network is a decentralized computation network, a new way of distributing redundant computing power to those who are in need of it, on-demand. It creates a peer-to-peer network where users join on an equal basis to buy and sell computation, splitting up complicated tasks into smaller subtasks in the network. In Golem there’s no central authority and no user is more or less important than another.
 
 Tags:
 Crypto
 
 Links:
 website: https://golem.network/
-twitter: https://twitter.com/golemproject
 facebook: https://www.facebook.com/golemproject/
+twitter: https://twitter.com/golemproject
 reddit: https://www.reddit.com/r/GolemProject/
+

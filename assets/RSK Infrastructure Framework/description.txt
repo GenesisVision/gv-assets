@@ -1,0 +1,18 @@
+Name:
+RSK Infrastructure Framework
+
+Symbol:
+RIF
+
+Description:
+RIF (Rootstock Infrastructure Framework) is a third layer on top of Bitcoin that provides a wide range of solutions based on blockchain technology such as payments, storage, and domaining (RNS). It is a tech-stack where the $RIF token is required to use these services. RIF aims to create collaborative marketplaces where individuals interact on a peer-to-peer basis coordinated by immutable smart contracts in order to exchange information, value, and services with full control and transparency.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.rifos.org/
+twitter: https://twitter.com/rif_os
+telegram: https://t.me/rif_os_community
+reddit: https://www.reddit.com/r/rootstock/
+
