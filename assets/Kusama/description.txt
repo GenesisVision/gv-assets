@@ -1,0 +1,17 @@
+Name:
+Kusama
+
+Symbol:
+KSM
+
+Description:
+Kusama is meant to be Polkadot’s canary network which is an early, unaudited and unrefined release of Polkadot. Kusama will serve as a proving ground, allowing teams and developers to build and deploy a parachain or try out Polkadot’s governance, staking, nomination and validation functionality in a real environment.
+
+Tags:
+Crypto
+
+Links:
+website: https://kusama.network
+twitter: https://twitter.com/kusamanetwork
+reddit: https://twitter.com/kusamanetwork
+
