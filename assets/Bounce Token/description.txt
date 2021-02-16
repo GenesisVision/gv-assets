@@ -1,0 +1,16 @@
+Name:
+Bounce Token
+
+Symbol:
+BOT
+
+Description:
+Decentralized Auction Protocol. Bounce provides a competitive swap environment to unlock the potential of open finance. The top exchanges for trading in Bounce Token are currently Binance, Huobi Global, OKEx, BKEX, and Hoo
+
+Tags:
+Crypto
+
+Links:
+website: https://bounce.finance/
+twitter: https://twitter.com/bounce_finance
+telegram: https://t.me/bounce_finance
