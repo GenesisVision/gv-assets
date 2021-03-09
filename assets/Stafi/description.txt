@@ -1,0 +1,17 @@
+Name:
+Stafi
+
+Symbol:
+FIS
+
+Description:
+Stafi (short for Staking Finance) is a DeFi protocol that aims to unlock liquidity of staked assets. STAFI Protocol solves the contradiction between the token liquidity and Mainnet security by issuing ABT tokens, which provides the liquidity of your Staking Assets. ABT token increases the staking rate to a higher level (100%, theoretically), and it could be tradable, its security is guided by STAFI Protocol which ensure ABT token is the only collateral that can apply to redeem staking asstes from original staking blockchain ( Tezos, Cosmos, Polkadot, etc ,.)
+
+Tags:
+Crypto
+
+Links:
+website: https://www.stafi.io/
+twitter: https://twitter.com/Stafi_Protocol
+telegram: https://t.me/stafi_protocol
+
