@@ -1,0 +1,17 @@
+Name:
+Linear
+
+Symbol:
+LINA
+
+Description:
+Linear is a decentralized delta-one asset protocol capable of instantly creating synthetic assets with unlimited liquidity. The project opens traditional assets like commodities, forex, market indices and other thematic sectors to cryptocurrency users by supporting the creation of “Liquids” — Linear’s synthetic asset tokens. The protocol consists of various products like Linear.Buildr, a DApp used to manage Liquids using Linear (LINA) and other tokens as collateral. The exchange is specifically created to enable trading of a variety of Liquids with rapid confirmation times and robust security.
+
+Tags:
+Crypto
+
+Links:
+website: https://linear.finance
+twitter: https://twitter.com/LinearFinance
+telegram: https://t.me/linearfinanceofficial
+
