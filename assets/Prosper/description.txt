@@ -1,0 +1,16 @@
+Name:
+Prosper
+
+Symbol:
+PROS
+
+Description:
+Prosper is a cross-chain prediction market and hedging platform that is pioneering the technology of on-chain liquidity aggregation. Prosper uses Chainlink oracle to provide the most accurate price feeds. Platform features include: Prediction insurance, Binary liquidity model; On-chain liquidity aggregation and crosschain support; Fiat support; Custom pools; DAO governance; Prediction mining; and more.
+
+Tags:
+Crypto
+
+Links:
+website: https://prosper.so
+twitter: https://twitter.com/Prosperpredict
+telegram: https://t.me/prosperfi
