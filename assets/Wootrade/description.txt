@@ -1,0 +1,17 @@
+Name:
+Wootrade
+
+Symbol:
+WOO
+
+Description: 
+Wootrade is a layer one trading infrastructure complete with deep liquidity, frontend trading GUI, and the ability to integrate into any exchange, trading desk, wallet, dApp, or other trading-related platform. Wootrade is able to leverage rebates from high volume institutional traders and market makers, giving the retail traders and B2B clients high-depth, zero-fee trading.
+
+Tags:
+Crypto
+
+Links:
+website: https://woo.network
+twitter: https://twitter.com/wootraderS
+facebook: https://www.facebook.com/Wootrade
+telegram: https://t.me/wootrade

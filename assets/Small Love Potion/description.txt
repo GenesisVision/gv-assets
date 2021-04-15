@@ -1,0 +1,16 @@
+Name:
+Small Love Potion
+
+Symbol:
+SLP
+
+Description: 
+Small Love Potion (SLP) tokens are earned by playing the Axie Infinity game. This digital asset serves a replacement for experience points. SLP are ERC-20 tokens, and they can be used to breed new digital pets that are known as Axies. The cost of breeding begins at 100 SLP but increases gradually — rising to 200 SLP for the second breed, 300 for the third, 500 for the fourth, 800 for the fifth and 1,300 for the sixth. Axies can be bred a maximum of seven times, and the seventh breed costs 2,100 SLP. This limit exists in order to prevent hyperinflation in the marketplace. It can take time to accrue SLP through the game, and a player may need to win 15 competitions in order to gain enough tokens to perform their first breed. Purchasing SLP on the open market is a way for gamers to get a headstart.
+
+Tags:
+Crypto
+
+Links:
+website: https://axieinfinity.com
+twitter: https://twitter.com/AxieInfinity
+reddit: https://www.reddit.com/r/AxieInfinity/

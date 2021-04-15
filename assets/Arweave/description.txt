@@ -1,0 +1,17 @@
+Name:
+Arweave
+
+Symbol:
+AR
+
+Description: 
+Arweave is a decentralized storage network that seeks to offer a platform for the indefinite storage of data. Describing itself as "a collectively owned hard drive that never forgets," the network primarily hosts "the permaweb" — a permanent, decentralized web with a number of community-driven applications and platforms. The Arweave network uses a native cryptocurrency, AR, to pay "miners" to indefinitely store the network's information. The project was first announced as Archain in August 2017, later rebranding to Arweave in February 2018 and officially launching in June 2018.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.arweave.org
+twitter: https://twitter.com/arweaveteam
+telegram: https://twitter.com/arweaveteam
+facebook: https://www.facebook.com/ArweaveTeam/
