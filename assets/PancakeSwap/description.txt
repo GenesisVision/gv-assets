@@ -1,0 +1,17 @@
+Name:
+PancakeSwap
+
+Symbol:
+CAKE
+
+Description:
+PancakeSwap is an automated market maker (AMM) — a decentralized finance (DeFi) application that allows users to exchange tokens, providing liquidity via farming and earning fees in return. It launched in September 2020 and is a decentralized exchange for swapping BEP20 tokens on Binance Smart Chain. PancakeSwap uses an automated market maker model where users trade against a liquidity pool. These pools are filled by users who deposit their funds into the pool and receive liquidity provider (LP) tokens in return.
+
+Tags:
+Crypto
+
+Links:
+website: https://pancakeswap.finance
+twitter: https://twitter.com/PancakeSwap
+telegram: https://t.me/pancakeswap
+

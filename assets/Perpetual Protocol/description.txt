@@ -1,0 +1,17 @@
+Name:
+Perpetual Protocol
+
+Symbol:
+PERP
+
+Description:
+Perpetual Protocol was launched in late 2019, originally under the name of Strike Protocol. Perpetual Protocol builds on an Uniswap-inspired automated market maker (AMM) design (constant product curve). Perpetual Protocol’s liquidity pool (k) is virtualized and determined algorithmically. Rather than rely on liquidity providers to determine the curve of a given market, Perpetual Protocol can programmatically set and update the parameters of the virtual AMM (x*y=k) and offer a competitive product for any given market at all times.The team claims that PERP is the first virtual AMM (vAMM), which enables markets with no makers while still guaranteeing on-chain liquidity. These maker-less markets lowers the capital demands traditional markets require and pave the way for new and emerging futures. 
+
+Tags:
+Crypto
+
+Links:
+website: https://www.perp.fi
+twitter: https://twitter.com/perpprotocol
+telegram: https://t.me/perpetualprotocol
+

@@ -1,0 +1,18 @@
+Name:
+Standard Tokenization Protocol
+
+Symbol:
+STPT
+
+Description:
+The STP (Standard Tokenization Protocol) Network aims to build a decentralized network designed to facilitate the discovery and usage of digital assets across global communities. The STP Standard defines how ownership of tokenized assets are generated, issued, sent, and received while complying with the necessary regulations. The STPT token is currently used on several platforms including Blockzone.com where it allows users to participate in events like airdrops, bounties, Micro Token Offerings, and virtual staking. Additionally, STPT is used as a payment currency for services within the ecosystem which comprises projects, service providers, issuers, and investors. 
+
+Tags:
+Crypto
+
+Links:
+website: https://stp.network
+twitter: https://twitter.com/STP_Networks
+telegram: https://t.me/STPofficial
+
+

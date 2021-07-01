@@ -1,0 +1,18 @@
+Name:
+Celo
+
+Symbol:
+CELO
+
+Description:
+Celo is a blockchain ecosystem focused on increasing cryptocurrency adoption among smartphone users. By using phone numbers as public keys, Celo hopes to introduce the world’s billions of smartphone owners, including those without banking access, to transacting in cryptocurrency. 
+
+Tags:
+Crypto
+
+Links:
+website: https://celo.org
+twitter: https://twitter.com/CeloOrg
+telegram: https://t.me/celoplatform
+reddit: https://celo.org
+
