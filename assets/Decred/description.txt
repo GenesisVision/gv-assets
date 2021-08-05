@@ -14,3 +14,6 @@ Links:
 website: https://www.decred.org/
 twitter: https://twitter.com/decredproject
 reddit: https://www.reddit.com/r/decred/
+
+LastModified:
+05.08.2021 00:00:00

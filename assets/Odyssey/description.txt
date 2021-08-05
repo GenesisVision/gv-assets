@@ -15,3 +15,6 @@ website: http://www.ocnex.net/
 twitter: https://twitter.com/OdysseyOCN
 telegram: https://t.me/OdysseyOfficial
 reddit: https://www.reddit.com/r/OdysseyOCNOfficial/
+
+LastModified:
+05.08.2021 00:00:00

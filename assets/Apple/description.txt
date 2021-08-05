@@ -12,3 +12,6 @@ Stocks
 
 Links:
 website: https://www.apple.com/
+
+LastModified:
+05.08.2021 00:00:00

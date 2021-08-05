@@ -15,3 +15,6 @@ website: https://www.bittorrent.com/token/btt/
 twitter: https://twitter.com/BitTorrent
 facebook: https://www.facebook.com/bittorrent
 telegram: https://t.me/BitTorrentToken
+
+LastModified:
+05.08.2021 00:00:00

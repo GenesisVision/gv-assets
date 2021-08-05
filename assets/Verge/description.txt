@@ -16,3 +16,6 @@ twitter: https://twitter.com/vergecurrency
 facebook: https://www.facebook.com/VERGEcurrency/
 telegram: https://t.me/VERGExvg
 reddit: https://www.reddit.com/r/vergecurrency/
+
+LastModified:
+05.08.2021 00:00:00

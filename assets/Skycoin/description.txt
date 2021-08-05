@@ -15,3 +15,6 @@ website: https://www.skycoin.com/
 twitter: https://twitter.com/skycoinproject
 facebook: https://www.facebook.com/SkycoinOfficial/
 telegram: https://t.me/Skycoin
+
+LastModified:
+05.08.2021 00:00:00

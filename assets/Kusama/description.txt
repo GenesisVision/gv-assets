@@ -15,3 +15,6 @@ website: https://kusama.network
 twitter: https://twitter.com/kusamanetwork
 reddit: https://twitter.com/kusamanetwork
 
+
+LastModified:
+05.08.2021 00:00:00

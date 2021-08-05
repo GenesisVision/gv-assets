@@ -16,3 +16,6 @@ twitter: https://twitter.com/vechainofficial?lang=en
 facebook: https://www.facebook.com/groups/107663726575121/about/
 telegram: https://t.me/vechain_official_english
 reddit: https://www.reddit.com/r/Vechain/
+
+LastModified:
+05.08.2021 00:00:00

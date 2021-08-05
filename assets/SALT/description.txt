@@ -15,3 +15,6 @@ website: https://www.saltlending.com/
 twitter: https://twitter.com/SALTlending
 facebook: https://www.facebook.com/SALTLENDING/
 telegram: https://t.me/SALTlendingannouncements
+
+LastModified:
+05.08.2021 00:00:00

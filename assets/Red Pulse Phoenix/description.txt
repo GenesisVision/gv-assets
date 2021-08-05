@@ -15,3 +15,6 @@ website: https://www.redpulse.com/
 twitter: https://twitter.com/red_pulse_china
 telegram: https://t.me/redpulse
 reddit: https://www.reddit.com/r/RedPulseToken/
+
+LastModified:
+05.08.2021 00:00:00

@@ -16,3 +16,6 @@ twitter: https://twitter.com/KomodoPlatform
 facebook: https://www.facebook.com/KomodoPlatform
 telegram: https://telegram.me/KomodoPlatform_Official
 reddit: https://www.reddit.com/r/komodoplatform/
+
+LastModified:
+05.08.2021 00:00:00

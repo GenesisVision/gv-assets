@@ -18,3 +18,6 @@ wechat: https://near.org/wechat
 youtube: https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw
 discord: http://near.chat/
 github: https://github.com/near
+
+LastModified:
+05.08.2021 00:00:00

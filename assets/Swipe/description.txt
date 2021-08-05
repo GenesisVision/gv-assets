@@ -16,3 +16,6 @@ twitter: https://twitter.com/SwipeWallet
 facebook: https://www.facebook.com/Swipe
 telegram: https://t.me/SwipeWallet
 reddit: https://www.reddit.com/r/Swipe_io
+
+LastModified:
+05.08.2021 00:00:00

@@ -16,3 +16,6 @@ twitter: https://twitter.com/singularity_net
 facebook: https://www.facebook.com/singularityNET.io
 telegram: https://t.me/singularitynet
 
+
+LastModified:
+05.08.2021 00:00:00

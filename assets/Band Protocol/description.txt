@@ -13,3 +13,6 @@ Crypto
 Links:
 website: https://bandprotocol.com/
 telegram: https://t.me/joinchat/E48nA06UIBFmNsE9OaDusQ
+
+LastModified:
+05.08.2021 00:00:00

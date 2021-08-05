@@ -16,3 +16,6 @@ twitter: https://twitter.com/stratisplatform
 facebook: https://www.facebook.com/stratisplatform/
 telegram: https://t.me/StratisPlatform
 reddit: https://www.reddit.com/r/stratisplatform/
+
+LastModified:
+05.08.2021 00:00:00

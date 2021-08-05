@@ -15,3 +15,6 @@ twitter: https://twitter.com/VSYSCoin
 facebook: https://www.facebook.com/vsystemsofficial/
 telegram: https://t.me/VSYSOfficialGroup
 reddit: https://www.reddit.com/r/V_SYSTEMS/
+
+LastModified:
+05.08.2021 00:00:00

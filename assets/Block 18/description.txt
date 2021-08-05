@@ -13,3 +13,6 @@ Crypto
 Links:
 website: https://static.block18.io/
 telegram: https://teleg.run/Blockchain_18
+
+LastModified:
+05.08.2021 00:00:00

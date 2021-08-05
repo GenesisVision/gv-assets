@@ -15,3 +15,6 @@ website: https://www.aeternity.com/
 twitter: https://twitter.com/aeternity
 facebook: https://www.facebook.com/aeternityproject/
 telegram: https://telegram.me/aeternity
+
+LastModified:
+05.08.2021 00:00:00

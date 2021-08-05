@@ -16,3 +16,6 @@ twitter: https://twitter.com/decentraland
 facebook: https://www.facebook.com/decentraland/
 telegram: https://t.me/dcl_market
 reddit: https://www.reddit.com/r/decentraland/
+
+LastModified:
+05.08.2021 00:00:00

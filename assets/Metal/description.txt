@@ -16,3 +16,6 @@ twitter: https://twitter.com/metalpaysme
 facebook: https://www.facebook.com/metalpaysme
 telegram: https://t.me/metalpaysme
 reddit: https://www.reddit.com/r/MetalPay/
+
+LastModified:
+05.08.2021 00:00:00

@@ -16,3 +16,6 @@ twitter: https://twitter.com/eidoo_io
 facebook: https://www.facebook.com/eidoocrypto/
 telegram: https://t.me/eidoocryptoworld
 reddit: https://www.reddit.com/r/eidooapp/
+
+LastModified:
+05.08.2021 00:00:00

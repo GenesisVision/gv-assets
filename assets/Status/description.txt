@@ -15,3 +15,6 @@ website: https://status.im/
 twitter: https://twitter.com/ethstatus
 facebook: https://www.facebook.com/ethstatus
 reddit: https://www.reddit.com/r/statusim/
+
+LastModified:
+05.08.2021 00:00:00

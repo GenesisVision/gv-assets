@@ -16,3 +16,6 @@ twitter: https://twitter.com/cardano
 facebook: https://www.facebook.com/groups/CardanoCommunity
 telegram: https://t.me/CardanoAnnouncements
 reddit: https://www.reddit.com/r/cardano/
+
+LastModified:
+05.08.2021 00:00:00

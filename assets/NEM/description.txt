@@ -16,3 +16,6 @@ twitter: https://twitter.com/nemofficial/
 facebook: https://www.facebook.com/ourNEM/
 telegram: https://t.me/nemred
 reddit: https://www.reddit.com/r/nem/
+
+LastModified:
+05.08.2021 00:00:00

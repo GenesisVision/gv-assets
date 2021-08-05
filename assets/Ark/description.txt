@@ -15,3 +15,6 @@ website: https://ark.io/
 twitter: https://twitter.com/ArkEcosystem
 facebook: https://www.facebook.com/ArkEcosystem/
 reddit: https://www.reddit.com/r/ArkEcosystem/
+
+LastModified:
+05.08.2021 00:00:00

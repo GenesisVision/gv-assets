@@ -15,3 +15,6 @@ website: https://fantom.foundation/
 twitter: https://twitter.com/FantomFDN
 telegram: https://t.me/Fantom_English
 reddit: https://www.reddit.com/r/FantomFoundation/
+
+LastModified:
+05.08.2021 00:00:00

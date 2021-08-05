@@ -16,3 +16,6 @@ twitter: https://twitter.com/alphafinancelab
 github: https://github.com/AlphaFinanceLab
 discord: https://discord.gg/Z2vuKDT
 telegram: https://t.me/AlphaFinanceLab 
+
+LastModified:
+05.08.2021 00:00:00

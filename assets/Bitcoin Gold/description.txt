@@ -16,3 +16,6 @@ twitter: https://twitter.com/bitcoingold
 facebook: https://www.facebook.com/bitcoingoldofficial/
 telegram: https://t.me/BitcoinGoldHQ
 reddit: https://www.reddit.com/r/BitcoinGoldHQ/
+
+LastModified:
+05.08.2021 00:00:00

@@ -15,3 +15,6 @@ website: https://www.1-b.tc
 twitter: https://twitter.com/btcst2020
 telegram: https://t.me/BTCST_Community_EN
 reddit: https://www.reddit.com/user/BTCStandardHashrate
+
+LastModified:
+05.08.2021 00:00:00

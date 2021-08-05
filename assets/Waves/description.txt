@@ -16,3 +16,6 @@ twitter: https://twitter.com/wavesplatform
 facebook: https://www.facebook.com/wavesplatform
 telegram: https://telegram.me/wavesnews
 reddit: https://www.reddit.com/r/Wavesplatform/
+
+LastModified:
+05.08.2021 00:00:00

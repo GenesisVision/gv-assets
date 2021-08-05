@@ -16,3 +16,6 @@ twitter: https://twitter.com/navcoin?lang=en
 facebook: https://www.facebook.com/NavCoin/
 telegram: https://t.me/navcoin
 reddit: https://www.reddit.com/r/NavCoin
+
+LastModified:
+05.08.2021 00:00:00

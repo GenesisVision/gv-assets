@@ -15,3 +15,6 @@ website: https://omisego.co/
 twitter: https://twitter.com/omise_go
 facebook: https://www.facebook.com/OmiseGO/
 reddit: https://www.reddit.com/r/omise_go/
+
+LastModified:
+05.08.2021 00:00:00

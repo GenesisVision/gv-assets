@@ -15,3 +15,6 @@ website: https://tenx.tech/en/
 twitter: https://twitter.com/tenxwallet
 telegram: https://t.me/genesisvision/
 reddit: https://www.reddit.com/r/TenX/
+
+LastModified:
+05.08.2021 00:00:00

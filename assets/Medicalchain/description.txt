@@ -15,3 +15,6 @@ website: https://medicalchain.com/ru/
 twitter: https://twitter.com/medical_chain
 facebook: https://www.facebook.com/medicalchain/
 telegram: https://t.me/medicalchain
+
+LastModified:
+05.08.2021 00:00:00

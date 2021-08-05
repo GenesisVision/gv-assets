@@ -15,3 +15,6 @@ website: https://fetch.ai/
 twitter: https://twitter.com/fetch_ai?lang=en
 telegram: https://t.me/fetch_ai
 reddit: https://www.reddit.com/r/FetchAI_Community/
+
+LastModified:
+05.08.2021 00:00:00

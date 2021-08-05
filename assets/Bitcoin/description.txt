@@ -15,3 +15,6 @@ website: https://bitcoin.org/en/
 twitter: https://bitcoin.org/en/
 facebook: https://bitcoin.org/en/
 reddit: https://www.reddit.com/r/Bitcoin/
+
+LastModified:
+05.08.2021 00:00:00
