@@ -12,8 +12,8 @@ Crypto
 
 Links:
 website: https://cream.finance/
-twitter: hhttps://twitter.com/CreamdotFinance
+twitter: https://twitter.com/CreamdotFinance
 telegram: https://t.me/CreamdotFinance
 
 LastModified:
-05.08.2021 00:00:00
+26.08.2021 00:00:00
