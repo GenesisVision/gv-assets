@@ -1,0 +1,21 @@
+Name:
+Clover Finance
+
+Symbol:
+CLV
+
+Description:
+Clover is a Substrate-based DeFi service platform built on Polkadot. Clover provides an easy-to-use interoperable blockchain infrastructure through its extensive support for Ethereum’s EVM-based applications and a wide range of implemented developer tools. Through its smart core, like Clover Scan and Clover multi-chain extension wallet, Clover will bring the smoothest and most advanced DeFi experience to its users.
+
+Tags:
+Crypto
+
+Links:
+website: https://clover.finance
+twitter: https://twitter.com/clover_finance
+facebook: https://clover.finance
+telegram: https://t.me/clover_en
+
+LastModified:
+26.08.2021 00:00:00
+

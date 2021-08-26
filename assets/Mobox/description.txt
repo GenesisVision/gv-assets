@@ -1,0 +1,24 @@
+Name:
+Mobox
+
+Symbol:
+Mbox
+
+Description:
+MOBOX Protocol combines the best of yield farming DeFi with Gaming NFTs creating a truly free to play and play to earn ecosystem. Utilizing the Binance Smart Chain, MOBOX shows true NFT interoperability by combining cross chain and cross platform functionality for NFTs.
+MBOX is the native utility token that is used for:
+-Processing transactions through the NFT gaming platform.
+-Staking for platform bonuses and incentives.
+-Used for governance votes to determine how resources are allocated.
+
+Tags:
+Crypto
+
+Links:
+website: https://mobox.io/#/
+twitter: https://twitter.com/MOBOX_Official
+reddit: https://www.reddit.com/r/Mobox/
+telegram: https://t.me/mobox_io
+
+LastModified:
+26.08.2021 00:00:00
