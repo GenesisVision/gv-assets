@@ -1,0 +1,18 @@
+Name:
+Pax Dollar
+
+Symbol:
+USDP
+
+Description:
+Founded in September of 2018, Pax Dollar is a flat-collateralized stablecoin. Stablecoins are cryptocurrencies that are designed to minimize the volatility of the price of the stablecoin, relative to a certain stable asset or a basket of assets. A stablecoin can be pegged to a cryptocurrency or flat money. In some cases, it can even be traded for commodities. Pax Dollar offers the advantage of transacting with blockchain assets through minimized price risk. The Pax Dollar tokens (USDP) are issued as ERC-20 tokens on the Ethereum blockchain and are collateralized 1:1 through the USD held in Paxos-owned US bank accounts.
+
+Tags:
+Crypto
+
+Links:
+website: https://paxos.com/usdp/
+
+LastModified:
+13.09.2021 00:00:00
+
