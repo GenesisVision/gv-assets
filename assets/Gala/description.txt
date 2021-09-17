@@ -1,0 +1,22 @@
+Name:
+Gala
+
+Symbol:
+GALA
+
+Description:
+Gala Games aims to take the gaming industry in a different direction by giving players back control over their games. Gala Games mission is to make “blockchain games you’ll actually want to play.” The project wants to change the fact that players can spend hundreds of dollars on in-game assets, and countless hours spent playing the game, which could be taken away from them with the click of a button. It plans to reintroduce creative thinking into games by giving players control of the games and in-game assets with the help of blockchain technology. Players can own non-fungible tokens (NFTs) and influence the governance of games within the Gala Games ecosystem. The Founder’s Nodes voting mechanism allows players to influence what games Gala should develop and what games should get funding. Besides buying NFTs for specific games, Gala Games also utilizes GALA – its own utility token. So far, Gala Games has released one playable game – Town Star and an NFT collectible series – VOX. It plans to release more games in the future, such as a fantasy RPG game, a sci-fi strategy game and a tower defense game.
+
+Tags:
+Crypto
+
+Links:
+website: https://app.gala.games/
+twitter: https://twitter.com/GoGalaGames
+discord: https://discord.com/invite/EHgJJM6SdQ
+youtube: https://www.youtube.com/c/GalaGames
+facebook: https://www.facebook.com/GoGalaGames
+
+LastModified:
+17.09.2021 00:00:00
+

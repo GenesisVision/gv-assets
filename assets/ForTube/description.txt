@@ -1,0 +1,22 @@
+Name:
+ForTube
+
+Symbol:
+FOR
+
+Description:
+ForTube, previously known as the Force Protocol, describes itself as a suite of distributed crypto-finance service protocols that runs on an open-source blockchain. Its main aim is to offer crypto-finance solutions to developers through its software development kit (SDK) and application programming interfaces (APIs) for decentralized application (DApp) development. The platform offers solutions for cross-platform asset transactions, cross-chain communications, crypto-asset-backed stablecoin insurance, token board insurance, and on-chain payments. The Force Protocol project is a decentralized protocol layer that is developed and managed by the Force Protocol Foundation Ltd. ForTube launched its decentralized finance (DeFi) service on the Binance Smart Chain (BSC) in September 2020. ForTube offers many advantages, including flexible support of globally popular cryptocurrencies that provide higher yield combinations and an upgraded algorithm and ledger structure that significantly reduces gas costs. It also has a robust technical framework with more secure smart contracts.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.for.tube/home
+twitter: https://twitter.com/ForTubeFi
+reddit: https://www.reddit.com/r/The_Force_Protocol/
+telegram: https://t.me/ForTubeFi
+medium: https://fortube.medium.com/
+
+LastModified:
+17.09.2021 00:00:00
+

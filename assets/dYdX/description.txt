@@ -1,0 +1,23 @@
+Name:
+dYdX
+
+Symbol:
+DYDX
+
+Description:
+DYDX is a governance token that allows the dYdX community to truly govern the dYdX Layer 2 Protocol. By enabling shared control of the protocol, DYDX allows traders, liquidity providers, and partners of dYdX to work collectively towards an enhanced Protocol. DYDX enables a robust ecosystem around governance, rewards, and staking — each designed to drive future growth and decentralization of dYdX, resulting in a better experience for users.
+
+Tags:
+Crypto
+
+Links:
+website: https://dydx.foundation/
+twitter: https://twitter.com/dydxfoundation
+telegram: https://t.me/dydxofficial
+
+LastModified:
+17.09.2021 00:00:00
+
+
+
+
