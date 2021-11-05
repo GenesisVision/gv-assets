@@ -1,0 +1,20 @@
+Name:
+Phoenix Global
+
+Symbol:
+PHB
+
+Description:
+Phoenix Global focuses on the blockchain enablement of the real economy. The platform aims to employ blockchain technology to unleash the value of real-world assets, such as data, alternative assets, and other intangible asset classes.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.phoenix.global/
+twitter: https://twitter.com/Phoenix_Chain
+telegram: https://t.me/APEXcommunity
+reddit: https://www.reddit.com/r/PhoenixGlobal/
+
+LastModified:
+05.11.2021 00:00:00
