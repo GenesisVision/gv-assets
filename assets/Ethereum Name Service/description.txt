@@ -1,0 +1,20 @@
+Name:
+Ethereum Name Service
+
+Symbol:
+ENS
+
+Description:
+ENS is an open, public, decentralized identity protocol that runs on the Ethereum blockchain. Users can register .ETH names native to ENS or import in DNS domain names they already, which they can use as their cross-platform web3 username and profile, one name for all of their crypto addresses, and as a decentralized website. $ENS is the governance token of the ENS DAO, which manages the treasury and key parameters of the ENS protocol. 
+
+Tags:
+Crypto
+
+Links:
+website: https://ens.domains/
+twitter: https://twitter.com/ensdomains
+medium: https://medium.com/the-ethereum-name-service
+
+LastModified:
+25.11.2021 00:00:00
+

@@ -1,0 +1,19 @@
+Name:
+JasmyCoin
+
+Symbol:
+JSMY
+
+Description:
+JasmyCoin is based on the ERC 20 standard. The token can also be used by an unspecified number of individuals and businesses to transfer tokens using digital devices as proof of value exchange or payment for services. By not limiting its usability, the token can have a wide range of purposes. 
+
+Tags:
+Crypto
+
+Links:
+website: https://jasmy.co.jp/en.html
+twitter: https://twitter.com/JasmyMGT
+telegram: https://t.me/OfficialJasmyUniverse
+
+LastModified:
+25.11.2021 00:00:00

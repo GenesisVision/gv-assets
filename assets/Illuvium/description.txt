@@ -1,0 +1,21 @@
+Name:
+Illuvium
+
+Symbol:
+ILV
+
+Description:
+Illuvium is an open-world fantasy battle game built on the Ethereum blockchain. Often touted as the first AAA game on Ethereum, Illuvium looks to provide a source of entertainment to both casual gamers and hardcore DeFi fans through a range of collecting and trading features.
+The game is a fusion between an open-world exploration game and a PVP battle game. Players can spend their time exploring the expanses of the game world or building up their team of powerful beasts. The ILV token has a number of uses within the Illuvium ecosystem. It’s the main token used to reward players for their in-game achievements, entitles players to their share of the Illuvium Vault and is used for participating in the governance of the game via the Illuvium decentralized autonomous organization (DAO).
+
+Tags:
+Crypto
+
+Links:
+website: https://www.illuvium.io/
+twitter: https://twitter.com/illuviumio
+telegram: https://t.me/illuvium
+
+LastModified:
+25.11.2021 00:00:00
+

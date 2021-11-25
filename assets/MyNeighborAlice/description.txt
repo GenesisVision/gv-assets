@@ -1,0 +1,20 @@
+Name:
+MyNeighborAlice
+
+Symbol:
+ALICE
+
+Description:
+My Neighbor Alice is a multiplayer builder game, where anyone can buy and own virtual islands, collect and build exciting items and meet new friends. Inspired by successful games such as Animal Crossing, the game combines the best of the two worlds - a fun narrative for regular players who want to enjoy the gameplay experience as well as an ecosystem for players who want to collect and trade Non-Fungible Tokens (NFTs). ALICE is My Neighbor Alice’s native utility token and is used in the following functions: In-game Currency: Purchase assets and special skill sets in the game and in Alice's marketplace. Governance: Participate in the governance process through a Decentralized Autonomous Organization (DAO), with proposals and voting structures (e.g. platform operations and development). Voter incentives will be introduced to encourage voter participation. Staking: Stake ALICE tokens to earn a percentage of platform revenues (e.g. plot sales, asset sales, and transaction fees). Player Incentives: By completing quests in the game, players can earn ALICE tokens. This design is to encourage user participation in the game and to maintain traction.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.myneighboralice.com/
+twitter: https://twitter.com/MyNeighborAlice
+telegram: https://t.me/MyNeighborAlice
+
+LastModified:
+25.11.2021 00:00:00
+
