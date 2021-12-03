@@ -1,0 +1,20 @@
+Name:
+Vulcan Forged
+
+Symbol:
+PYR
+
+Description:
+Vulcan Forged is a blockchain game studio and NFT marketplace. They are the makers of VulcanVerse. PYR is the native utility token that is used for: Fees for marketplace settlement, Staking in VulcanVerse land and other assets, Upgrading and sustaining game asset levels, Play-to-earn rewards, Access to our game developers and NFT dapp incubation program, Vulcan Forged Platforms and games.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.vulcanforged.com/
+twitter: https://twitter.com/VulcanForged
+telegram: https://t.me/VeriArti
+
+LastModified:
+03.12.2021 00:00:00
+

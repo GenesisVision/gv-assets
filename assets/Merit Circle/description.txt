@@ -1,0 +1,22 @@
+Name:
+Merit Circle
+
+Symbol:
+MC
+
+Description:
+Merit Circle is a decentralized autonomous organization (DAO) that focuses on developing the play-to-earn (P2E) economy. The project wishes to create a new era of gameplay where users would be able to earn money by playing games that they love, instead of treating them as a simple hobby. The project launched on 4th of November, 2021, but it has been in development since July 2021. Despite its young age, it already has a massive community, with over 64,800 followers on Twitter. Merit Circle currently supports Axie Infinity — the most popular monster-battling play-to-earn game with the highest volume traded. Meanwhile, by playing-to-earn, its scholars are gaining new skills that will soon be in huge demand as employers are slowly but surely expanding into the crypto metaverse.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.meritcircle.io/
+twitter: https://twitter.com/MeritCircle_IO
+telegram: https://t.me/meritcircle
+medium: https://medium.com/@meritcircle
+
+LastModified:
+03.12.2021 00:00:00
+
+

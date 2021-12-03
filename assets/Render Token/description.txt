@@ -1,0 +1,21 @@
+Name:
+Render Token
+
+Symbol:
+RNDR
+
+Description:
+RenderToken (RNDR) is a distributed GPU rendering network built on top of the Ethereum blockchain, aiming to connect artists and studios in need of GPU compute power with mining partners willing to rent their GPU capabilities out. Conceived in 2009 by OTOY, inc. CEO Jules Urbach and launched in 2017, RNDR held its first public token sale in October of that same year, followed by a private sale period lasting from January 2018 – May 2018, wherein a total of 117,843,239 RNDR were sold at a price of 1 RNDR = $0.25 USD equivalent of token. During the private sale period, early adopters were onboarded onto the RNDR Beta Testnet, where beta node operators and artists worked collaboratively with the RNDR team in building and testing the network, up until its public launch on April 27th 2020.
+
+Tags:
+Crypto
+
+Links:
+website: https://render.x.io/
+twitter: https://twitter.com/RenderToken
+telegram: https://t.me/RenderTokenOfficial
+reddit: https://www.reddit.com/r/RenderToken/
+
+LastModified:
+03.12.2021 00:00:00
+

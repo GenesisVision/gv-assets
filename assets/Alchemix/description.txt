@@ -1,0 +1,20 @@
+Name:
+Alchemix
+
+Symbol:
+ALCX
+
+Description:
+Alchemix is a new DeFi lending protocol that just this month raised $4.9M. Its special sauce: loans that repay themselves automatically. Alchemix presents a new way of paying back debt. It uses the yield earned from the deposit to amortize the users’ debt. The longer you leave your deposit, the more yield you can earn and consequently have more of your loan paid back. 
+
+Tags:
+Crypto
+
+Links:
+website: https://alchemix.fi/
+twitter: https://twitter.com/AlchemixFi
+medium: https://alchemixfi.medium.com/
+github: https://github.com/alchemix-finance
+
+LastModified:
+03.12.2021 00:00:00
