@@ -1,0 +1,23 @@
+Name:
+Quant
+
+Symbol:
+QNT
+
+Description:
+Quant launched in June 2018 with the goal of connecting blockchains and networks on a global scale, without reducing the efficiency and interoperability of the network. It is the first project to solve the interoperability problem through the creation of the first blockchain operating system. The project is built as an operating system distributed ledger technology— and Overledger Network — for connecting different blockchain networks. The project is billed as the first OS to be built for blockchains. The main aim of Quant — using Overledger — is to bridge the gap that exists between different blockchains. The backbone of the project is the Overledger network, which Quant bills as the ecosystem on which the future digital economy ecosystem will be built. Overledger allows developers to build decentralized multi-chain applications (known as MApps) for their customers. For developers to build a Mapp on the network, they must hold a certain amount of Quant tokens (QNT).
+
+Tags:
+Crypto
+
+Links:
+website: https://www.quant.network/
+twitter: https://twitter.com/quant_network
+telegram: https://t.me/quantnetworkannouncements
+medium: https://quantnetwork.medium.com/
+reddit: https://www.reddit.com/r/QuantNetwork/
+
+LastModified:
+29.12.2021 00:00:00
+
+

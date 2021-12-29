@@ -1,0 +1,20 @@
+Name:
+Ooki Protocol
+
+Symbol:
+OOKI
+
+Description:
+Ooki is a decentralized protocol for margin trading, borrowing, lending and staking enabling the building of Decentralized Applications for lenders, borrowers, and traders to interact with the most flexible decentralized finance protocol on multiple blockchains. Ooki is a fully decentralized, community-run project, governed by the community vote for all major changes to the protocol.
+
+Tags:
+Crypto
+
+Links:
+website: https://ooki.com/
+twitter: https://twitter.com/ookitrade
+telegram: https://t.me/ookitrade
+instagram: https://www.instagram.com/ookitrade/
+
+LastModified:
+29.12.2021 00:00:00
