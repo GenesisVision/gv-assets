@@ -1,0 +1,21 @@
+Name:
+Mirror Protocol
+
+Symbol:
+MIR
+
+Description:
+MIR is the governance token of Mirror Protocol, a synthetic assets protocol built by Terraform Labs (TFL) on the Terra blockchain. Mirror Protocol is decentralized from day 1, with the on-chain treasury and code changes governed by holders of the MIR token. TFL has no intention of keeping or selling MIR tokens, and there are no admin keys or special access privileges granted. The intent for this is to be a completely decentralized, community-driven project. Mirrored assets are blockchain tokens that behave like "mirror" versions of real-world assets by reflecting the exchange prices on-chain. They give traders the price exposure to real assets while enabling fractional ownership, open access and censorship resistance as any other cryptocurrency. Unlike traditional tokens which serve to represent a real, underlying asset, mAssets are purely synthetic and only capture the price movement of the corresponding asset.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.mirror.finance/
+twitter: https://twitter.com/mirror_protocol
+telegram: https://t.me/mirror_protocol
+
+LastModified:
+11.01.2022 00:00:00
+
+

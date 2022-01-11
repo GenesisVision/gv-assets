@@ -1,0 +1,22 @@
+Name:
+Spell Token
+
+Symbol:
+SPELL
+
+Description:
+Spell Token (SPELL) is a reward token associated with abracadabra.money, a lending platform that uses interest-bearing tokens (ibTKNs) as collateral to borrow a USD-pegged stablecoin called Magic Internet Money (MIM). Abracadabra uses the Kashi Lending Technology pioneered by SushiSwap (SUSHI) to provide isolated lending markets that allow users to adjust their risk tolerance according to the collateral they decide to use. Users can deposit collateral and borrow MIM against it. Abracadabra also offers yield farming opportunities, where users can stake their liquidity provider (LP) tokens to farm SPELL. This facilitates better liquidity for certain cryptocurrency pairs, currently Ether (ETH)-Spell Token (SPELL) and Magic Internet Money (MIM)-LP 3pool Curve (3CRV). Furthermore, users can also open leveraged farming positions using borrowed MIM from their interest-bearing collateral.
+
+Tags:
+Crypto
+
+Links:
+website: https://abracadabra.money/
+twitter: https://twitter.com/MIM_Spell
+medium: https://abracadabramoney.medium.com/
+
+LastModified:
+11.01.2022 00:00:00
+
+
+

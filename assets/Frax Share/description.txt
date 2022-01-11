@@ -1,0 +1,19 @@
+Name:
+Frax Share
+
+Symbol:
+FXS
+
+Description:
+The Frax Protocol is the first fractional-algorithmic stablecoin system. Frax is open-source, permissionless, and entirely on-chain – currently implemented on Ethereum (with possible cross chain implementations in the future). The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC. The protocol incorporates the following concepts: Fractional-Algorithmic – Frax is a unique stablecoin with parts of its supply backed by collateral and parts of the supply algorithmic. The ratio of collateralized and algorithmic depends on the market's pricing of the FRAX stablecoin. If FRAX is trading at above $1, the protocol decreases the collateral ratio. If FRAX is trading at under $1, the protocol increases the collateral ratio. Decentralized & Governance-minimized – Community governed and emphasizing a highly autonomous, algorithmic approach with no active management.
+
+Tags:
+Crypto
+
+Links:
+website: https://frax.finance/
+twitter: https://twitter.com/fraxfinance
+telegram: t.me/fraxfinance
+
+LastModified:
+11.01.2022 00:00:00

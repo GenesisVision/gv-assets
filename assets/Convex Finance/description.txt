@@ -1,0 +1,21 @@
+Name:
+Convex Finance
+
+Symbol:
+CVX
+
+Description:
+Convex allows Curve.fi liquidity providers to earn trading fees and claim boosted CRV without locking CRV themselves. Liquidity providers can receive boosted CRV and liquidity mining rewards with minimal effort. If you would like to stake CRV, Convex lets users receive trading fees as well as a share of boosted CRV received by liquidity providers. This allows for a better balance between liquidity providers and CRV stakers as well as better capital efficiency. Convex has no withdrawal fees and minimal performance fees which is used to pay for gas and distributed to CVX stakers. CRV stakers and liquidity providers also receive liquidity mining rewards in the form of CVX.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.convexfinance.com/
+twitter: https://twitter.com/convexfinance
+telegram: t.me/convexEthChat
+
+LastModified:
+11.01.2022 00:00:00
+
+

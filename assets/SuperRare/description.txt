@@ -1,0 +1,20 @@
+Name:
+SuperRare
+
+Symbol:
+RARE
+
+Description:
+SuperRare is a premier NFT platform, boasting almost $90M of digital art collected and $3M in artist royalties paid to date. SuperRare emerged from its 1.0 version, where the core team hand-picked and approved artists to mint their works on a shared smart contract as SuperRare NFTs. SuperRare 2.0 changed that by introducing web-scale curation, independently running storefronts on the platform, and sovereign minting contracts for the artists to mint, promote, and sell their works directly to collectors. By embarking on this path of progressive decentralization, SuperRare shifted ownership and governance of the network to the community. SuperRare 2.0 is a DAO, a decentralized organization that oversees key platform parameters, allocates funds from the Community Treasury, and votes on proposed improvements to the network and protocol.
+
+Tags:
+Crypto
+
+Links:
+website: https://linktr.ee/superrare
+twitter: https://twitter.com/SuperRare
+
+LastModified:
+11.01.2022 00:00:00
+
+
