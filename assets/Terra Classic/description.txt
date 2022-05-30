@@ -1,0 +1,21 @@
+Name:
+Terra Classic
+
+Symbol:
+LUNC
+
+Description:
+Terra aims to build new financial infrastructure that works better for everyone. The network is powered by a family of stablecoins, each pegged to major fiat currencies all algorithmically stabilized by Terra’s native token, Luna. Terra’s mission is to set money free by building open financial infrastructure.
+
+Tags:
+Crypto
+
+Links:
+website: https://terra.money/
+twitter: https://twitter.com/terra_money
+telegra: https://t.me/TerraLunaChat
+
+LastModified:
+30.05.2022 00:00:00
+
+
