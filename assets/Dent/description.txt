@@ -1,0 +1,20 @@
+Name:
+Dent
+
+Symbol:
+DENT
+
+Description:
+Launched in 2017, Dent is a revolutionary digital mobile operator offering eSIM cards, mobile data plans, call minutes top-ups and a roaming-free experience. According to the company website, Dent employs blockchain technology’s powers to create a global marketplace for mobile data liberalization. The company has already attracted more than twenty-five million mobile device users, and Dent services are available in more than 140 countries. Enterprise partnerships for Dent include Samsung Blockchain, The Enterprise Ethereum Alliance and Telecom Infra.
+
+Tags:
+Crypto
+
+Links:
+website: https://www.dentwireless.com
+twitter: https://twitter.com/dentcoin
+telegram: https://t.me/dentcoin
+reddit: https://www.reddit.com/r/dent
+
+LastModified:
+24.08.2022 00:00:00
