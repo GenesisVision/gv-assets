@@ -1,0 +1,19 @@
+Name:
+Mask Network
+
+Symbol:
+MASK
+
+Description:
+Mask Network is a protocol that allows its users to send encrypted messages over Twitter and Facebook. It essentially acts as a bridge between the internet and a decentralized network running on top. Mask Network was initially launched in July 2019, with its first use case of allowing Facebook and Twitter users to encrypt posts on the social media platforms. It then raised $2 million in a funding round in November 2020, co-led by HashKey and Hash Global, and a further $3 million funding round in February 2021 with participation from Digital Currency Group and Fundamental Labs. Now, Mask Network offers the ability to fund Gitcoin grant campaigns directly from Twitter, as well as plans to offer peer-to-peer payments and decentralized storage functionality. It is a decentralized portal that also allows users to use DApps like crypto payments, decentralized finance, decentralized storage, e-commerce (digital goods/NFTs) and decentralized organizations (DAO) over the top of existing social networks without migrating, creating what is referred to as a decentralized Applet (DApplet) ecosystem.
+
+Tags:
+Crypto
+
+Links:
+website: https://mask.io
+twitter: https://twitter.com/realMaskNetwork
+telegram: https://t.me/maskbook_group
+
+LastModified:
+03.11.2022 00:00:00

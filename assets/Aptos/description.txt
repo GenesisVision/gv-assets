@@ -1,0 +1,21 @@
+Name:
+Aptos
+
+Symbol:
+APT
+
+Description:
+Aptos is a new, independent high-performance PoS Layer 1 project focused on delivering the safest and most scalable Layer 1 blockchain in the world. The Aptos blockchain leverages the Move programming language and the Move VM for application development, which are created and optimized for blockchain use cases. The team is comprised of the original creators, researchers, designers, and builders of Diem, the blockchain that was first built to serve this purpose. Aptos raised $200m from a16z, Multicoin, Binance and others. Aptos launched Devnet in mid March, incentivized testnet in late May and targets Q3 for mainnet launch.
+
+Tags:
+Crypto
+
+Links:
+website: https://aptoslabs.com
+twitter: https://twitter.com/AptosFoundation
+medium: https://aptoslabs.medium.com
+
+LastModified:
+03.11.2022 00:00:00
+
+

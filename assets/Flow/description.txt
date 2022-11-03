@@ -1,0 +1,20 @@
+Name:
+Flow
+
+Symbol:
+FLOW
+
+Description:
+The FLOW token (“FLOW”) is the native currency for the Flow network and the keystone for a new, inclusive, and borderless digital economy. If Flow is the digital infrastructure, FLOW token is the fuel that powers the network. FLOW is the currency required for the network and all the applications on top of it to function.  FLOW is designed as a payment method as well as a long-term reserve asset for the entire Flow economy. The token is used by validators, developers, and users to participate in the FLOW network and earn rewards. It is also used for fees and to participate in future protocol governance.
+
+Tags:
+Crypto
+
+Links:
+website: https://flow.com
+twitter: https://twitter.com/flow_blockchain
+telegram: https://t.me/flow_blockchain/99
+youtube: https://www.youtube.com/channel/UCs9r5lqmYQsKCpLB9jKwocg
+
+LastModified:
+03.11.2022 00:00:00
